@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "24A8PgkZiL"
+msgid "Neutralise the medium tank."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "33HsYSy31N"
+msgid "Best job I've ever had."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "6Bw31DrBwk"
+msgid "Regroup your M4A1 and CMD M4A1."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "7itnNk0qhC"
+msgid "Neutralise the Pz II Luchs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "8QMv6kCcVd"
+msgid "Finish the tutorial without any loss."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "8baLW1O5Eu"
+msgid "Rally Point"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "96wiucCl9O"
+msgid "Rally Point"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "BLk4NGNVmN"
+msgid "Rally Point"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "EWKY870y03"
+msgid "Neutralize %s enemy tanks"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "JAJVfscHQm"
+msgid "Neutralise the Pz IV G."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "JB72hXwr2t"
+msgid "Neutralise the experimented tank destroyer."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "PmZxx7lUff"
+msgid "Move your M4A1 to get a full range on the enemy tank."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "V4wIK0kODp"
+msgid "Rally Point"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "bsIsFnAQsm"
+msgid "Place your M10A1 DESTROYER here to be at range."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "ekgDbCsVse"
+msgid "Neutralize all enemy tanks\n(%s / %s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "fXKEZsmlFF"
+msgid "Neutralise the StuG III G."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "n79axK9LiU"
+msgid "Neutralise the light tank."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Localization.csv
+msgctxt "usLUGGVI2f"
+msgid "Place your M4A1 here to flank the enemy tank."
+msgstr ""
+

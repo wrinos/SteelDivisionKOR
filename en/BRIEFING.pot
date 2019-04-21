@@ -1,0 +1,1588 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_01a"
+msgid "June 10th, 1987. South Korean dictator Chun Doo-hwan, having reached the end of his official presidential mandate and willing to step down, announces his choice for a successor."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_01b"
+msgid "This appointment which oversteps any electoral process triggers the wrath of the students and the liberals, who were hoping for democratic reforms. "
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_01c"
+msgid "June 10th-18th, 1987. In a matter of days, over a million protesters take to the streets all over the country.\nUS forces in Korea are ordered to remain on lock-down in their barracks."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_02"
+msgid "North Korea does not fail to notice the situation in the South."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_03"
+msgid "Agents infiltrate designated circles in order to increase the level of chaos, while military forces are put on alert … "
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_04"
+msgid "June 19th, 1987. While police and security forces are about to be overwhelmed, President Chun mobilizes the Army in the streets."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_05"
+msgid "Hard-pressed and panicked by a hostile crowd, an officer orders his troops to fire. In a matter of minutes, the shooting spreads all over the streets of Seoul …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_06"
+msgid "June 19th-21st, 1987. The crackdown is brutal, resulting in over a thousand casualties and many more arrests."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_07"
+msgid "June 21st, 1987. With US troops still confined to their barracks and the ROK Army deployed in the streets, North Korean Leader Kim Il-Sung decides the time has come for Korea’s reunification …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_08"
+msgid "June 22nd, 1987. When the North Korean artillery barrage rolls over the DMZ at dawn, US and ROK units, disorganized by the civil unrest, are taken by complete surprise …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BP_09"
+msgid "June 22nd-27th, 1987. Within a few hours, the first lines of defense are overwhelmed.\nWithin a few days, the battered US & ROK units are pushed back to a last perimeter around the vital harbor of Busan …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BvD_01"
+msgid "November 3rd, 1978. Vietnam & the USSR sign a « mutual defense treaty » aimed at containing China’s influence."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BvD_02"
+msgid "December 25th, 1978. Two months later, with Soviet support, Vietnam launches a full-scale invasion of Cambodia, China’s ally."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BvD_03"
+msgid "January 1st, 1979. Deng Xiaoping meets Jimmy Carter, seeking American support against Vietnam."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BvD_04"
+msgid "February 15th, 1979. China terminates its 30-year-old Treaty of Friendship, Alliance and Mutual Assistance with the USSR."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BvD_05"
+msgid "February 17th, 1979. China invades Vietnam, and warns the USSR not to interfere."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BvD_06"
+msgid "February 1979. Nonetheless, the USSR sends warships and naval troops to Vietnamese waters, and calls in mechanized troops to the Sino-Soviet border."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BvD_07"
+msgid "Late February 1979. With its offensive bogged down in Vietnam, China realizes it can’t afford to let the USSR get the upper hand and stab it in the back."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BvD_08"
+msgid "March 2nd, 1979. Taking advantage of the absence of a main naval squadron and the  incomplete build up of Soviet forces, the PLA launches a surprise attack …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "BvD_09"
+msgid "Their objective: seizing and destroying the main Soviet supply base at Vladivostok."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "CJ_01"
+msgid "June 1982. The Falklands War, Margaret Thatcher’s war, ends in a complete British victory.\nThe « Iron Lady » is at the top of her popularity and influence."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "CJ_02"
+msgid "September 1982. While on an official visit to Beijing, the British Prime Minister expresses Britain’s wish to see China extending the lease of Hong Kong."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "CJ_03"
+msgid "Deng Xiaoping counters this by putting forward China’s will to recover all of its territories that are still under foreign administration."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "CJ_04"
+msgid "1983. For a year, negotiations are pursued with no positive results.\nWhen they reach a deadlock, the Chinese Premier bluntly states that he, « could walk in and take the whole lot this afternoon »."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "CJ_05"
+msgid "Encouraged by her aura as a victorious war leader in the Falklands, the British Prime Minister takes up the gauntlet and orders the reinforcement of Hong Kong’s garrison."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "CJ_06"
+msgid "In retaliation, China masses troops on Hong Kong’s border, hoping to force her to reconsider Britain’s position. "
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "CJ_07"
+msgid "Six months later, the « Iron Lady » hasn’t yielded an inch, and even convinces several Commonwealth States to stand alongside Britain …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "CJ_08"
+msgid "April 19th, 1984. What it was unable to recover through diplomacy, China decides to recover by force.\nOn April 19th, 1984, at 1 minute past  midnight, China recalls its ambassador to Great Britain after transmitting a last declaration of war …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_FIN_01"
+msgid "The Anglo-Canadians are re-embarking. It is a second Dunkirk!"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_FIN_02"
+msgid "The Americans have been beaten off at Omaha,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_FIN_03"
+msgid "only a few paratroopers remain to be mopped up in the Cotentin."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_FIN_04"
+msgid "The Allied invasion has failed to breach the Atlantic Wall!"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_01"
+msgid "On the morning of June 6th, the long-awaited Anglo-American invasion in France finally began."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_02"
+msgid "Spurred by Stalin's orders, the Western Allies have thrown all their forces into the battle in Normandy,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_03"
+msgid "where they have run right into our impregnable Atlantic Wall."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_04"
+msgid "The battle is now engaged, under the command of Field Marshal Rommel."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_05"
+msgid "The Desert Fox had placed his old 21. Panzer Division, the Heroes of the Afrika Korps, on alert,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_06"
+msgid "and unleashed them in a counter-attack against the British, North of Caen, in the very first hours of the Invasion!"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_07"
+msgid "The invasion has begun, Herr Major,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_08"
+msgid "Field Marshal Rommel is on the way back from Bavaria, and is already planning a counter-attack."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_09"
+msgid "In our sector, the invaders are British:"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_10"
+msgid "3rd Infantry Division at Lion-sur-Mer, commandos at Ouistreham."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_11"
+msgid "More troubling are the many reports of Anglo-Canadian paratroopers being dropped during the night, East of the Orne river."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_12"
+msgid "They have taken control of the last bridges standing over it, at Bénouville,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_13"
+msgid "thus preventing any movement from our Reserve Panzer Divisions against the invasion's flank."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_14"
+msgid "Major von Luck’s Kampfgruppe is advancing to engage them"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_15"
+msgid "with Oberst Oppeln's Panzers being expected to reinforce him later this afternoon."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_16"
+msgid "Our Kampfgruppe is in the most advanced position and closest to the landing zone."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_17"
+msgid "We are the only ones at hand able to hold back the expansion of the enemy beachhead."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_18"
+msgid "British troops are moving inland with armoured support."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_19"
+msgid "They are trying to link up with and reinforce their paratroopers at Bénouville bridge."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_20"
+msgid "Our orders are to prevent that link-up at all costs."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_21"
+msgid "Failure to do so will doom any attempt at wiping out the paratroopers and recapturing the bridge."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_22"
+msgid "A battlegroup from 736. Grenadier-Regiment is still holding in Ouistreham."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_23"
+msgid "They are besieged by Allied commandos supported by amphibious tanks."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_24"
+msgid "Deprived of leadership or supplies, they won’t hold much longer."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_25"
+msgid "If we could stretch our line and help them repel the assault,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M01_26"
+msgid "we would save a good number of men to bolster our ranks for future operations."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_01"
+msgid "Our delaying action has given the 736. Grenadier-Regiment enough time"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_02"
+msgid "to re-establish a line of defence inland,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_03"
+msgid "allowing our Kampfgruppe to regroup in reserve."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_04"
+msgid "But Major von Luck’s situation East of the Orne isn’t going as well."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_05"
+msgid "His counter-attack has stalled,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_06"
+msgid "And he is finding himself under increasing pressure from incoming paratroopers."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_07"
+msgid "Oberst Oppeln’s movements have been heavily hampered by allied bombings and Resistance sabotage"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_08"
+msgid "only a handful of his Panzers have been able to reach their assembly area"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_09"
+msgid "the rest are still delayed South of Caen."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_10"
+msgid "It befalls to us to remedy their absence."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_11"
+msgid "Our orders are to move East of the Orne and support Major von Luck’s renewed offensive."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_12"
+msgid "The objective remains the same: recapture the bridges at Bénouville!"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_13"
+msgid "British paratroopers are stubbornly defending every access to the Orne bridges."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_14"
+msgid "They are lightly equipped,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_15"
+msgid "although they have salvaged and turned against us one of our PaK-40s from the bridge’s garrison."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_16"
+msgid "Besides, any unit which managed to slip through our net this morning"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_17"
+msgid "can be expected to have reinforced them."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_18"
+msgid "With each passing hour, the British are receiving reinforcements,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_19"
+msgid "Major von Luck’s men have even encountered some light airborne tanks."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_20"
+msgid "Our own reconnaissance battalion has reinforced us, as well as some artillery elements,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_21"
+msgid "but reports indicate that British commandos have managed to take foot East of the Orne"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_22"
+msgid "and are moving with some tank support towards the bridge to relieve the paratroopers."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_23"
+msgid "Speed is of the essence here, Herr Major."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M02_24"
+msgid "The longer it takes to secure the bridge, the stronger the enemy resistance will become."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_01"
+msgid "Paratroopers and commandos have been forced to surrender the bridge and fall back."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_02"
+msgid "Major von Luck is in pursuit"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_03"
+msgid "while 346. Infantry Division is being rushed to take over this sector under cover of the night."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_04"
+msgid "As for the rest of our 21. Panzer,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_05"
+msgid "we do not seem to be done with British airborne troops."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_06"
+msgid "Before sunset yesterday,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_07"
+msgid "a second airborne wave landed by gliders in the 736. Grenadier-Regiment’s sector."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_08"
+msgid "Combined with a major advance from the beach, the 736. has disintegrated."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_09"
+msgid "The way to Caen is wide open to the Allies!"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_10"
+msgid "Our orders are to move back on the Western bank,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_11"
+msgid "taking with us any advanced elements from Oberst Oppeln’s battlegroup,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_12"
+msgid "and charge the old way to forestall the Allies’ own push forward."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_13"
+msgid "Our objective is to reach Lion-sur-Mer,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_14"
+msgid "thus driving a wedge between the British and Canadians’ beachheads."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_15"
+msgid "Then, they’ll be easy prey for our follow-up offensive,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_16"
+msgid "led by the freshly arrived 12. SS-Panzer."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_17"
+msgid "Lion-sur-Mer is only a few kilometres ahead,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_18"
+msgid "but to reach it, we’ll have to walk over another British airborne brigade."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_19"
+msgid "To do so we will be supported by Sturmartillerie’s Kampfgruppe Thannenberg."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_20"
+msgid "The Royal Air Force dominates the sky"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_21"
+msgid "and will give Allied ground troops all the support it can."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_22"
+msgid "The British paratroopers are aware they can’t stop us, but time plays for them:"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_23"
+msgid "all they need is to delay us long enough for reinforcements to come to their rescue."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_24"
+msgid "If we don't get rid of the paratroopers fast enough,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_25"
+msgid "we will be in danger of being outflanked."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_26"
+msgid "Hence, our mission is to reach Lion-sur-Mer with as many troops as possible"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_27"
+msgid "to effectively cut the Allied beachhead in two."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_28"
+msgid "Those troops will be all we can count on"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M03_29"
+msgid "until the 12. SS-Panzer delivers its blow."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_01"
+msgid "Lion-sur-Mer is in our reach, Herr Major. Well, for what is left of us..."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_02"
+msgid "Since only parts of our combined Kampfgruppen have made it,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_03"
+msgid "and with Oberst Oppeln being wounded this morning,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_04"
+msgid "you are to take command of all remaining 21. Panzer's elements in the upcoming battle."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_05"
+msgid "British & Canadian infantry divisions have fallen back around Lion-sur-Mer for a last stand."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_06"
+msgid "Fortunately, the 12. SS-Panzer’s offensive has started on schedule,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_07"
+msgid "and wiped out any resistance pocked in our rears."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_08"
+msgid "We will be able to count on their support"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_09"
+msgid "for the final assault on the Allied beachhead."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_10"
+msgid "We’re back where we started, Herr Major."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_11"
+msgid "The Anglo-Canadians are cornered, their backs to the sea."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_12"
+msgid "Yet they certainly don’t seem to be trying to evacuate, like at Dunkirk."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_13"
+msgid "Reports indicate that they are gathering troops North of Hermanville for a counter-offensive."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_14"
+msgid "They intend to regain the initiative to expand the beachhead again."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_15"
+msgid "Our orders are not only to prevent that,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_16"
+msgid "but to squash it before they can bring any more troops."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_17"
+msgid "Victory will be decided by who holds more ground at the end of the day, Herr Major."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_18"
+msgid "12. SS-Panzer will support our offensive"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_19"
+msgid "they’ve even detached a small armoured squadron under your command"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_20"
+msgid "to make up for our previous loss."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "GER_M04_21"
+msgid "Their brand new equipment will be a major addition to our forces."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "Narod_01"
+msgid "1945-1975. Japan-Soviet relationships are poisoned by the Soviet occupation of the Kuril Islands.\nHence, the two countries have not been able to ratify a formal peace treaty since the end of Wold War 2. "
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "Narod_02"
+msgid "1979-1980. The Soviet Union increases troops and naval assets in the Kuril area.\nJapan retaliates by hardening its stance towards the USSR and increasing its military spending …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "Narod_03"
+msgid "1982. Japan allows the deployment of US advanced F-16 bombers on its soil.\nThe USSR answers by transfering SS-20 missiles from Europe."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "Narod_04"
+msgid "1983. The Japanese Prime Minister declares his intent to turn Japan into an « unsinkable aircraft carrier ».\nThe reply from the USSR is immediate: « In an era of modern technology, unsinkable aircraft carriers do not exist »."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "Narod_05"
+msgid "November 1984. The joint US-Japanese naval exercise, FleetEx 85, in the Sea of Japan, gets as close as 500 nautical miles from Vladivostok.\nThe Soviet fleet is put on high alert."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "Narod_06"
+msgid "December 4th, 1984. FleetEx ends, but Soviet Navy Intelligence and the Politburo are convinced that it was just a rehearsal for a real, imminent, strike.\nThe green light is given for a preemptive strike on Japan and its US naval bases …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "Narod_07"
+msgid "December 6th, 1984. When the coded message « Climb Mount Narodnaya» is transmitted to Soviet forces, several airborne and naval infantry divisions are ready to strike Japan."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "Narod_08"
+msgid "At dawn, the first wave of Soviet paratroopers lands on Japan, while a mechanized thrust strikes from the Kuril islands …"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_FIN_01"
+msgid "Hill 112 is ours, let's hope it was worth the price we've paid for it."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_FIN_02"
+msgid "The Germans won't be able to hold around Caen anymore,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_FIN_03"
+msgid "now we are entering open country:"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_FIN_04"
+msgid "it is time to unleash our armoured forces."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_01"
+msgid "On June 6th, almost four years to the day after Dunkirk,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_02"
+msgid "our men landed back in France."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_03"
+msgid "Despite heavy enemy resistance and counter-attacks,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_04"
+msgid "we have established a strong beachhead into which armoured troops have been introduced."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_05"
+msgid "In the weeks to follow, in accordance with General Montgomery's master plan,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_06"
+msgid "those armoured forces have been focusing their attention on the German elite Panzer divisions around Caen."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_07"
+msgid "Caen should have been secured on D-Day,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_08"
+msgid "but all our attempts so far have failed."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_09"
+msgid "We are facing the heaviest and best divisions the Third Reich has to offer:"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_10"
+msgid "SS-Panzer-Divisions, battle-hardened men who would prefer to die"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_11"
+msgid "than surrender an inch of ground."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_12"
+msgid "But the stalemate is about to come to an end, with the arrival of VIII. Corps."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_13"
+msgid "Its fresh divisions will provide us with the strength needed to break this deadlock."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_14"
+msgid "The 15th Scottish Division will have the honour of leading the assault,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_15"
+msgid "the objective being Hill 112, a small height overlooking Caen."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_16"
+msgid "Hill 112 is the “Key to Normandy”:"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_17"
+msgid "once in our hands, the Germans will be unable to hold Caen."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_18"
+msgid "But before reaching Hill 112,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_19"
+msgid "your 46th (Highland) Brigade will have to secure Cheux, a major crossroads"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_20"
+msgid "which happens to be a strongpoint of the German main line of defence."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_21"
+msgid "To help you in your task,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_22"
+msgid "Churchill tanks from the 31st Tank Brigade will be supporting your advance."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_23"
+msgid "The enemy we are facing is the 12. SS-Panzer-Division."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_24"
+msgid "The «Baby Division», as we used to call it, mockingly"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_25"
+msgid "but those teenagers have proven themselves to be as tough as the most battle-hardened veterans,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_26"
+msgid "and more fanatical."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_27"
+msgid "Expect heavy resistance for the city itself from the Panzergrenadiers"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_28"
+msgid "and armoured counter-attacks to recapture any lost position."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_29"
+msgid "Intelligence also reports the presence nearby of elements from 21. Panzer"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_30"
+msgid "and heavy SS-Panzer-Abteilung 101 which could join the fight."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_31"
+msgid "It is vital that you hold Cheux, at any cost"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_32"
+msgid "for it will be the springboard of our future offensive toward Hill 112."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M01_33"
+msgid "Operation Epsom starts tomorrow at dawn. Be ready, gentlemen."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_01"
+msgid "The German front is yielding, but has yet to break."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_02"
+msgid "The salient that our division has dug into has brought us within reach of Hill 112,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_03"
+msgid "but one major obstacle stands in our way: the Odon river."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_04"
+msgid "We have to secure a crossing before the Germans regain their footing"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_05"
+msgid "and use it as a line of defence."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_06"
+msgid "The Germans have redirected every armoured unit in the sector towards us."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_07"
+msgid "Not only are they protecting the river crossings,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_08"
+msgid "but they seem intent on retaking lost ground."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_09"
+msgid "Our mission is to secure at least one of those bridges"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_10"
+msgid "and establish a beachhead on the other side of the Odon."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_11"
+msgid "It will be a head-on clash with some of the best German armoured units!"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_12"
+msgid "The choice of the point of crossing is left to you, General."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_13"
+msgid "Support battlegroups are waiting to advance, depending on which you secure."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_14"
+msgid "The Taillebosq Bridge is defended by an armoured battlegroup from 2. SS-Panzer."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_15"
+msgid "The area is mostly open country, with a wide range of fire."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_16"
+msgid "Pont Neuf is guarded by infantry with artillery support"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_17"
+msgid "and a few armoured vehicles from 1. SS-Panzer & 21. Panzer."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_18"
+msgid "The bridge lies in an extremely wooded area."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_19"
+msgid "The Mehaye Bridge is held by our old nemesis from 12. SS-Panzer,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M02_20"
+msgid "mostly Panzergrenadier supported by a few Panther tanks."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_01"
+msgid "We have our bridgehead across the Odon,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_02"
+msgid "already dubbed the “Scottish Corridor” by the rest of the Army, it being so thin."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_03"
+msgid "But the Germans haven’t failed to recognise the threat,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_04"
+msgid "and are concentrating all of their armoured divisions against us."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_05"
+msgid "They know they have to reduce our salient before we insert more troops,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_06"
+msgid "or lose Hill 112 before too long."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_07"
+msgid "11th Armoured Division will be taking the lead for the final push towards Hill 112."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_08"
+msgid "Our mission is to keep the road open for them."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_09"
+msgid "The Germans have been massing troops on both sides of the «Scottish Corridor»."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_10"
+msgid "They are expected to strike at any time now."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_11"
+msgid "In the East, Kampfgruppe Frey, from 1. SS & 21. Panzer Division."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_12"
+msgid "In the West, Kampfgruppe Weidinger, from 2. SS & 2. Panzer Division."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_13"
+msgid "Our orders are to keep them at bay"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_14"
+msgid "and make sure enough of the 11th Armoured get through"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M03_15"
+msgid "to be able to launch the final offensive against Hill 112."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_01"
+msgid "In the last 10 days since the 11th Armoured has led the charge South of the Odon,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_02"
+msgid "the Germans have fallen back everywhere, including Carpiquet and half of Caen,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_03"
+msgid "but they are still on top of Hill 112!"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_04"
+msgid "11th Armoured Division is being withdrawn due to heavy losses. We’re holding the line again."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_05"
+msgid "General Dempsey has ordered another attempt to be made against Hill 112."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_06"
+msgid "Codename is Operation Jupiter."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_07"
+msgid "The «Hill of Calvary» as the men have come to call it."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_08"
+msgid "It is held by the remains of 12. SS-Panzer,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_09"
+msgid "as well as two more recent SS-Panzer Divisions: the 9th & 10th."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_10"
+msgid "Our orders are to secure the top of Hill 112, and hold it!"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_11"
+msgid "For this, VIIIth Corps gives you command over the 4th Armoured Brigade."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_12"
+msgid "Its Sherman tanks should prove useful to reach the top."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_13"
+msgid "The RAF has also promised air support in the form of Typhoons & Mosquitos."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_14"
+msgid "Scouts are reporting that the remains of 12. SS-Panzer are spread thin over the whole front,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_15"
+msgid "while 9th & 10th SS-Panzer are gathered in the centre, no doubt to counter-attack."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_16"
+msgid "A frontal assault might therefore be a bad idea"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_17"
+msgid "while flanking manoeuvres may encounter less resistance."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_18"
+msgid "Once on top of the hill, we must be ready to repel anything that they might throw at us."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "UK_M04_19"
+msgid "And we can be assured they will…"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_FIN_01"
+msgid "Link-up with the 101st Airborne is made, and armoured forces are pouring in from the beaches."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_FIN_02"
+msgid "The beachhead is now secured. Time to go on the offensive."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_FIN_03"
+msgid "Next stop, Cherbourg."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_01"
+msgid "Last night, American and allied airborne forces boarded their planes"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_02"
+msgid "and took off towards France."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_03"
+msgid "Shortly after midnight this morning, and despite the German anti-aircraft defences,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_04"
+msgid "our boys set foot behind enemy lines in Normandy."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_05"
+msgid "In the meantime, at dawn, the greatest armada ever assembled opened fire,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_06"
+msgid "and proceeded to land assault troops on the shores of France."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_07"
+msgid "The liberation of Europe is underway as we speak."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_08"
+msgid "Both airborne divisions have been blown to the four winds all over the Cotentin Peninsula."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_09"
+msgid "Let’s hope it'll disorganise the Germans as we planned."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_10"
+msgid "Half the men have been misdropped, sir … including ourselves."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_11"
+msgid "We seem to have landed at the boundaries between our 82nd & the 101st,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_12"
+msgid "way too far from the division’s objectives at Sainte-Mère-Eglise and the bridges over the Merderet river."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_13"
+msgid "Yet we aren’t the only ones completely off mark:"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_14"
+msgid "the first amphibious assault wave has just hit the beach right on schedule"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_15"
+msgid "but much further South than planned!"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_16"
+msgid "That is: just East of our present position."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_17"
+msgid "New orders from Division HQ, sir:"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_18"
+msgid "You are placed in charge of a provisional Task Force"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_19"
+msgid "gathering any isolated paratroopers in the area, whatever their unit,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_20"
+msgid "and securing Audouville-la-Hubert"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_21"
+msgid "to allow our ground force to exit the beach as quickly as possible."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_22"
+msgid "The city and vicinities are held by a mere company of infantry:"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_23"
+msgid "we must seize it as quickly as possible, and put Audouville in a state of defence"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_24"
+msgid "to repel any attempts by the Germans to recapture it,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_25"
+msgid "and then counter-attack quickly to open the way."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_26"
+msgid "The German coastal defences are manned by auxiliary troops of poor military value,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_27"
+msgid "but they are supported by heavy guns."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M01_28"
+msgid "Any help we could provide in destroying those guns would hasten the amphibious forces’ advance inland."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_01"
+msgid "4th Infantry Division is still in the process of landing,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_02"
+msgid "but the Germans are starting to react,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_03"
+msgid "and closing on the beachhead from all sides."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_04"
+msgid "The 505th in Sainte-Mère-Eglise reports being under siege."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_05"
+msgid "We have to reinforce them ASAP, with any help the 4th Infantry Division can provide."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_06"
+msgid "Sainte-Mère-Eglise is surrounded on all sides, Major."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_07"
+msgid "Colonel Ekman, 505th‘s CO, reports heavy shelling and infantry attacks from the North"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_08"
+msgid "while tanks and armoured vehicles, mostly French captured ones, are attacking from the South."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_09"
+msgid "Up West, a Grenadier regiment has taken defensive position,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_10"
+msgid "preventing the 505th from reinforcing our other regiments at the Merderet's bridges."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_11"
+msgid "Colonel Ekman also reports some German paratroopers’ elements taking position East of the city"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_12"
+msgid "but not attacking. They must be here to prevent anyone from relieving our garrison."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_13"
+msgid "The 505th is running out of ammo: we must break through to them with supplies"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M02_14"
+msgid "then repel the German assaults until they back down."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_01"
+msgid "The situation is improving, sir."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_02"
+msgid "The beachhead is expanding North, relieving the pressure from Sainte-Mère-Eglise,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_03"
+msgid "and in the South the 101st Airborne is regrouping for an assault on Carentan."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_04"
+msgid "But the 507th & 508th’s situation on the Merderet river remains hazardous."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_05"
+msgid "They were scattered by the drops,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_06"
+msgid "and the crossings they were supposed to secure are still contested."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_07"
+msgid "And if that were not enough, the 508th’s 1st battalion’s CO was just killed."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_08"
+msgid "Division is sending you to take charge, Major."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_09"
+msgid "Your 1st battalion, 508th P.I.R., is holding a sector of the Merderet river, sir."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_10"
+msgid "So far, it's been able to prevent the Germans from crossing and threatening the bridgehead"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_11"
+msgid "but they’ve suffered heavy casualties, and are in desperate need of reinforcements."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_12"
+msgid "Besides, their last reports indicate that the Germans are bringing armoured support for their next assault."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_13"
+msgid "Aside from the 1st battalion’s elements already holding the crossings,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_14"
+msgid "we won’t have time to deploy further troops before they launch their attack."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_15"
+msgid "The rest of your troops will have to be engaged as they arrive."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_16"
+msgid "Our mission is to hold the main causeway long enough for the 70th Tank Battalion to reinforce us,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_17"
+msgid "and then with this support, to push the Germans back."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_18"
+msgid "Be aware that the Air Force indicate heavy AA cover in this sector."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M03_19"
+msgid "If we could locate and destroy those guns, they’ll bring the air support."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_01"
+msgid "With new divisions being brought ashore almost daily,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_02"
+msgid "we’re finally breaking through the German defences."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_03"
+msgid "Although the 101st is still heavily engaged in Carentan against German paratroopers"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_04"
+msgid "the 4th Infantry Division is opening the way to Cherbourg to the North"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_05"
+msgid "while the 90th is leading the charge West to cut the Cotentin in two."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_06"
+msgid "As for us, we’ve been given the opportunity to settle some scores"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_07"
+msgid "with our old friends from Panzer-Abteilung 100."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_08"
+msgid "We are about to link with elements from 101st Airborne coming from the South-East,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_09"
+msgid "trapping any German units still lingering North of us."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_10"
+msgid "Amongst which, the French Resistance has identified Panzer-Abteilung 100 retreating towards the village of Baupte,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_11"
+msgid "and attempted to harass it on its way."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_12"
+msgid "The ambush appeared to have worked well at first,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_13"
+msgid "until the local FFI partisans encountered Fallschirmjäger"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_14"
+msgid "forming the rearguard of the German column."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_15"
+msgid "The FFI have been pushed back in the woods, surrounded."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_16"
+msgid "Our orders are to link with the 101st and seal the pocket,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_17"
+msgid "destroying Panzer-Abteilung 100 in the process,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_18"
+msgid "and if we can, to give the partisans some assistance."
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_19"
+msgid "Yet beware of those Fallschirmjäger: they are no ordinary soldiers,"
+msgstr ""
+
+#: GameData:\Localisation\BRIEFING.csv
+msgctxt "US_M04_20"
+msgid "and Intelligence can’t tell us much about their strength."
+msgstr ""
+

@@ -1,0 +1,183 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "1P771TafmA"
+msgid "HOLD THE ORNES BRIDGES  (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "4hYgHBWFIO"
+msgid "SECURE THE ORNES BRIDGES  (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "5y2lEp8jY9"
+msgid "HOLD AMFREVILLE  (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "6AZB7hTOLI"
+msgid "HOLD RANVILLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "6rp14OhjfW"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "8QTCJdYhpQ"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "A4QkZTYyU4"
+msgid "TAKE BACK AMFREVILLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "AJcUuadMBB"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "BSeY2fAvuv"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "DHQcuBXaeh"
+msgid "The Allies hold the objectives."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "EFoeIjPj0d"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "FxxrVhM1Cg"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "GHrp63tDuS"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "GiYSRtMieE"
+msgid "HOLD THE ORNES BRIDGES (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "HECjC5k5ff"
+msgid "TAKE BACK THE ORNES BRIDGES (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "IyghkmspJW"
+msgid "HOLD AMFREVILLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "K0IxoDj8Kb"
+msgid "TAKE BACK BREVILLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "Lp4RrYNxYy"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "Mw1EviswDK"
+msgid "TAKE BACK RANVILLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "N2QgBlW8BT"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "NmiGZAQHiq"
+msgid "HOLD BREVILLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "PTYrg2qRlD"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "R7Jcdln7rL"
+msgid "SECURE RANVILLE  (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "TN9rEi67Cx"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "WtLWSK3Bel"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "XoedGTcFBF"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "ZdTSW9EaQE"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "c8WQL5spaK"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "fXKYisPwos"
+msgid "SECURE BREVILLE  (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "ghC79vcN7D"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "ie3eaFXktk"
+msgid "The Axis hold the objectives."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "kx8A4o3lFE"
+msgid "HOLD RANVILLE  (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "oSroW5mRY0"
+msgid "SECURE AMFREVILLE  (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Localization.csv
+msgctxt "uFcdyYBCnx"
+msgid "HOLD BREVILLE  (%s)"
+msgstr ""
+

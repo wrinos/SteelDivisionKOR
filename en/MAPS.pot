@@ -1,0 +1,2418 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "BBri_Vill1"
+msgid "To STE-MÈRE-ÉGLISE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "BBri_Vill2"
+msgid "LA FIÈRE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "BBri_Vill3"
+msgid "To ST-SAUVEUR"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "BBri_Vill4"
+msgid "LES HEUTES"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "BRATTALLY"
+msgid "Allied attack"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "BRATTAXIS"
+msgid "Axis attack"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Brea_Vill1"
+msgid "LA GAULE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Brea_Vill2"
+msgid "CHEUX"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Brea_Vill3"
+msgid "LE HAUT-DU-BOSQ"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Brea_Vill4"
+msgid "To ODON RIVER"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Brea_Vill5"
+msgid "To CAEN"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Brea_Vill6"
+msgid "GRAINVILLE-SUR-ODON"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Brea_Vill7"
+msgid "RAURAY"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "BreakText"
+msgid "Players have to create a battlegroup from several specific divisions, modified to fit this mode. These battlegroups are not compatible with other modes.\n\nBEWARE: all attacking and defending divisions in this scenario have the same income. Besides, each phase's requisition points will be granted IN FULL at the BEGINNING of each phase. You will not receive any more points until the beginning of the next phase!"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "BreakTitle"
+msgid "SCENARIO PRESENTATION\n--------------------------------\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Chall_01"
+msgid "Challenge_01"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Crac_Vill1"
+msgid "BLAINVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Crac_Vill2"
+msgid "BIÉVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Crac_Vill3"
+msgid "To LION-SUR-MER"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Crac_Vill4"
+msgid "MATHIEU"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Crac_Vill5"
+msgid "To BURON"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Crac_Vill6"
+msgid "To CAEN"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DCK_TESTIA"
+msgid "Deck Test IA"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DCK_TESTO"
+msgid "Deck Test OTAN"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DCK_TESTP"
+msgid "Deck Test PACT"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_11ADUK"
+msgid "11th Armoured Division"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_12SS"
+msgid "Reserve-Abteilung"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_16LW"
+msgid "16. Luftwaffe-Felddivision"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_1IDUS"
+msgid "26th Infantry Regiment"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_1Pc"
+msgid "1. Dywizja Pancerna"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_1Pz3"
+msgid "Kampfgruppe Weidenhaupt"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_1SS"
+msgid "Kampfgruppe Wisch"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_227IB"
+msgid "227th Infantry Brigade"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_29ID"
+msgid "116th Infantry Regiment"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_2ADCAN"
+msgid "2nd Canadian Armoured Brigade"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_2Pz"
+msgid "Panzeraufklärungs-Abteilung 2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_2RB"
+msgid "Rangers Composite Battalion"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_326IDA"
+msgid "Reserve-Abteilung"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_326IDB"
+msgid "Kampfgruppe von Kamecke"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_352ID"
+msgid "Kampfgruppe Heyna"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_3FJ"
+msgid "Kampfgruppe Schimpf"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_3ID"
+msgid "3rd Division Group"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_3IDC"
+msgid "Premade deck 3rd Canadian Infantry Historical battle"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_3IDCAN"
+msgid "3rd Canadian Infantry Division"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_3IDCRC"
+msgid "Régiment de la Chaudière"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_4ADCAN"
+msgid "4th Canadian Armoured Division"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_5PB"
+msgid "3rd Parachute Brigade"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_6GTB"
+msgid "6th Guards Tank Brigade"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_716ID"
+msgid "726. Grenadier-Regiment"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_736GR"
+msgid "736. Grenadier-Regiment"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_90IDUS"
+msgid "90th Infantry Division"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_KGK"
+msgid "Kampfgruppe Krause"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_KGL"
+msgid "Kampfgruppe von Luck"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DHB_SSPzK"
+msgid "II. SS-Panzer-Korps"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DS1_12SS"
+msgid "Premade deck GER Scenario 1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DS1_3CANH"
+msgid "Premade deck Hard CAN Scenario 1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DS2_3CAN"
+msgid "Premade deck CAN Scenario 2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DS3_352GR"
+msgid "Wehrm. DEF 352nd Infantry Div."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DS3_3ADUS"
+msgid "US. ATT 3rd Armored Division"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DS_GER9PZ"
+msgid "Premade deck UK 9PZ Scenario"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "DS_UK1SSB"
+msgid "Premade deck UK 1SSB Scenario"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "H112_Vill1"
+msgid "LA BRUYÈRE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "H112_Vill2"
+msgid "HILL 112"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "H112_Vill3"
+msgid "VIEUX"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "H112_Vill4"
+msgid "ESQUAY-NOTRE-DAME"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "H112_Vill5"
+msgid "to CAEN"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "H112_Vill6"
+msgid "LA COQUERIE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "H112_Vill7"
+msgid "AVENAY"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB01_DATE"
+msgid "#Arialbold{June 12th, 1944}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB01_HIOUT"
+msgid "Although they lost #Arialbold{Caumont-l'Eventé} quickly to the Big Red One, 2. Panzer's scouts managed to hide their weakness. Screening the gap behind them, they held La Londe long enough for reinforcements to arrive, preventing the Americans from tearing the German front apart before the Normandy campaign even really started.\n\nLa Londe would therefore remain in German hands for almost two more months, only being liberated by the British army during #Arialbold{Operation Bluecoat}.\n\nHow did #Arialbold{YOU} fare ?"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB01_MAP"
+msgid "#Arialbold{Caumont-l'Eventé}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB01_SCEOB"
+msgid "#Arialbold{AMERICANS}:\n\n- #Arialbold{Capture} the village of #Arialbold{La Londe} to break through the German screen.\n\n- Avoid excessive casualties.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Hold} the village of #Arialbold{La Londe} to prevent the Americans to break the German front.\n\n- Inflict enough casualties to break the American moral."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB01_SCEOF"
+msgid "#Arialbold{AMERICANS}:\n\n#Arialbold{26th Infantry Regiment} : this force regroups a full infantry battalion with its support weapons, all from the elite « Big Red One », as well as some armored cavalry elements.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Panzeraufklärungs-Abteilung 2}: with only two companies of armored infantry and scouts, supported by a handful of armed half-tracks, this force is the underdog. Only a skillful use of every single vehicle, as well as the ability to give up ground slowly, will prevent the enemy from breaking through."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB01_SCEPR"
+msgid "#Arialbold{Caumont's Gap} covers lost opportunity by US 1st Infantry Division to break the German front even before the Normandy campaign really started.\n\nAfter landing at « Bloody » Omaha with dreadful losses, the elite « Big Red One » moves carefully inland.\n\nNear Caumont-l'Eventé, unbeknownst to them, they advanced right into a major gap in the German defenses, virtually undefended: only two companies from 2. Panzerdivision's recon battalion are there, screening the complete lack of in-depth defense behind them …"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB02_DATE"
+msgid "#Arialbold{July 4th, 1944}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB02_HIOUT"
+msgid "Despite a staunch resistance from a  reduced company of young SS-Panzergrenadiers, the two Canadian battalions sent against #Arialbold{Carpiquet village} managed to secure the city after two hours of house-to-house fightings with the help of British 'Funnies', then held it all day against German counter-attacks.\n\nThings didn't go as well for the lone Canadian battalion sent against the #Arialbold{hangars}, which soon got several of its supporting tanks knocked out in the open by a German 88mm or dug-in tanks. After the initial assault got stopped in its tracks, a second one later in the day secured the hangars ...\n\n... but the #Arialbold{control buildings} proved too tough a nut to crack. Attacking in the wake of the fall of the hangars with massive air support, the Canadian tanks had to nonetheless move across the landing strip, completely in the open and in view of the German tanks & AA guns. After losing a dozen Shermans in short succession, the attack was called off.\n\nAlthough most of the airfield was now in Canadian hands, #Arialbold{Operation Windsor}'s goal of completely removing the German salient at Carpiquet wasn't met.\n\nHow did #Arialbold{YOU} fare ?"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB02_MAP"
+msgid "#Arialbold{Carpiquet}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB02_SCEOB"
+msgid "#Arialbold{CANADIANS}:\n\n- #Arialbold{Capture} both #Arialbold{Carpiquet village}, the #Arialbold{hangars} & the #Arialbold{control buildings}.\n\n- Avoid Excessive casualties.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Hold} as much objectives as you can among #Arialbold{Carpiquet village}, the #Arialbold{hangars} & the #Arialbold{control buildings}.\n\n- Inflict enough casualties to break the Canadian moral."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB02_SCEOF"
+msgid "#Arialbold{CANADIANS}:\n\n#Arialbold{3rd Canadian Infantry Division}: this mostly infantry force is supported by a few British AVRE & Crocodile tanks, its 25-pdr own divisional artillery as well as rocket Typhoons from RCAF. But almost entirely lacking tanks, it will have to rely on its armored counterpart to advance in open terrain.\n\n#Arialbold{2nd Canadian Armored Brigade}: but for a few scouts, this force is entirely composed of armored vehicles, mostly Sherman III, Sherman V & Firefly. Also attached to it are several artillery observers and a few Typhoon close air support planes. Lacking infantry, it will have to rely on its counterpart to advance in urban or wooden area.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Kampfgruppe Krause}: this battlegroup is built around three companies of (motorized) Panzergrenadiers, reinforced with a few support weapons, among which six precious 88mm Flak guns. Krause's mission is to hold long enough for reinforcements to arrive.\n\n#Arialbold{Reserve-Abteilung}: this ad hoc battlegroup regroups everything Kurt Meyer could muster and send to Krause's rescue, from a few Panthers to massive heavy artillery support, or even walking wounded units !"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB02_SCEPR"
+msgid "#Arialbold{Operation Windsor} covers the Canadian attempt at reducing the Carpiquet airfield salient held for a month by 12. SS-Panzer.\n\nOn July 4th, in the wake of a tremendous artillery barrage, the 3rd Canadian Infantry Division, supported by the tanks of 2nd Canadian Armored Brigade, launches a two-pronged attack on Carpiquet & its airfield.\n\nBut capturing the village in close combat is one thing, crossing the runway in the face of 88mm guns is another …"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB03_DATE"
+msgid "#Arialbold{July 6th, 1944}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB03_HIOUT"
+msgid "After breaking off the first three SS attacks on their position, the defenders of the #Arialbold{Eastern crossroad} were finally overrun by half a dozen Panthers and the survivors taken prisoners.\n\nExploiting their success and leaving only a token force to deal with the prisoners, the SS resumed their advance against the #Arialbold{Northern crossroad}, where the Canadian company defending it was the weakest of them all, having no chance to keep the Germans at bay on its own. Yet, the timely appearance at the most critical moment of the two Wolverines quickly put two Panthers in flames, sending the others in retreat.\n\nThe #Arialbold{Western crossroad}, where the Canadians were supposed to make their last stand, was never threatened. The #Arialbold{Eastern crossroad} was even retaken when the Panther left behind with some infantry was destroyed by the joint effort of a 6-pdr gun and a PIAT for the killing blow.\n\nThe Germans then gave up and retreated to their starting positions, harassed all the way by Typhoons & Canadian Shermans finally coming to the rescue.\n\nHow did #Arialbold{YOU} fare ?"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB03_MAP"
+msgid "#Arialbold{Carpiquet}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB03_SCEOB"
+msgid "#Arialbold{CANADIANS}:\n\n- #Arialbold{Hold} as much of the three #Arialbold{crossroads} within #Arialbold{Carpiquet village} as you can.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Capture} as much of the three #Arialbold{crossroads} within #Arialbold{Carpiquet village} as you can."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB03_SCEOF"
+msgid "#Arialbold{CANADIANS}:\n\n#Arialbold{Régiment de la Chaudière}: the Quebeckers holding Carpiquet village initially only have riflemen, Vickers HMG, mortars and light AT weapons (PIAT & 6-pdr) to hold the Panthers at bay. By chance, a pair of Wolverines was also present. But it would have to do until the cavalry, in the form of the 2nd Canadian Armoured Brigade's Shermans and RACF's Typhoon, arrive later in the day.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Kampfgruppe Weidenhaupt}: this 1. SS-Panzerdivision's battlegroup is built around III./1. SS-Panzergrenadier-Regiment reinforced with about twenty Panther tanks and some support elements from 12. SS-Panzerdivision. Even the Luftwaffe has contributed to this major counter-attack, providing a few fighters to cover the operation !"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB03_SCEPR"
+msgid "#Arialbold{Dawn of the Panthers} covers follow-up battle for Carpiquet in the wake of #Arialbold{Operation Windsor}, two days earlier.\n\nWhile the Canadians had captured the village of Carpiquet and the hangars of the airfield, they had failed to secure the control building.  But 12. SS-Panzerdivision's commander Kurt Meyer wasn't a man to content himself with a partial defensive victory, or defeat: the next day, he scrapped together whatever units he could muster and launched counter-attacks after counter-attacks to recapture the lost positions. To no avail.\n\nBut at dawn on July 6th, the Quebeckers holding Carpiquet village are faced not only with their young SS Nemesis, but also about two dozens of Panthers from 1. SS-Panzerdivision called in support!"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB04_DATE"
+msgid "#Arialbold{July 18th, 1944}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB04_HIOUT"
+msgid "Briefly liberated but quickly abandoned twice on June 6th & 7th, #Arialbold{Escoville} had to wait for #Arialbold{Operation Atlantic} to be liberated almost without a fight on the wake of the preliminary barrage.\n\nThe Canadians had been ordered to secure Colombelles village and its #Arialbold{steelworks} (or the ruins of it) at all cost … and so they did. Despite heavy casualties, they secured the village at 5 PM, while another battalion entered the steelworks just before dusk: the hunt for German snipers and isolated pockets of resistance went on all night, but the #Arialbold{steelworks} was definitively in Canadian hands the next morning.\n\nThe Northern outskirts of #Arialbold{Giberville} were captured by the Canadians, but had to be abandoned in the face of an incoming Allied barrage, before being reoccupied later. By the end of the day, only part of the village was really secured.\n\nHow did #Arialbold{YOU} fare ?"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB04_MAP"
+msgid "#Arialbold{Colombelles}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB04_SCEOB"
+msgid "#Arialbold{ALLIES}:\n\n- #Arialbold{Capture} the #Arialbold{steelworks} and the villages of #Arialbold{Escoville} & #Arialbold{Giberville} to open the way to the Bourguebus Ridge to the British armored divisions.\n\n- Avoid excessive casualties.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Hold} or #Arialbold{recapture} the #Arialbold{steelworks} and the villages of #Arialbold{Escoville} & #Arialbold{Giberville} to foil Operation Goodwood.\n\n- Inflict enough casualties to break the Canadian moral."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB04_SCEOF"
+msgid "#Arialbold{CANADIANS}:\n\n#Arialbold{3rd Canadian Infantry Division}: attacking Colombelles village & steelworks with one brigade in front, 3rd CID relies mostly on riflemen, Vickers HMG, mortars and light AT guns, with plenty of fighter-bombers in support. But with only a dozen Shermans, it will have to rely a lot on its British counterpart to deal with any serious armored threat.\n\n#Arialbold{11th Armoured Division}: the « Black Bull » fields plenty of Cromwell, Shermans & Firefly and lead charges in tank country. Unfortunately, with its already few motor infantry delayed in the rear, it lacks most means to deal with villages and wooded area. Bypassing them or cooperating closely with the Canadian infantry will be the key to advancing.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{16. Luftwaffe-Felddivision}: the disheartened Luftwaffe infantry is no match for the Canadians, but they have ample MG and Flak guns to support them and clear the sky over their head. But with only a few medium anti-tank guns and only two StuGs of its own, it will have to rely on its counterpart to deal with major armored threat …  or wait for the heavy tanks from s.Panzer-Abteilung 503 later in the day.\n\n#Arialbold{21. Panzer}: KG von Luck is a well-balanced armored battlegroup composed of armored infantry & artillery, Panzer IV, assault guns and tank destroyers. Its main weaknesses lie with its modest air defense capacity, a defect its counterpart can compensate, and its limited amount of therefore precious infantry. Later in the day, its medium tanks are reinforced with some heavy ones from s.Panzer-Abteilung 503."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB04_SCEPR"
+msgid "#Arialbold{Operation Atlantic} covers the Canadian contribution to the larger British #Arialbold{Operation Goodwood}.\n\nThe objective was to secure the Bourguebus-Verrières Ridge South of Caen to deny the Germans any chance of holding the city any longer: while British armored divisions were to charge in open country East of the Orne River, the Canadian infantry was to advance alongside the river, securing the tanks' right flank.\n\nBut from the start, things didn't go as planned, and the British armored divisions quickly went behind schedule, giving the Germans time to recover from the preliminary Allied bombardement and forcing 11th Armoured, the leading British armoured division, to leave its infantry behind to deal with pockets of resistance …"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB05_DATE"
+msgid "#Arialbold{August 21st, 1944}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB05_HIOUT"
+msgid "Desperate to break out, the trapped Germans hurled themselves at the Polish battlegroup: settling centuries-old scores, the two opponents knew better than to ask (or grant) quarters to their bitter enemies.\n\nThe German tide was so overwhelming that it enveloped the Polish position on top of #Arialbold{Mont Ormel}, reducing it to almost nothing … yet the Poles kept fighting.\n\nWhen the Poles finally ran out of ammunition, they had to fight off the remaining waves with rifle butts or knives. Dead enemies were found mixed together in the same trenches, and German corpses had to be removed from the top of Polish tanks they had been climbing on to take them out hand to hand.\n\nMeanwhile, the American 90th Infantry Division and Polish battlegroup Zgorzelski were fighting to hold #Arialbold{Chambois}, sealing the Southern part of the pocket and preventing most germans from escapaing, all the while trying to extend a hand toward the trapped Poles on Mont Ormel.\n\nAlready fighting in #Arialbold{Saint-Lambert} to seal the Northern part of the pocket, 4th Canadian Armoured Division was both too weak and too late to completely seal the Northern route, allowing many Germans to escape to freedom. Yet, Canadian heavy artillery, masterly directed from inside the Polish positions by #Arialbold{Captain Sévigny}, proved essential to the survival of the defenders.\n\nFinally, the attack from outside the pocket by elements from II. SS-Panzer-Korps failed to crack the Polish position, but manage to help to create a corridor in the Northern part of the battlefield through which several thousand German soldiers, including commander-in-chief #Arialbold{Paul Hausser}, managed to escape the trap.\n\nHow did #Arialbold{YOU} fare ?"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB05_MAP"
+msgid "#Arialbold{Mont-Ormel}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB05_SCEOB"
+msgid "#Arialbold{ALLIES}:\n\n- #Arialbold{Hold} the #Arialbold{Mont Ormel} at all cost to prevent the Germans from escaping the pocket.\n\n- Inflict enough casualties to break the German moral.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Capture} the #Arialbold{Mont Ormel} from the Poles to break out of the pocket.\n\n- Avoid excessive casualties."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB05_SCEOF"
+msgid "#Arialbold{ALLIES}:\n\n#Arialbold{1. Dywizja Pancerna}: the main Polish force is the only one able to deploy in numbers on top of Mont Ormel to prevent it from quickly falling to the Germans escapees or relief force. But doing so they'll isolate themselves away from their reinforcement, coming back from the South where they had linked with the American. Well balanced forces, the Polish battlegroups only lack heavy artillery support, to be provided by its Canadian & American allies.\n\n#Arialbold{4th Canadian Armoured Division}: organized as a British armored division but almost entirely equipped with American equipment, 4th CAD relies mostly on tanks, with heavy artillery and bomber support to smash its way to the Poles. Lacking in infantry, it fields an unusual armored recon regiment equipped not with Cromwell or Stuart, but full-fledged Shermans !\n\n#Arialbold{90th Infantry Division}: coming from the South, the « Though Ombres » rely on a strong core of infantry, backed up with light tanks and a few Shermans. It also gets heavy support from USAAF's fighter-bombers.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Kampfgruppe Schimpf}: formed around a core of battle-hardened 3. Fallschirmjäger-Division's veterans leading the way for the rest of the infantry column, it can rely on a strong AA support, as well as a few individual tanks, including the last functional Tigers.\n\n#Arialbold{KampfgruppeWisch}: composed of almost all the combat vehicles left in the pocket, mostly from 1. & 12. SS-Panzer as well as 116. Panzer, it relies on tanks, armored cars & mechanized infantry, with only a few individual AA & artillery guns to cover its advance.\n\n#Arialbold{II. SS-Panzer-Korps}: elements from 2. & 9. SS-Panzerdivision already outside the pocket are striking back to help the escapees break through the Polish positions. Although taking longer to build up its strength, it is a well-balanced force with ample AA & artillery support, as well as supplies.  "
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB05_SCEPR"
+msgid "#Arialbold{A Polish Battlefield} covers the climax of the Normandy campaign, when the converging Allies armies trapped the German Seventh Army in the Falaise Pocket.\n\nWhen a battlegroup from 1st Polish Armoured Division occupied Mont-Ormel on August 19th, it effectively sealed the trap on the Germans. But what could 2.000 Poles against 150.000 Germans seeking to escape?\n\nTo do so, the Germans within the pocket organized all the troops still in fighting conditions in two columns: most of the armored vehicles in the South under a core of 1. & 12. SS-Panzer elements, and most of the infantry under 3. Fallschirmjäger control in the North. On June 20th, coordinating with an attack by (what was left of) II. SS-Panzer-Korps from outside the pocket, those columns hurled themselves at the Poles to overrun them on their way to freedom.\n\nMeanwhile, Allied reinforcements were on their way from both North & South to link with the beleaguered Poles attacked from East & West."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB06_DATE"
+msgid "#Arialbold{July 30th, 1944}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB06_HIOUT"
+msgid "The inexperienced 326. Infanterie-Division couldn't withstand the Allied offensive, being quickly brushed aside by the joint effort of 15th Scottish Infantry Division & 6th Guards Tank Brigade, thus allowing for the liberation of #Arialbold{La Londe} in the first hours of the offensive.\n\nBut the neighbouring 43rd Infantry Division, which was supposed to secure #Arialbold{Cahagnes} on the first day, was delayed by minefields & unfavourable terrain, preventing the city to fall on schedule.\n\nBy a twist of fate, it is this delay which allowed three Jagdpanthers to attack from Cahagnes into the left flank of 6th Guards Tank Brigade, only screened by a squadron of Churchill left near the city. In a matter of minutes, a dozen Churchills were bursting in flames … Cahagnes was to remain German until the next day !\n\Nonetheless, Bluecoat was a clear British victory, both breaking through the center of the German AND tying there troops which were supposed to take part in #Arialbold{Unternehmen Lüttich}, the failed counter-offensive against the Americans near Mortain.\n\nHow did #Arialbold{YOU} fare ?"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB06_MAP"
+msgid "#Arialbold{Caumont-l'Eventé}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB06_SCEOB"
+msgid "#Arialbold{BRITISH}:\n\n- #Arialbold{Capture} both villages of #Arialbold{Cahagnes} & #Arialbold{La Londe}.\n\n- Avoid excessive moral.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Hold} both villages of #Arialbold{Cahagnes} & #Arialbold{La Londe}.\n\n- Inflict enough casualties to break the British moral."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB06_SCEOF"
+msgid "#Arialbold{BRITISH}:\n\n#Arialbold{227th Infantry Brigade}: the now battle-hardened Scots are an infantry-centric force, with no armored support by for a few Crocodiles & AVRE. With only light artillery of its own, it can rely on the RAF to provide close air support, but will have to count on its counterpart to provide armored support.n\n#Arialbold{6th Guards Tank Brigade}: only recently landed in Normandy, the 6th Guards Tank Brigade is almost entirely equipped with Churchill tanks. But as a mere supporting brigade, it doesn't have infantry, recon nor AT guns of its own, relying entirely on its infantry counterpart for this.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Kampfgruppe von Kamecke}: this force is built around Oberst von Kamecke's Grenadier-Regiment 752, reinforced with some artillery and tank destroyers, including some of the dreadful Jagdpanther.\n\n#Arialbold{Reserve-Abteilung}: this force is composed of whatever units the 326. ID's divisional commander could muster under his personal command to counter-attack the British breakthrough. It includes elements from the Pioniers & Füsiliers battalion, supported by the division StuG company and divisional artillery."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB06_SCEPR"
+msgid "#Arialbold{Operation Bluecoat} covers the final British offensive which broke the German front in the wake of the successful American #Arialbold{Operation Cobra}.\n\nStriking at the boundary between the German Panzergruppe West & 7. Army and barely a week after the elite 2. Panzer holding it was replaced by the inexperienced 326. Infanterie-Division, the British troops had a field day breaking through the German front.\n\nThat was, before some Jagdpanthers unexpectedly showed up on a rampage ... "
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB07_DATE"
+msgid "#Arialbold{June 7th, 1944}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB07_HIOUT"
+msgid "Ignoring enemy defenses along the coast, the relief column kept its combat pace despite enemy fire and bombardment, to the amazement of the Germans who called it a « #Arialbold{crazy march} ».\n\nBut were the Germans couldn't stop or even slow down the relief column, conflicting orders and rumors did. The column's commander, upon being told that a German counter-attack had wiped out the Omaha beachhead and that Panzers were coming on his back, refused to abandon his mission but couldn't entirely dismiss the news. Halting his column, he went on a personal reconnaissance back to Vierville, where he learned that no German Panzer had been seen.\n\nBeing too late to keep marching in the dark, the column only resumed its advance on the next morning, reaching the survivors at the #Arialbold{Pointe du Hoc} on D-Day +2. There, decimated and out of ammo, the surviving Rangers had resolved to use German machine-guns to defend themselves, prompting tragic friendly-fire incidents when the relief column arrived and fired at « German MG nest ».\n\nOut of the 225 Rangers who assaulted the Pointe, only about 90 were still able to fight, and out of them, just 51 unscathed.\n\nHow did #Arialbold{YOU} fare ?"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB07_MAP"
+msgid "#Arialbold{Pointe du Hoc}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB07_SCEOB"
+msgid "#Arialbold{AMERICANS}:\n\n- #Arialbold{Hold} the isolated #Arialbold{Pointe du Hoc}.\n\n- #Arialbold{Capture} the German headquarter at the #Arialbold{castle}.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Capture} the #Arialbold{Pointe du Hoc}.\n\n- #Arialbold{Protect} the headquarter set in the #Arialbold{castle}."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB07_SCEOF"
+msgid "#Arialbold{AMERICANS}:\n\n#Arialbold{Rangers Composite Battalion}: this force regroups what remains of the 2nd Rangers' assault force surrounded at the Pointe, as well as the rest of the battalion and survivors from 5th Rangers (which « led the way » out of Omaha Beach) and the Rangers Gun Company. Incidentally, a handful of misdropped 101st Airborne paratroopers had joined the defenders of the Pointe on D-Day.\n\n#Arialbold{116th Infantry Regiment}: a reinforced infantry battalion with half a company of Sherman DDs attached, as well as some AA half-tracks & armored cars.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{726. Grenadier-Regiment} : elements from 716. Infanterie-Division, reinforced with alarm units from the Kriegsmarine, are manning the coastal defense and heavy batteries.\n\n#Arialbold{Kampfgruppe Heyna}: elements from Grenadier-Regiment 914 reinforced with some of the division's self-propelled guns."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB07_SCEPR"
+msgid "#Arialbold{Rangers lead the way} covers the American rescue attempt to relieve the besieged Rangers at Pointe du Hoc on D-Day +1.\n\nAfter performing their famous cliffs climbing in the face of the enemy, considered by many as a suicide operation, two companies from 2nd Ranger Batallion at Pointe du Hoc became out of touch with the rest of the invasion army. Considered dead by most, it was not until the next day that a relief column moved from Omaha to secure the position and save what could be of the assault force.\n\nWhen learning that the place had been captured and was still held by captain Rudder's men, the relief column rushed to the rescue …"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB08_DATE"
+msgid "#Arialbold{June 6th, 1944}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB08_HIOUT"
+msgid "Reinforced in the nick of time by 3rd Infantry Division, Major Howard's Ox & Bucks company managed to keep hold of the #Arialbold{bridges at Bénouville}.\n\nSurrounded for most of the day, the paratroopers (including 6th Airborne Division's CO General Gale) in #Arialbold{Ranville} broke eight German counter-attacks before being relieved by Lord Lovat's commandos. By the end of the day, the 6th Airlanding Brigade managed to land around the city, despite the LZ being still under German fire.\n\n#Arialbold{Amfreville} fell to the joint effort of the British & Canadian paratroopers from Merville and the British & French commandos from 1st SSB. Yet, by the end of June 6th, the Germans were still counter-attacking the village which couldn't be considered as entirely secured.\n\n#Arialbold{Bréville} proved to be the « village too far »: on June 6th, the British & Canadian paratroopers from 3 Para Brigade weren't strong enough to expel its garrison, which was quickly reinforced. Several attacks were launched against Bréville in the next days, by the paratroopers, commandos or elements from 51st Infantry Division, but the Germans held their position until June 13th !\n\nHow did #Arialbold{YOU} fare ?"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB08_MAP"
+msgid "#Arialbold{Pegasus Bridge}"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB08_SCEOB"
+msgid "#Arialbold{BRITISH}:\n\n- #Arialbold{Hold} both the #Arialbold{bridge} & #Arialbold{Ranville} to secure the airborne bridgehead for the arrival of the 6th Airlanding Brigade.\n\n- #Arialbold{Capture} both the #Arialbold{Bréville} & #Arialbold{Amfreville} to link up with the British & Canadian paratroopers dropped around Merville.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Capture} both the #Arialbold{bridge} & #Arialbold{Ranville} to crush the airborne bridgehead.\n\n- #Arialbold{Hold} both the #Arialbold{Bréville} & #Arialbold{Amfreville} to prevent the two airborne forces around Merville & Bénouville to link up."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB08_SCEOF"
+msgid "#Arialbold{BRITISH}:\n\n#Arialbold{3rd Para Brigade}: 3 Para had been dropped further North, near Merville and must now link up with the main airborne bridgehead. Initially moving on its objectives with what few & lightly equipped men it could muster during the night, it gets reinforced over the course of the battle with more airborne troops, including the airborne tanks & anti-tank or AA guns. Reinforcements may come from both across the bridge (elements from 5 Para Brigade) and the direction Vierville (elements from 3 Para Brigade).\n\n#Arialbold{3rd Division Group}: is made of layers of different units. First are elements from 5 Para Brigade holding the objectives until being relieved, but later builds up its strength with commandos, DD tanks and then the 'Iron Division' own infantry.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{736. Infanterie-Regiment}: Unfortunately for the 716. Infanterie-Division, both the landings at Omaha, Gold, Sword & Junot AND the British airborne landing occurred in its sector! Stretched thin, gathering whatever intervention force it could from its dispersed garrison, its 736. Grenadier-Regiment is nevertheless the first unit to stand against the British paratroopers.\n\n#Arialbold{Kampfgruppe von Luck}: Built around a core of 21. Panzer's Panzergrenadier, assault guns and armored artillery, with one Panzer IV company in support, KG von Luck is amongst the first mobile forces to counter-attack the Allied invasion on D-Day. With a simple goal: recapturing the bridges at Bénouville."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB08_SCEPR"
+msgid "#Arialbold{Operation Deadstick} covers the battle between British & German troops for British airborne bridgehead on D-Day.\n\nWhile the paratroopers have secured the bridges at Bénouville and the village of Ranville on the eve of the Allied invasion, they have to hold them under increasing pressure from the Germans until reinforcements get through them from Sword Beach.\n\nMeanwhile, paratroopers from 3rd Para Brigade dropped further North around Merville are now trying to link up with the main bridgehead."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB1Colbl"
+msgid "Operation Atlantic (July 18th, 1944) #2vs2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB1ColblD"
+msgid "Operation Atlantic"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB1Text"
+msgid "The Attackers only control a small portion of the field, and their mission is to take and hold three objectives without suffering excessive losses (whilst maintaining control of at least 10% of the map).\n\nThe Defenders control the largest part of the map and must retain control of at least one objective and inflict enough losses to the Attacker’s forces."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB2MOrmDES"
+msgid "On July 15th, 1944, general Montgomery approved general Dempsey’s plan for an armored Scythe swoop around Caen’s Eastern flank to break through the German defenses and liberate the Norman capital city.\nWithin that grand plan, codenamed 'Operation Goodwood', the Canadian contribution was to be known as 'Operation Atlantic': an advance along the Orne river to capture the Colombelles steelwork factory (which for weeks had provided the Germans with a clear field of view over any Allied movement) and its neighboring villages. Meanwhile, the British VIII. Corps, composed of no less than three armored divisions (Guards, 7th & 11th) attacking together, was to smash through the enemy lines on the Canadians' left flank and size the Bourguebus-Verrières ridge South of Caen to deny the Germans any chance of holding the city any longer.\n\nOn the start line facing Colombelles, East of the Ornes, was the now battle-hardened 3rd Canadian Infantry Division which had stormed Juno Beach over a month before, and to their left the British 11th Armoured Division, spearheading the VIII. Corps’ offensive.\n\nFacing them, holding the German front, was the 16. Luftwaffe-Felddivision, a second-rate unit but supported in its immediate rear by Kampfgruppe von Luck from the veteran 21. Panzerdivision and even the Tigers & brand new Königstigers from schwere Panzer-Abteilung 503 in reserve.\n\nOperations 'Goodwood' & 'Atlantic' were initiated on July 18th, with complete allied air superiority and after a tremendous artillery & air bombardment shattering the 16. Luftwaffe’s positions. Immediately, the Canadians rushed forward and penetrated the first enemy lines, only to meet stiffening resistance as they closed on the Colombelles steelwork itself, due to the timely arrival of von Luck’s Panzergrenadiers.\nIn the more open terrain East of the Canadians, VIII. Corps’ armored divisions had a bad start due to an unreported minefield: forced to wait for the engineers to clear a way, the armored thrust was greatly delayed, giving the German defenders time to recover. As a consequence, the leading 11th Armoured Division had to very soon leave its rare infantry behind to deal with pockets of resistance while the tanks kept advancing unsupported."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB2MOrmel"
+msgid "A Polish Battlefield (August 21st, 1944) #3vs3"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB2MOrmelD"
+msgid "A Polish Battlefield"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB3Blueco"
+msgid "Operation Bluecoat (July 30th, 1944) #2vs2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB3BluecoD"
+msgid "Operation Bluecoat"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB3PtHoc"
+msgid "Rangers Lead The Way (June 7th, 1944) #2vs2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB3PtHocD"
+msgid "Rangers Lead The Way"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB4Cauml"
+msgid "Caumont's Gap (June 12th, 1944) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB4CaumlD"
+msgid "Caumont's Gap"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB4MSBl"
+msgid "Dawn of the Panthers (July 6th, 1944) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB4MSBlD"
+msgid "Dawn of the Panthers"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB5Carpt"
+msgid "Operation Windsor (July 4th, 1944) #2vs2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB5CarptD"
+msgid "Operation Windsor"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB6Dstck"
+msgid "Operation Deadstick (June 6th, 1944) #2vs2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB6DstckD"
+msgid "Operation Deadstick"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HBTTLES"
+msgid "HISTORICAL BATTLES"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB_SCEHO"
+msgid "HISTORICAL OUTCOME\n--------------------------------\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB_SCEOB"
+msgid "OBJECTIVES\n--------------------------------\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB_SCEOF"
+msgid "--------------------------------"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HB_SCEPR"
+msgid "SCENARIO PRESENTATION\n--------------------------------\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HS01"
+msgid "BURON SOLO"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HS02"
+msgid "BURON COOP"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_1"
+msgid "Press U to disembark the transport unit's passengers at the present location."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_10"
+msgid "Press C to display the line of sight from the position of your cursor."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_11"
+msgid "Press P to pause the game while you can still give orders."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_2"
+msgid "Press Y + left click on the map to disembark the transport unit's passengers at a given location."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_3"
+msgid "Press A for the unit to move under cover (as much as possible) until spotting an enemy, then stop and engage it."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_4"
+msgid "Press T to fire on a given position."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_5"
+msgid "Press B to fire smoke rounds."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_6"
+msgid "Press F to move fast using the road network. Unit won't stop its movement even if spotting an enemy or being engaged."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_7"
+msgid "Press I to display the unit's stats sheet."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_8"
+msgid "Press G to call in an off-map artillery strike."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint1_9"
+msgid "Press SHIFT to display the unit's ongoing order(s)."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint2_1"
+msgid "The AUTO-FILL button automatically fills your battlegroup with units."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint2_2"
+msgid "The EXPORT & IMPORT buttons allow you to share battlegroups with friends."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint2_3"
+msgid "The AUTO-COVER order is the default one for all units, except vehicles: when idle, a unit will always seek nearby cover."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint2_4"
+msgid "The RETURN FIRE order commands a unit not to engage an enemy, unless under fire themselves."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint2_5"
+msgid "The ARMOUR BUSTER icon indicates that the unit carries an anti-tank weapon, usually very effective but only at very close range."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint2_6"
+msgid "Units with an AP value only, can't engage infantry. It is often the case for many anti-tank guns."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint2_7"
+msgid "You can evaluate your unit's chances to hit & penetrate with the feedback displayed under the mouse pointer, when highlighting a target."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint2_8"
+msgid "Any game with spectator mode activated can be observed. Simply click on the Spectate button in the game list."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_1"
+msgid "Recon & dedicated anti-tank teams (Bazooka, PIAT, Panzerschreck) don’t generate an area of influence."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_10"
+msgid "Heavy bocages are like natural walls: infantry can get through them, but not vehicles."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_11"
+msgid "Infantry units can launch an assault inside a building and engage its occupants in close combat."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_12"
+msgid "Non-recon planes can't see ground targets and need to be guided on target by friendly ground units (or a recon plane)."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_13"
+msgid "A routed unit surrenders to an enemy moving into close combat range, if no friendly unit is there to protect it."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_14"
+msgid "Leaders are extremely important, and impact nearby units in four ways: increasing their experience by one level, preventing surrender, allowing a surrounded unit to function normally, and halving the suppression damage received."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_15"
+msgid "Even if hidden, a unit will be seen by the enemy as soon as it uses its weapons."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_16"
+msgid "Some light anti-tank guns can be positioned in buildings to get a defensive bonus."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_2"
+msgid "If an unarmed transport is targeted by enemy fire, it will automatically disembark its passengers before disappearing."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_3"
+msgid "An armoured vehicle doesn't always take damage from a hit: the anti-tank round may bounce off it, or just stun the crew."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_4"
+msgid "If an anti-tank round pierces through a tank's armour, it might destroy it on the spot... unless it suffers a critical hit."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_5"
+msgid "Unlike other troops, airborne units (identified by their wings) don't suffer morale penalties if surrounded in enemy territory."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_6"
+msgid "Weapons can be activated or deactivated individually in the unit selection menu."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_7"
+msgid "Artillery observers can call in powerful off-map strikes. They can be identified by their dedicated icon."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_8"
+msgid "A reinforcement arrow can't be used if located within enemy territory."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint3_9"
+msgid "A unit surrounded in enemy territory won't be able to regain suppression, and once routed is most likely to surrender."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_1"
+msgid "Experience is essential, increasing key statistics depending on unit types (accuracy, morale, RoF, optics...). Also, remember that leaders add one level of experience to nearby units."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_10"
+msgid "Position your anti-tank guns & machine-guns under cover of vegetation or a building, but never in the open."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_11"
+msgid "Even the heaviest tanks are vulnerable if attacked from the sides or the rear."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_12"
+msgid "Even the heaviest tanks are vulnerable to close-range bazooka attacks."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_13"
+msgid "Satchel charges and flamethrowers can deal with infantry units very quickly, but their range is VERY limited."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_14"
+msgid "Don't bring your transport too close to the enemy: if destroyed, its passengers will be killed too!"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_15"
+msgid "In solo campaign mode, spare your troops, for you will be able to use them again in the following missions of the same campaign."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_16"
+msgid "The closer an anti-tank round is fired at an enemy armoured vehicle, the more powerful it will be (unless it is a HEAT round, unaffected by range)."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_17"
+msgid "Against enemy aircrafts, anti-air guns are the shield and fighters are the sword.\nThe formers suppress them until they fall back, while the latters shoot them down."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_2"
+msgid "Infantry is much more vulnerable to enemy fire while moving. Only advance under enemy fire as a last resort."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_3"
+msgid "Any infantry unit close to an enemy vehicle will automatically try to disable it with hand grenades or mines. Open-top vehicles are especially vulnerable to such attacks."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_4"
+msgid "Always move in HUNT mode if there is a risk of enemy units being nearby."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_5"
+msgid "In deployment mode, always favour positioning your units on roads."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_6"
+msgid "Forcing an enemy unit to surrender is the fastest way of neutralising it."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_7"
+msgid "Always try to seize and hold key defensive positions on the centre of the map, before your opponent."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_8"
+msgid "Church towers provide a better field of view over the horizon, especially for recon units."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Hint4_9"
+msgid "Always remember to keep your units supplied with ammunitions, especially heavy-use artillery units."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HistoForcs"
+msgid "OPPOSING FORCES"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HistoText"
+msgid "This mode gives you the opportunity to play historical battles as they were fought. Battlegroups are pre-made and can't be modified, as are the settings, to match historical conditions as far as possible.\n\nThe player(s) mission is to capture objectives or hold objectives assigned to the officers they will be impersonnating."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "HistoTitle"
+msgid "SCENARIO PRESENTATION\n--------------------------------\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "ItRM_Vill1"
+msgid "FAUVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "ItRM_Vill2"
+msgid "GAMBOSVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "ItRM_Vill3"
+msgid "STE-MÈRE-ÉGLISE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "ItRM_Vill4"
+msgid "To LA FIÈRE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "ItRM_Vill5"
+msgid "To CHEF-DE-PONT"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "ItRM_Vill6"
+msgid "To MONTEBOURG"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "ItRM_Vill7"
+msgid "To RAVENOVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "ItRM_Vill8"
+msgid "To ECOQUENEAUVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "LobbyC112L"
+msgid "Last stand on Hill 112 (Allied attack)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "LobbyC112X"
+msgid "Last stand on Hill 112 (Axis attack)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "LobbyCheuL"
+msgid "Offensive on Cheux (Allied attack)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "LobbyCheuX"
+msgid "Offensive on Cheux (Axis attack)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "LobbyColbL"
+msgid "Assault on Colombelles (Allied attack)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "LobbyColbX"
+msgid "Assault on Colombelles (Axis attack)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "LobbyMerdL"
+msgid "Crossing the Merderet (Allied attack)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "LobbyMerdX"
+msgid "Crossing the Merderet (Axis attack)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M01US"
+msgid "Mission 1: Hedgerow Hell"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M01USDesc"
+msgid "\n Major Warren,\n\n The invasion is well underway, although not exactly as we had planned it. But we will start the war from right where we are.\n\nAs for you, the primary objective of your Task Force is to secure the crossroad at Audouville-la-Hubert and ambush any German forces trying to move against Utah Beach. Then, counterattack as soon as possible to open the way of Sainte-Mère-Eglise for the 4th Infantry Division's assault units. Speed is of the essence here.\n\nYour secondary objective is to locate and silence the heavy AT guns and howitzer slowing the 4th Division's advance inland.\n\n--------------\nMAIN OBJECTIVE\nSecure the way for the DD tanks."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M01USR"
+msgid "Main objective: Secure the way for the DD tanks."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M02US"
+msgid "Mission 2: Blood on the Risers"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M02USDesc"
+msgid "\n Major Warren,\n\n 4th Infantry Division is moving inland, expanding the beachhead. But the success of Overlord is still in the balance: our paratroopers have been dropped in a somewhat cavalier manner and regimental objectives are being held by mere companies and battalion. We need to reinforce them.\n\n Your objective, with the advanced elements of 4th Infantry Division under your command, is to get to Sainte-Mère-Eglise as fast as possible to secure the 505th Parachute Regiment. They are too few, and almost out of munitions. Get to them, re-supply them, and help them to fight off the German counter-attacks.\n\nYou will get priority support from the Air Force & Navy guns to help clear your way for that mission.\n\n--------------\nMAIN OBJECTIVE\nLink up with the paratroopers in Sainte-Mère-Eglise."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M02USR"
+msgid "Main objective: Link up with the paratroopers in Sainte-Mère-Eglise."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M03US"
+msgid "Mission 3: Burning Bridges"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M03USDesc"
+msgid "\n Major Warren,\n\n The immediate threat against Sainte-Mère is lifted, but it is merely a respite. The Germans are gathering forces West of the Merderet river and trying to secure a crossing to get back at Sainte-Mère.\n\n Your orders are to get there, take command of the 508th's 1st battalion and prevent the Germans from securing the main causeway's bridge until we can send you more reinforcements. Then, once you've built up enough strength, your objective is to attack the German concentration area and repel them.\n\nAs a secondary objective, try to locate and destroy a major anti-aircraft, next preventing the Air Force from operating in the area. If you can neutralise it, air support will be directed your way.\n\n--------------\nMAIN OBJECTIVE\nHold the bridge."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M03USR"
+msgid "Main objective: Hold the bridge"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M04US"
+msgid "Mission 4: Iron Fist"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M04USDesc"
+msgid "\n Major Warren,\n\n Panzer-Ersatz-Abteilung 100 has been located near the village of Baupte. It seems its old tanks are slowing its retreat, which gives us the opportunity to trap it between your battalion and elements from the 101st Airborne coming the opposite way!\n\n Your orders are to link with the 506th, from 101st Airborne, thus trapping as many German troops as possible between you.\n\n As a secondary objective, try to get in contact with the local Resistance: they seem a bit over-eager to get to grips with the retreating occupier, and could be of some help if you are able to channel their zeal.\n\n--------------\nMAIN OBJECTIVE\nDefeat the Germans."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "M04USR"
+msgid "Main objective: Defeat the Germans"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_008"
+msgid "Merderet"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_009"
+msgid "Sainte-Mère-Eglise"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_009b"
+msgid "Sainte-Mère-Eglise - Duellists"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_009c"
+msgid "Sainte-Mère-Eglise - Close Quarters"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_010"
+msgid "Carpiquet"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_010b"
+msgid "Carpiquet - Duellists"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_011"
+msgid "Pegasus Bridge"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_012"
+msgid "Omaha"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_013"
+msgid "Colombelles"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_014"
+msgid "Odon"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_014b"
+msgid "Odon - River"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_015"
+msgid "Colleville"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_016"
+msgid "Mont Ormel"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_017"
+msgid "Pointe du Hoc"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_018"
+msgid "Bois de Limors"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_019"
+msgid "Cheux"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_020"
+msgid "Caumont L'Eventé"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_021"
+msgid "Cote 112"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_021b"
+msgid "Cote 112 - Duellists"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MAP_022"
+msgid "Sword"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION1"
+msgid "Mission 1: It's a long way…"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION1D"
+msgid "\n Sir Colin,\n\n It is your 46th (Highland) Infantry Brigade's honour to lead the way for Operation Epsom.\n\nYour primary objective is not only to take the village of Cheux, but more importantly to hold it. It is vital that Cheux remains in our hands in order for Epsom to proceed according to plan.\n\nThe 31st Tank Brigade will be supporting your attack, but it lacks infantry: protect them with some of your own to make sure they reach the objective quickly and provide you with all the support they can.\n\n--------------\nMAIN OBJECTIVE\nTake & hold Cheux."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION1G"
+msgid "Mission 1: Sie kommen!"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION1GD"
+msgid "\n Oberst Rauch,\n\n The long-awaited Allied invasion has begun, here, in Normandy. Field Marshal Rommel has no doubt that it is not a diversionary operation, but the Allies' main attack trying to establish a bridgehead. \n\nAs our division's most advanced battlegroup, your primary objective is to hold the enemy tide and prevent its assault units from linking up with the paratroopers dropped at our back during the night.\n\nYour secondary objective, if feasible, is to provide support to the 736. Grenadier-Regiment's battalion besieged in Ouistreham, and prevent its destruction.\n\n--------------\nMAIN OBJECTIVE\nPrevent the enemy from reaching Bénouville."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION1GR"
+msgid "Main objective: Prevent the enemy from reaching Bénouville."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION1R"
+msgid "Main objective: Take and hold Cheux."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION2"
+msgid "Mission 2: Battle for the Odon"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION28"
+msgid "Training 1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION28D"
+msgid "Armored fight training exercice"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION2D"
+msgid "\n Sir Colin,\n\n The Germans have been shaken by our breakthrough at Cheux, but they are recovering quickly. We need to hurry and cross the Odon before they can reorganise.\n\n Your orders are to secure at least one bridge over that river, and establish a beachhead on the other side. Corps assets are on alert to give you support and exploit a crossing as soon as you have secured one.\n\nBe careful, the Germans won't easily let us set foot on the other side of the Odon, and they are building for a counter-offensive.\n\n--------------\nMAIN OBJECTIVE\nDefeat the Germans."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION2G"
+msgid "Mission 2: Pegasus Bridge"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION2GD"
+msgid "\n Oberst Rauch,\n\n The British paratroopers holding the bridge at Bénouville are now isolated from the main beachhead. This is an opportunity to wipe them out, which we won't get again.\n\nYour objectives are to attack and retake that bridge from them before they can be reinforced by commandos and more airborne troops coming in from Merville.\n\n--------------\nMAIN OBJECTIVE\nSecure the Orne bridges."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION2GR"
+msgid "Main objective: Secure the Orne bridges."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION2R"
+msgid "Main objective: Defeat the Germans"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION3"
+msgid "Mission 3: The Scottish Corridor"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION3D"
+msgid "\n Sir Colin,\n\n It is time for the 11th Armoured Division to take the lead, in preparation for the final assault on Hill 112. The Germans won't allow this to happen, and will strike at the 11th while it is vulnerable, en route to its concentration area.\n\nYour mission is to keep the « Scottish Corridor » open: secure the road, and protect the 11th Armoured's convoys. They must get through at all costs.\n\nThe Germans have been concentrating armoured troops on both sides of the corridor, so expect them to try to take you in a pincer movement.\n\n--------------\nMAIN OBJECTIVE\nProtect the 11th Armoured's convoy."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION3G"
+msgid "Mission 3: Panzer Vor!"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION3GD"
+msgid "\n Oberst Rauch,\n\n With the Bénouville bridge now secured, Field Marshal Rommel has ordered the concentration of our 21. Panzer & 12. SS-Panzer divisions to strike against the beachhead and push the Allies back into the sea. But the British, well aware of the danger, have already deployed troops on our main axis of advance.\n\nYour orders are to strike now without delay, and pierce the British defences before they are too strong, in order to bring as many troops as possible in front of Lion-sur-Mer before the end of the day.\n\nThe 12. SS-Panzer division will be following in your wake to support the final push against the beachhead, therefore you won't have to worry about your rear.\n\n--------------\nMAIN OBJECTIVE\nBreak through toward Lion-sur-Mer with a sizable force."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION3GR"
+msgid "Main objective: Break through towards Lion-sur-Mer with a sizeable force."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION3R"
+msgid "Main objective: Protect the 11th Armoured's convoy"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION4"
+msgid "Mission 4: Over the hill and far away"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION4D"
+msgid "\n Sir Colin,\n\n He who controls Hill 112, controls Normandy. It is in German hands right now, but in due time it must pass into ours.\n\nYour objective is simple: to seize the top of Hill 112. Break through the II. SS-Panzer-Korps defences, clear the plateau, and then prepare your defensive positions, for the Jerries won't give it up so easily.\n\nMake sure to hold the top of that hill whatever the cost, and give us Normandy, General.\n\n--------------\nMAIN OBJECTIVE\nTake & hold Hill 112."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION4G"
+msgid "Mission 4: The Lion's Den"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION4GD"
+msgid "\n Oberst Rauch,\n\n This is our one and only chance of defeating the invasion: either we succeed in throwing the Allies back to the sea here and now, or we get trapped between the Canadian & British forces. This is going to be the fight of our life"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION4GR"
+msgid "Main objective: Defeat the Anglo-Canadians."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "MISSION4R"
+msgid "Main objective: Take & hold Hill 112"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Mis_01"
+msgid "Mission_01"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP1"
+msgid "OPERATION EPSOM #star#star"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP1D"
+msgid "[WORK IN PROGRESS]:"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP1DHG"
+msgid "Gordon MacMillan\nMajor General\n15th Infantry Division"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP1MID"
+msgid "Operation Epsom, also known as the First Battle of the Odon, was a major British offensive taking place between 26th and 30th June 1944, during the Battle of Normandy.\n\nThe objective was to outflank and seize Hill 112, a small height overlooking Caen and the Normandy lowlands. Hill 112 was considered the « Key of Normandy »: whoever held it could control the city of Caen, a major Allied objective from Day 1 of the invasion."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP1TOP"
+msgid "DATE:\nJune 26th-July 10th, 1944\n\nPLAYABLE SIDE:\nAllied\n\nDIVISION:\n15th (Scottish) Infantry Division\n\nPLAYED AS:\nBrig.Gen. Sir Colin Muir Barber\n\n***\n\n#gras{Difficulty: Very Hard}\n\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP1aDHD"
+msgid "Creully, June 26th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP1bDHD"
+msgid "Creully, June 27th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP1cDHD"
+msgid "Creully, June 28th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP1dDHD"
+msgid "Creully, July 10th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP2"
+msgid "ATLANTIKWALL #star"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP2DC"
+msgid "\n\nMISSION ORDER\n--------------------------------\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP2DHG"
+msgid "Edgar Feuchtinger\nGeneralleutnant\n21. PanzerDivision"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP2MID"
+msgid "By the end of June 6th, a small Kampfgruppe from the 21. Panzer had managed to reach Lion-sur-Mer, effectively splitting the British-Canadian beachhead in two and threatening the very landings at Sword & Juno beaches. Yet, lacking support, it had to retreat, for fear of being overrun by the Allied tide.\n\n\n#gras{'What if'} Rommel, overstepping the Führer’s orders, had massively thrown the available Panzer-Divisions against the Allies’ beachhead, his old 21. Panzer leading the charge, from the earliest hours of the assault? Might history have been different?"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP2TOP"
+msgid "DATE:\nJune 6th-7th, 1944\n\nPLAYABLE SIDE:\nAxis\n\nDIVISION:\n21.Panzer-Division\n\nPLAYED AS:\nOberst Joseph Rauch\n\n***\n\n#gras{Difficulty: Hard}\n\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP2aDHD"
+msgid "Caen, June 6th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP2bDHD"
+msgid "Caen, June 6th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP2cDHD"
+msgid "Caen, June 7th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP2dDHD"
+msgid "Caen, June 7th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP3"
+msgid "MISSION BOSTON"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP3DHG"
+msgid "Matthew Ridgway\nMajor General\n82. Airborne Division"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP3MID"
+msgid "« Mission Boston » was the codename for the US 82nd Airborne Division's combat drop over Cotentin on June 6th. This veteran division from Sicily & Italy played a crucial role in D-Day's planning, for it landed at the extreme right flank of the invasion, which it had to secure at all costs.\n\nAlthough the drop went better (or less badly) than its sister-division the 101st, the 82nd was scattered all over Cotentin and, as a consequence, understrength or ad-hoc units went on fighting to secure objectives intended for much larger outfits, such as Sainte-Mère-Eglise and the Merderet crossings…"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP3TOP"
+msgid "DATE:\nJune 6th-11th 1944\n\nPLAYABLE SIDE:\nAllied\n\nDIVISION:\n82nd Airborne Division\n\nPLAYED AS:\nMajor Shield Warren\n\n***\n\n#gras{Difficulty: Medium}\n\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP3aDHD"
+msgid "Near Turqueville, June 6th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP3bDHD"
+msgid "Turqueville, June 7th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP3cDHD"
+msgid "Sainte-Mère-Eglise, June 8th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP3dDHD"
+msgid "Sainte-Mère-Eglise, June 11th 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "OP6"
+msgid "TUTO"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "PHASE_A"
+msgid "A"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "PHASE_B"
+msgid "B"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "PHASE_C"
+msgid "C"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Parr_Vill1"
+msgid "To BÉNOUVILLE & BRIDGES"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Parr_Vill2"
+msgid "ST-AUBIN"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Parr_Vill3"
+msgid "COLLEVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Parr_Vill4"
+msgid "OUISTREHAM"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Parr_Vill5"
+msgid "LION-SUR-MER"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Parr_Vill6"
+msgid "HERMANVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Parr_Vill7"
+msgid "CRESSERONS"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Parr_Vill8"
+msgid "PLUMETOT"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Pega_Vill1"
+msgid "RANVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Pega_Vill2"
+msgid "PEGASUS BRIDGE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Pega_Vill3"
+msgid "BÉNOUVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Pega_Vill4"
+msgid "BREVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Pega_Vill5"
+msgid "AMFREVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Pega_Vill6"
+msgid "OUISTREHAM"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Pega_Vill7"
+msgid "to MERVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Pega_Vill8"
+msgid "to COLOMBELLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01"
+msgid "LAST STAND IN BURON"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01Desc"
+msgid "\n\Brigadefuhrer Fritz Witt tragically died during a bombardment by the Royal Navy on the Divisional Command post in Venoix near Caen on 14th Jun 1944. This tragic event had important repercussions for you. Standartenfuhrer Kurt “Pannzer” Meyer was summoned to the Korps command post and ordered to take command of the Division. Following on from that your Commanding Officer, Obersturmbannfuhrer Karl-Heinz Milius assumed command of 25 Th Panzer Grenadier Regiment and by doing so you took over command of III Battalion.\n\nInactivity has caused you to become broody – that is in the past. Right now the enemy are to your front. You took command of III Battalion in Buron, a small Normandy village that had been the scene of much fighting on the 7Th June. At one point the village had fallen to the Canadians and was held against a strong counter attack. However, it was casually abandoned during the night only to be occupied by men from your Battalion. It has been in German hands ever since. You shake your head and chuckle to yourself at the thought of anyone ever giving up such an excellent defensive position. The Canadians must be mad to have given up such a place.\n\n Over the last few days both you and the Canadians have been patrolling the area heavily. Your troops have participated in many raids to take prisoners and interrogation has revealed that there will shortly be a big attack in this sector. Coupled with this there have been many reports from observers indicating a build-up of men and material across the front and a gradual increase in air activity. No matter. You are ready. Your men are ready.  The defences are ready. Supplies and ammunition have been distributed. The civilians evacuated to safety.  It will be a hard fight.  It will be a good fight ! The enemy guns open up. You look at your watch 0730. You shake your head and chuckle again - these Canadians are so predictable.\n\nYou are to hold Buron."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01Fail"
+msgid "\n\nTry again !\n\WIP:\n\n  * WIP\n  * WIP"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01PhseB"
+msgid "CANADIAN SECOND WAVE IN %1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01PhseC"
+msgid "GERMAN REINFORCEMENTS IN %1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01SAPhseA"
+msgid "Starting Canadian's First Wave !"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01SAPhseB"
+msgid "Starting Canadian's Second Wave !"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01SAPhseC"
+msgid "German reinforcements arrived !"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01Sandbox"
+msgid "BURON - SANDBOX"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S01Vict"
+msgid "\n\nCongratulations !\n\WIP:\n\n  * WIP\n  * WIP"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S02"
+msgid "ASSAULT ON BLOODY BURON"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S02Cheux"
+msgid "CHEUX - SCENARIO"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S02Desc"
+msgid "\n\Monty is convinced that the only way to breach the German defences around Caen is by an all-out frontal attack. He has called this Operation CHARNWOOD and has planned a attack, employing 3 Infantry Divisions. Your 3rd Canadian Division is to assault Buron, take it, hold it and move forward to take the high ground beyond.\n\nBuron - the village that fell to the North Novas the day after D-Day and was held against a strong counter attack only to be casually abandoned that night.  Buron - the village that has been in German hands ever since. Buron - the village your lads have been staring at every day for a month. Buron - the village which has been shelling your positions in “Hell’s Corner” almost continuously - day and night. Buron - the village that has been fortified little by little by the Panzer Grenadiers of the Hitlerjugend Division. Buron - the village you hate! Many of your comrades are dead or lie in British hospitals because of Hitlerjugend mortar bombs and shells. Rumour has it that this division shot dead seventeen POWs from the Winnipeg Rifles. You can understand why your Battalion is pretty fired up and ready for a fight.\n\nYour intelligence is good, especially about enemy obstacles. Apparently the whole place is a network of minefields and trench systems, the worst of which are two large Anti-Tank Ditches just north of the village. Enemy dispositions are known pretty well. The North Novas took a SS POW 3 days ago who has been singing like a bird. He says that there are 2 Companies of the 25th Panzer Grenadier Regiment in and around the village. Air activity has been increasing over the last 24 hours and last night was full of the sound of bombers as they pounded the enemy positions. This improved the lads morale 500%. They are anxious to get at the enemy in Buron now.\n\nYou look at your watch but do not need it to tell the time as 100 or more guns behind you announce that it is 0730. Your pipe major shouts and the skirl of bagpipes fills the air.\n\nYour forces are to take and hold Buron."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S02Fail"
+msgid "\n\nTry again !\n\WIP:\n\n  * WIP\n  * WIP"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S02Vict"
+msgid "\n\nCongratulations !\n\WIP:\n\n  * WIP\n  * WIP"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S03SteMreE"
+msgid "SAINTE-MERE-EGLISE - SCENARIO"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S04Carpt"
+msgid "CARPIQUET - SCENARIO"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "S05ColblD"
+msgid "WIP WIP WIP"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SCE01HD"
+msgid "Buron, July 8th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SCE01HG"
+msgid "Hauptmann Fritz Steger\nCommanding Officer III Battalion\n25th Panzer Grenadier Regiment"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SCE02HD"
+msgid "Buron, July 8th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SCE02HG"
+msgid "Franklyn M. Griffiths\nLt. Col The Highland Light Infantry of Canada\n9th Highland Brigade"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SCEN"
+msgid "BREAKTHROUGH"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SCENAR01"
+msgid "\n\n\n\n\nLAST STAND IN BURON\n--------------------------------\n\n\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SCENAR02"
+msgid "\n\n\n\n\nASSAULT ON BLOODY BURON\n--------------------------------\n\n\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA1CheuxL"
+msgid "Offensive on Cheux (Allied attack) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA1CheuxX"
+msgid "Offensive on Cheux (Axis attack) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA1ColblL"
+msgid "Assault on Colombelles Steelwork (Allied attack) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA1ColblX"
+msgid "Assault on Colombelles Steelwork (Axis attack) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA1Ct112L"
+msgid "Last stand on Hill 112 (Allied attack) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA1Ct112X"
+msgid "Last stand on Hill 112 (Axis attack) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA1MerdeL"
+msgid "Crossing the Merderet (Allied attack) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA1MerdeX"
+msgid "Crossing the Merderet (Axis attack) #1vs1"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA2CheuxL"
+msgid "Offensive on Cheux (Allied attack) #2vs2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA2CheuxX"
+msgid "Offensive on Cheux (Axis attack) #2vs2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA2ColblL"
+msgid "Assault on Colombelles Steelwork (Allied attack) #2vs2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFA2ColblX"
+msgid "Assault on Colombelles Steelwork (Axis attack) #2vs2"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFACheuxD"
+msgid "WIP"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFACheuxL"
+msgid "Offensive on Cheux"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFACheuxX"
+msgid "Offensive on Cheux"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFAColblD"
+msgid "WIP WIP WIP"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFAColblL"
+msgid "Assault on Colombelles"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFAColblX"
+msgid "Assault on Colombelles"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFACt112L"
+msgid "Last stand on Hill 112"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFACt112X"
+msgid "Last stand on Hill 112"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFAMerdeL"
+msgid "Crossing the Merderet"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFAMerdeX"
+msgid "Crossing the Merderet"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFAText"
+msgid "The Attacker only controls a small portion of the field, and their mission is to take the objective without suffering excessive losses (whilst maintaining control of at least 10% of the map).\n\nThe Defender controls the largest part of the map and must retain control of the objective and inflict enough losses to the Attacker’s forces."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFATextM"
+msgid "Attackers only control a small portion of the field, and their mission is to take the objective without suffering excessive losses (whilst maintaining control of at least 10% of the map).\n\nDefenders control the largest part of the map. They must retain control of the objective and inflict enough losses to the Attackers forces."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SFATitle"
+msgid "RULES OF ENGAGEMENT\n--------------------------------\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SPHB_OBJ"
+msgid "- Victory is determined by the number of #Arialbold{objectives} secured. If a side controls #Arialbold{all} the objectives, a countdown to sudden death initiates.\n\n- Check your #Arialbold{division's income}, it can be either #Arialbold{phase} or #Arialbold{countdown} income."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SPHB_OBJA"
+msgid "- Victory is determined by the number of #Arialbold{objectives} secured. If a side controls #Arialbold{all} the objectives, a countdown to sudden death initiates.\n\n- Check your #Arialbold{division's income}, it can be either #Arialbold{phase} or #Arialbold{countdown} income.\n\n- #Arialbold{Allied} player(s) loses if sustaining too many casualties."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "SPHB_OBJG"
+msgid "- Victory is determined by the number of #Arialbold{objectives} secured. If a side controls #Arialbold{all} the objectives, a countdown to sudden death initiates.\n\n- Check your #Arialbold{division's income}, it can be either #Arialbold{phase} or #Arialbold{countdown} income.\n\n- #Arialbold{German} player(s) loses if sustaining too many casualties."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Scot_Vill1"
+msgid "RAURAY"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Scot_Vill2"
+msgid "BELLEVAL"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Scot_Vill3"
+msgid "BRETTEVILLETTE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Scot_Vill4"
+msgid "GRAINVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Scot_Vill5"
+msgid "to HILL 112"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Scot_Vill6"
+msgid "to CAEN"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Scot_Vill7"
+msgid "to CHEUX"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Scot_Vill8"
+msgid "to FONTENAY-LE-PESNEL"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Some_Vill1"
+msgid "MONDRAINVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Some_Vill2"
+msgid "TOURVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Some_Vill3"
+msgid "GAVRUS"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Some_Vill4"
+msgid "TOURMAUVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Some_Vill5"
+msgid "to CAEN"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Some_Vill6"
+msgid "LA BRUYERE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "Some_Vill7"
+msgid "BOUGY"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T01DHD"
+msgid "Boot Camp, April 12th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T01US"
+msgid "Tutorial 1: Deployment & Manoeuver"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T01USDesc"
+msgid "This exercise will focus on battlegroup composition and basic manoeuvers on the field.\n\nYou will be taught:\n\n  * Battlegroup composition\n  * Deployment phase\n  * Pre-battle planification\n  * Troop transport and disembarkation"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T01USFail"
+msgid "\n\nTry again Cadet!\n\nTo survive in combat, you have to master the following fields:\n\n  * Battlegroup composition\n  * Deployment phase\n  * Pre-battle planification\n  * Troops transport and disembarkation"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T01USVict"
+msgid "\n\nCongratulations Cadet,\n\nYou are now commissioned in the following fields:\n\n  * Battlegroup composition\n  * Deployment phase\n  * Pre-battle planification\n  * Troops transport and disembarkation"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02DHD"
+msgid "Boot Camp, April 13th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02US"
+msgid "Tutorial 2: Basic Infantry Tactics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02USDesc"
+msgid "This exercise will focus on the basic rules of infantry combat.\n\nYou will be taught:\n\n  * Infantry basics\n  * Frontline\n  * Moral\n  * Urban cover"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02USFail"
+msgid "\n\nTry again Cadet!\n\nTo survive in combat, you have to master the following fields:\n\n  * Infantry basics\n  * Frontline\n  * Moral\n  * Urban cover"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02USVict"
+msgid "\n\nCongratulations Cadet,\n\nYou are now commissioned in the following fields:\n\n  * Infantry basics\n  * Frontline\n  * Moral\n  * Urban cover"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02bDHD"
+msgid "Boot Camp, April 14th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02bUS"
+msgid "Tutorial 3: Advanced Infantry Tactics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02bUSDesc"
+msgid "This exercise will focus on supply matters and the effect on a unit of fighting behind enemy lines.\n\nYou will be taught:\n\n  * Capture\n  * Supply\n  * Encirclement & Surrender\n  * Airborne & Leaders' abilities"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02bUSFail"
+msgid "\n\nTry again Cadet!\n\nTo survive in combat, you have to master the following fields:\n\n  * Capture\n  * Supply\n  * Encirclement & Surrender\n  * Airborne & Leaders' abilities"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T02bUSVict"
+msgid "\n\nCongratulations Cadet,\n\nYou are now commissioned in the following fields:\n\n  * Capture\n  * Supply\n  * Encirclement & Surrender\n  * Airborne & Leaders' abilities"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T03DHD"
+msgid "Boot Camp, April 15th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T03US"
+msgid "Tutorial 4: Expert Infantry Tactics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T03USDesc"
+msgid "This exercise will focus on artillery units and suppression.\n\nYou will be taught:\n\n  * Withdrawal\n  * Shoot & smoke on position\n  * Artillery basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T03USFail"
+msgid "\n\nTry again Cadet!\n\nTo survive in combat, you have to master the following fields:\n\n  * Withdrawal\n  * Shoot & smoke on position\n  * Artillery basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T03USVict"
+msgid "\n\nCongratulations Cadet,\n\nYou are now commissioned in the following fields:\n\n  * Withdrawal\n  * Shoot & smoke on position\n  * Artillery basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T04DHD"
+msgid "Boot Camp, April 16th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T04US"
+msgid "Tutorial 5: Recon & Line of Sight"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T04USDesc"
+msgid "This exercise will focus on recon units & line of sight.\n\nYou will be taught:\n\n  * Covers\n  * Line of sight\n  * Recon basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T04USFail"
+msgid "\n\nTry again Cadet!\n\nTo survive in combat, you have to master the following fields:\n\n  * Covers\n  * Line of sight\n  * Recon basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T04USVict"
+msgid "\n\nCongratulations Cadet,\n\nYou are now commissioned in the following fields:\n\n  * Covers\n  * Line of sight\n  * Recon basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T05DHD"
+msgid "Boot Camp, April 17th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T05US"
+msgid "Tutorial 6: Armored Tactics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T05USDesc"
+msgid "This exercise will focus on armored units, armors and types of ammunition.\n\nYou will be taught:\n\n  * Armors\n  * AP & HE ammunitions\n  * Tanks & Antitank basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T05USFail"
+msgid "\n\nTry again Cadet!\n\nTo survive in battle, you have to master the following fields:\n\n  * Armors\n  * AP & HE ammunitions\n  * Tank and Antitank basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T05USVict"
+msgid "\n\nCongratulations Cadet,\n\nYou are now commissioned in the following fields:\n\n  * Armors\n  * AP & HE ammunitions\n  * Tank and Antitank basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T06DHD"
+msgid "Boot Camp, April 18th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T06US"
+msgid "Tutorial 7: Off-map assets"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T06USDesc"
+msgid "This exercise will focus on off-map assets and their uses in various situations.\n\nYou will be taught:\n\n  * Observers\n  * Off-map artillery strike\n  * Aircraft basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T06USFail"
+msgid "\n\nTry again Cadet!\n\nTo survive in battle, you have to master the following fields:\n\n  * Observers\n  * Off-map artillery strike\n  * Aircraft basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T06USVict"
+msgid "\n\nCongratulations Cadet,\n\nYou are now commissioned in the following fields:\n\n  * Observers\n  * Off-map artillery strike\n  * Aircraft basics"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T07DHD"
+msgid "Boot Camp, April 19th, 1944"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T07US"
+msgid "Tutorial 8: Skirmish"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T07USDesc"
+msgid "This exercise will focus on combat in field conditions.\n\nYou will be taught:\n\n  * Combat phases\n  * Victory conditions (conquest mode)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T07USFail"
+msgid "\n\nTry again Cadet!\n\nTo survive in battle, you have to master the following fields:\n\n  * Combat phases\n  * Victory conditions (conquest mode)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T07USVict"
+msgid "\n\nCongratulations Cadet,\n\nYou are now commissioned in the following fields:\n\n  * Combat phases\n  * Victory conditions (conquest mode)"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TBBo_Vill1"
+msgid "LA MADELEINE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TBBo_Vill2"
+msgid "To STE-MÈRE-ÉGLISE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TBBo_Vill3"
+msgid "AUDOUVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TBBo_Vill4"
+msgid "UTAH BEACH"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TBBo_Vill5"
+msgid "To Quinéville"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TBBo_Vill6"
+msgid "To Ravenoville"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TBBo_Vill7"
+msgid "To Ste-Marie-du-Mont"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TLio_Vill1"
+msgid "COLLEVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TLio_Vill2"
+msgid "HERMANVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TLio_Vill3"
+msgid "LION-SUR-MER"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TLio_Vill4"
+msgid "OUISTREHAM"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TLio_Vill5"
+msgid "CRESSERONS"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TLio_Vill6"
+msgid "ST-AUBIN"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TLio_Vill7"
+msgid "PLUMETOT"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TLio_Vill8"
+msgid "to BENOUVILLE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TUTO"
+msgid "EXERCICES"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TUTO_SEP"
+msgid "***"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TWTa_Vill1"
+msgid "COIGNY"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TWTa_Vill2"
+msgid "BAUPTE"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TWTa_Vill3"
+msgid "to CARENTAN"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TWTa_Vill4"
+msgid "LAUNAY"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TWTa_Vill5"
+msgid "HOTTOT"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TWTa_Vill6"
+msgid "LES SABLONS"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TWTa_Vill7"
+msgid "to ST-JORES"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T_DEBRIEF"
+msgid "DEBRIEFING"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T_DEFEAT"
+msgid "DEFEAT"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "T_VICTORY"
+msgid "VICTORY"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TutoDC"
+msgid "\n\n\n\n\nTRAINING MISSION\n--------------------------------\n\n\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TutoDesc"
+msgid "Welcome to the Boot Camp, Cadet.\n\nHere you will be taught basic combat tactics in every field: infantry, tanks, artillery, airplane and supply. Be very careful as what you will learn here may save your soldier's lives in battle.\n\nOnce you have completed this training program, you will be commissionned officer and receive your posting with our troops gathering for the upcoming campaign for the liberation of Europe."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "TutoTOP"
+msgid "Date: April 12th, 1944\nPlayable side: Allied\n\n82nd Airborne Division\nMajor General Matthew Ridgway\n\n***\n\nTutorials\n\n"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "WARNFRONT"
+msgid "All the requisition points will be granted at the BEGINNING of each phase. You will not receive any more points until the beginning of the next one."
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_101AB"
+msgid "Starter battlegroup 101st Airborne"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_116Pz"
+msgid "Starter battlegroup 116. Panzer"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_12SS"
+msgid "Starter battlegroup 12. SS-Panzer"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_16LW"
+msgid "Starter battlegroup 16. Luftwaffe"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_17SS"
+msgid "Starter battlegroup 17. SS-Panzergrenadier"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_1POL"
+msgid "Starter battlegroup 1 Pancerna"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_21Pz"
+msgid "Starter battlegroup 21. Panzer"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_2eDB"
+msgid "Starter battlegroup 2e Blindée"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_2ndUS"
+msgid "Starter battlegroup 2nd Infantry"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_352ID"
+msgid "Starter battlegroup 352. Infanterie"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_3ARM"
+msgid "Starter battlegroup 3rd Armored"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_3CAN"
+msgid "Starter battlegroup 3rd Canadian Infantry"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_3FSJ"
+msgid "Starter battlegroup 3. Fallschirmjäger"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_4ARM"
+msgid "Starter battlegroup 4th Armored"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_6AIR"
+msgid "Starter battlegroup 6th Airborne"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_716ID"
+msgid "Starter battlegroup 716. Infanterie"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_91LLD"
+msgid "Starter battlegroup 91. Luftlande"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_9Pz"
+msgid "Starter battlegroup 9. Panzer"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_Cmdo"
+msgid "Starter battlegroup Commando Brigade"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_GA"
+msgid "Starter battlegroup Guards Armoured"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_GER1"
+msgid "Premade deck GER campaign"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_Lehr"
+msgid "Starter battlegroup Panzer Lehr"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_Scott"
+msgid "Starter battlegroup 15th Scottish"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_UK1"
+msgid "Premade deck UK campaign"
+msgstr ""
+
+#: GameData:\Localisation\MAPS.csv
+msgctxt "deck_USA1"
+msgid "Premade deck USA campaign"
+msgstr ""
+

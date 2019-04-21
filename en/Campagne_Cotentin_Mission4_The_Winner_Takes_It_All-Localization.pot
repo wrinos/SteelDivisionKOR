@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "5I4E4ndkQD"
+msgid "FFI reinforcement"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "9QwCRwUlBC"
+msgid "6. Fallschirmjäger-Division"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "JjFHLVk6NA"
+msgid "This area is defended by elite troops - avoid them."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "OqckXqHK58"
+msgid "(Secondary) RESCUE THE PARTISANS"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "QSCPdgs2So"
+msgid "FFI personnel & captured vehicles are waiting your orders."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "RrFn022JYi"
+msgid "6. Fallschirmjäger-Division"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "oAUrx8G4TL"
+msgid "Helping the FFI partisans will bolster the uprising.\nFrench partisans will help you to hold the woods."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "r3bA7DhgZl"
+msgid "You must gain a Conquest mode victory.\nAllies: #coloredtext3{%s/3000} / Axis: #coloredtext3{%s/3000}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "rIagIUYDP0"
+msgid "This area is defended by elite troops - avoid them."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Localization.csv
+msgctxt "xsqRa8h3Rx"
+msgid "GET MAP CONTROL (%s)"
+msgstr ""
+

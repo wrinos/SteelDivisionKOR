@@ -1,0 +1,138 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "0u1crU9mUe"
+msgid "HOLD WESTERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "6AZB7hTOLI"
+msgid "HOLD EASTERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "7ufrvki6kb"
+msgid "TAKE BACK NORTHERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "D0hpcrNW5b"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "DtTCgh3XOw"
+msgid "HOLD NORTHERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "EFoeIjPj0d"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "H6J65OrvmK"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "Mw1EviswDK"
+msgid "TAKE BACK EASTERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "N2QgBlW8BT"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "O3QGXEMFu3"
+msgid "SECURE NORTHERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "PTYrg2qRlD"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "R7Jcdln7rL"
+msgid "SECURE EASTERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "UeoWt3REY1"
+msgid "The Axis hold the objectives."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "Y3X986UxQ2"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "YktQCE6nVW"
+msgid "HOLD NORTHERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "ZdTSW9EaQE"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "e9K8pqoVYO"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "gJrysa49jc"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "is2EbehGeE"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "k04R5Klbi2"
+msgid "HOLD WESTERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "kx8A4o3lFE"
+msgid "HOLD EASTERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "rwcPyUsigB"
+msgid "SECURE WESTERN CROSSROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "sogsBBcouD"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "vU25OMDNko"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Meyer_Strikes_Back_01\Scripting\Localization.csv
+msgctxt "vegHYConNc"
+msgid "TAKE BACK WESTERN CROSSROAD (%s)"
+msgstr ""
+

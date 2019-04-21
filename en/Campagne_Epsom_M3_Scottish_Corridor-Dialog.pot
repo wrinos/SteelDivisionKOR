@@ -1,0 +1,128 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_0_HNT"
+msgid "Let's keep that Scottish Corridor open, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_10_HNT"
+msgid "We're running out of time, sir, we must speed up the traffic."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_11_HNT"
+msgid "The 11th Armoured is almost through, sir. Just a few more..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_12_HNT"
+msgid "The main bulk of 11th Armoured has gone through, sir, but since we've got the corridor under control, a few extra units will just make things easier when it comes to climbing Hill 112."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_13_HNT"
+msgid "German fighters, sir. Me109. And I thought that the RAF had cleared the sky... It must be some of those aces - they'll be sure to make our life hell."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_1_HNT"
+msgid "Sir, recon elements from Kampfgruppe Frey & Weidinger are approaching. The damn Fritz are coordinating their attack to take us in a pincer!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_2_HNT"
+msgid "Stuka attack! Take cover!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_3_HNT"
+msgid "Intel warns us that Kampfgruppe Weidinger is preparing an attack against the evacuation point. Beware: they are fielding the latest Jagdpanzer IV tank destroyer against us."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_4_HNT"
+msgid "Intelligence has identified SS-StuG-Abteilung 2 in our sector. It certainly intends to bolster Frey or Weidinger's strengths. Be careful about them, they're a scourge to get rid of."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_5_HNT"
+msgid "Hold tight, lads! Kampfgruppe Frey is building up to wipe us from the centre of the corridor."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_6_HNT"
+msgid "Kampfgruppe Weidinger & SS-StuG-Abteilung 2 are gathering their forces to capture the convoy's evacuation point!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_7_HNT"
+msgid "Kampfgruppe Frey is moving against the base of the corridor, sir, and appears determined to isolate us. We seem to be in for a last stand, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_8_HNT"
+msgid "Five units are through already, let's keep them rolling..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_9_HNT"
+msgid "Only a handful of units have been able to drive through, sir, we must secure the corridor for the 11th Armoured."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_DAA"
+msgid "We have received Bofors 40mm, the best anti-air guns in our arsenal, as well as Crusader AA Mk.1, mounting the same gun on an armoured chassis. They are versatile and can be used against airplanes, infantry or light armoured vehicles."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_DAA2"
+msgid "Well-positioned and combined with 17-pdr guns, they should be the cornerstone of our defence."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_DAIR"
+msgid "At last, the sky is clear for the RAF to show up! Since the sector to defend is quite large, fighter-bombers will prove useful to intervene quickly on hot spots."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_DAIR2"
+msgid "Typhoon AT can strike any target, and their 150mm rockets may even damage heavy tanks if they hit their side or rear."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_DTANK"
+msgid "We will have Challenger tanks, mounting the excellent 17-pdr gun, at our disposal in Phase C. They have punch but are fragile: use them as long-range snipers."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_ECHEC"
+msgid "The corridor has collapsed. The 11th Armoured wasn't able to get enough of its units through. We won't take Hill 112 this time, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_OBJP"
+msgid "We must ensure the convoy reaches this location."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Dialog.csv
+msgctxt "23_VICTO"
+msgid "The Scottish Corridor has held, sir. Such a feat of arms will no doubt go down in history as one of the division's finest hours!"
+msgstr ""
+

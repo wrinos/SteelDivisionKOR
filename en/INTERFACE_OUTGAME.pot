@@ -1,0 +1,5773 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_ADDFRIE"
+msgid "ADD TO FRIENDS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_AI_0"
+msgid "Very Easy"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_AI_1"
+msgid "Easy"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_AI_2"
+msgid "Medium"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_AI_3"
+msgid "Hard"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_AI_4"
+msgid "Very Hard"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_AUTOSET"
+msgid "AUTOSET"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_BACK"
+msgid "BACK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_CAMP"
+msgid "CAMPAIGN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_CHGPSE"
+msgid "CHANGE NICKNAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_CHGTEAM"
+msgid "SWITCH TEAM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_CONTGAS"
+msgid "NEXT GAME\n(%1)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_CONTINU"
+msgid "CONTINUE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_CREDITS"
+msgid "CREDITS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_DCKCOPY"
+msgid "COPY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_DCKEDIT"
+msgid "EDIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_DCKEXPO"
+msgid "EXPORT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_DCKIMPO"
+msgid "IMPORT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_DCKREMO"
+msgid "DELETE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_DCKRENA"
+msgid "RENAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_DCKVIEW"
+msgid "VIEW"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_DECK"
+msgid "BATTLEGROUPS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_FRIENDS"
+msgid "FRIENDS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_GAMJOIN"
+msgid "JOIN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_GAMOBS"
+msgid "SPECTATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_GLREFR"
+msgid "REFRESH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_HELP"
+msgid "HELP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_INVITE"
+msgid "INVITE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_LAUNCH"
+msgid "LAUNCH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_LOADGAM"
+msgid "LOAD GAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_LOADING"
+msgid "LOAD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_MODAPPL"
+msgid "APPLY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_MODBROW"
+msgid "BROWSE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_MODCENT"
+msgid "MOD CENTER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_MODREFR"
+msgid "REFRESH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_MODREVE"
+msgid "REVERT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_MULTI"
+msgid "MULTI"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_NEXTCPN"
+msgid "NEXT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_NSAVE"
+msgid "NEW SAVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_NVSKIRM"
+msgid "SKIRMISH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_OPAPPLY"
+msgid "APPLY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_OPAUDIO"
+msgid "AUDIO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_OPCANCL"
+msgid "CANCEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_OPCONTR"
+msgid "CONTROLS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_OPDEFAU"
+msgid "DEFAULT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_OPGPLAY"
+msgid "GAMEPLAY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_OPGUI"
+msgid "INTERFACE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_OPTIONS"
+msgid "OPTIONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_OPVID"
+msgid "VIDEO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_PROFIL"
+msgid "PROFILE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_QUIT"
+msgid "QUIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_QUITGAM"
+msgid "EXIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_REPL"
+msgid "REPLAYS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_RESTART"
+msgid "RESTART"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_RETREAT"
+msgid "Retreat"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_RPLCOPY"
+msgid "COPY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_RPLPLAY"
+msgid "PLAY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_RPLREMO"
+msgid "DELETE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_RPLRENA"
+msgid "RENAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_SAVE"
+msgid "SAVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_SAVEGAM"
+msgid "SAVE GAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_SKIRM"
+msgid "SKIRMISH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_SOLO"
+msgid "SOLO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_STATS"
+msgid "STATS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_SURREND"
+msgid "SURRENDER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AB_TUTO"
+msgid "BOOT CAMP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ACC_CREATE"
+msgid "New account created."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ACC_CREMSG"
+msgid "Your account has been successfuly created"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ADE_TEXT"
+msgid "You will lose pending changes on your battlegroup. Do you want to quit ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ADE_TTL"
+msgid "QUIT DECKBATTLEGROUP EDITION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ADMKICKED"
+msgid "You have been disconnected from server."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AH_DCKEXPO"
+msgid "Export a battlegroup to a string"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AIR"
+msgid "AIR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AI_EASY"
+msgid "AI Easy"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AI_HARD"
+msgid "AI Hard"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AI_MEDIUM"
+msgid "AI Medium"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AI_VEASY"
+msgid "AI Very Easy"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AI_VHARD"
+msgid "AI Very Hard"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ALLCHAN"
+msgid "CHANNELS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ANZ"
+msgid "#ANZ ANZAC"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ARTILLERY"
+msgid "ARTILLERY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AT"
+msgid "ANTI-TANK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "April"
+msgid "April"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AskQuit"
+msgid "Do you really want to quit?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AskRestart"
+msgid "Do you really want to restart the mission?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AskRetreat"
+msgid "Do you really want to retreat ?\nYour BG will lose %1 morale points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AskStrTSur"
+msgid "Do you really want to surrender? Your BG will be destroyed and you will lose 5 political points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "AskSurrend"
+msgid "Do you really want to surrender?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Ask_AccEdi"
+msgid "Do you already have a Paradox account?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Ask_AccEug"
+msgid "Do you already have an Eugen account?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Ask_CNPass"
+msgid "Please confirm new password."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Ask_Email"
+msgid "Please enter valid e-mail."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Ask_Login"
+msgid "Please enter login."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Ask_NPass"
+msgid "Please enter new password."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Ask_NPass6"
+msgid "Please enter new password (6 characters minimum)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Ask_Pass"
+msgid "Please enter password."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "August"
+msgid "August"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BLUEDRAG"
+msgid "#JAP #ROK BLUE DRAGONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTHB_AVAIL"
+msgid "7 HISTORICAL BATTLES - COOPERATIVE PLAY - 4 NEW DIVISIONS - 2 EXCLUSIVE ACES - 7 ACHIEVEMENTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTHT_AVAIL"
+msgid "NEW EXPANSION PACK AVAILABLE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_ACCEPT"
+msgid "ACCEPT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_CANCEL"
+msgid "CANCEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_CANMAJ"
+msgid "CANCEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_CHANGE"
+msgid "CHANGE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_CHOOSE"
+msgid "Choose"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_CONFIR"
+msgid "CONFIRM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_CONNEC"
+msgid "CONNECT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_CONTIN"
+msgid "CONTINUE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_CREATE"
+msgid "CREATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_DL"
+msgid "DOWNLOAD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_FILTDK"
+msgid "Filters"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_FILTDV"
+msgid "Filters"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_FILTER"
+msgid "Filters"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_LINK"
+msgid "LINK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_NEXT"
+msgid "NEXT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_OK"
+msgid "OK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_OVRWRT"
+msgid "Continue"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_QUIT"
+msgid "Quit"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_QUIT_M"
+msgid "QUIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_REFUSE"
+msgid "REFUSE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_RESTAR"
+msgid "RESTART"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_RETRY"
+msgid "RETRY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BTN_smail"
+msgid "SEND E-MAIL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "B_DLC_NEED"
+msgid "Details..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BirthDay"
+msgid "Day"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BirthMonth"
+msgid "Month"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BirthYear"
+msgid "Year"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Birthdate"
+msgid "Date of birth"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BtnGTNvN"
+msgid "ALLIES vs ALLIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BtnGTNvP"
+msgid "AXIS vs ALLIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "BtnGTPvP"
+msgid "AXIS vs AXIS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CAN"
+msgid "#CAN CANADA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CB_CREATE"
+msgid "CREATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CB_GAMDECK"
+msgid "BATTLEGROUPS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CB_VIEWDCK"
+msgid "VIEW DECK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT"
+msgid "CHAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_BAN"
+msgid "%1 has been banned."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_CHI"
+msgid "中文"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_CONN"
+msgid "%1 is online."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_DE"
+msgid "Steel Division DE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_DECKS"
+msgid "%1 has been kicked (player decks mismatching the lobby rules)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_DISC"
+msgid "%1 is offline."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_FAIL"
+msgid "Failed to send message because %1 is offline."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_FR"
+msgid "Steel Division FR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_GLOB"
+msgid "Steel Division"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_JAP"
+msgid "日本語"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_JOIN"
+msgid "%1 has joined."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_KICK"
+msgid "%1 has been kicked."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_KOR"
+msgid "한국말"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_LEFT"
+msgid "%1 has left."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHAT_RU"
+msgid "Steel Division RU"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHI"
+msgid "#CHI CHINA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHRACE_MSG"
+msgid "You have unlocked the Panzer IV ace 'Willy Kreztzschmar' for the 12. SS-Panzerdivision!\nHave fun!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CHRACE_TTL"
+msgid "CONGRATULATIONS!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CLOSE_SLOT"
+msgid "Close"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CLS_LAUNCH"
+msgid "LAUNCH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CLS_NATO"
+msgid "ALLIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CLS_PACT"
+msgid "AXIS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CL_DEFVAL"
+msgid "-"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CL_DOWNLO"
+msgid "DL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CL_GAMMAP"
+msgid "MAP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CL_GAMMODE"
+msgid "MODE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CL_GAMNAME"
+msgid "GAME NAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CL_GAMPLNB"
+msgid "PLAYERS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CL_GAMRUL"
+msgid "RULES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CL_GAMSTS"
+msgid "STATUS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CL_MOD"
+msgid "MOD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CMW"
+msgid "#UK #CAN #ANZ COMMONWEALTH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CODE_EXPIR"
+msgid "Code has expired."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CODE_INVAL"
+msgid "Code is invalid."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CODE_USED"
+msgid "Code is already used."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "COLON_FOR1"
+msgid "%1:"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "COLON_FOR2"
+msgid "%1: %2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CONERROR"
+msgid "Connection error"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CONQ_HIGH"
+msgid "High"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CONQ_LOW"
+msgid "Low"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CONQ_MED"
+msgid "Medium"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CONQ_NONE"
+msgid "None"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CONQ_VHIGH"
+msgid "Very high"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CONQ_VLOW"
+msgid "Very low "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CP_CHGPASS"
+msgid "Change password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CP_CONLOST"
+msgid "Connection to server has been lost. Please reconnect."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CP_DECO"
+msgid "Disconected."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CP_FIRSTCO"
+msgid "First connexion"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CP_FORGOT"
+msgid "Forgot password ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CP_LINKACC"
+msgid "Link account"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CP_LOGFRGT"
+msgid "Forgot login ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "CP_REMPASS"
+msgid "Remember my password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DAN"
+msgid "#DAN DENMARK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCA"
+msgid "ANTI-AIR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_ACTIV"
+msgid "ACTIVATION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_AUTO"
+msgid "AUTO FILL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_AUTOT"
+msgid "AUTO FILL A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_AUTOW"
+msgid "'Auto fill' will override this battlegroup's content. Are you sure?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_DCKFM"
+msgid "%1 (%2)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_DISC"
+msgid "DISCARD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_EDIT"
+msgid "EDIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_FMT"
+msgid "%1/%2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_RENAM"
+msgid "RENAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_SAVE"
+msgid "SAVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DCKO_VALID"
+msgid "VALIDATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_BTNCREA"
+msgid "CREATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_CAT80"
+msgid "#CatC Before 1980"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_CAT85"
+msgid "#CatB Before 1985"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_CAT90"
+msgid "#CatA 1986\+"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_DCKCREA"
+msgid "CREATE A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_DCKNAM"
+msgid "BATTLEGROUP NAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_NEW"
+msgid "New battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_TARMOR"
+msgid "#Armored Armored"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_TMECHA"
+msgid "#Mecanized Mechanized"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_TMOT"
+msgid "#Motorised Motorized"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_TNAVY"
+msgid "#Marine Marines"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_TPARA"
+msgid "#Airborne Airborne"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_TSHIP"
+msgid "#Naval #sea Navy"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DC_TSUP"
+msgid "#Support Support"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DD_DLTTTL"
+msgid "Do you really want to delete this battlegroup ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DECKACTPOB"
+msgid "Displays the number of activation points used against the maximum available one."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DECKACTPOE"
+msgid "Filling a slot in your battlegroup costs 1 activation point.\nOnce all your activation points have been used up, you can't select any other unit in your battlegroup, even if slots remain free."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DECKACTPOT"
+msgid "ACTIVATION POINTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DEDIDEBEND"
+msgid "Debriefing will end in %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DEDIDEPEND"
+msgid "Deployment will end in %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DEDIFIGEND"
+msgid "Fighting will end in %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DEDIGSTART"
+msgid "Game will start in %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DEDILOAEND"
+msgid "Loading will end in %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DEDINBMAPL"
+msgid "Connected players : %1/%2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DEDINBMIPL"
+msgid "Required players : %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DENIED"
+msgid "No active CD-Key for this game. Verify your login or link your key to this account using First Connection."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DENIEDBAN"
+msgid "Access denied : you have been banned. Time remaining : %1 hour(s)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVFORMAT"
+msgid "%1/%2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVINCOMB"
+msgid "Displays this division's specific income over the different combat phases."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVINCOME"
+msgid "First number indicates the Requisition points earned every 10s by this division in Phase A.\nSecond one, its income in Phase B.\nThird one, its income in (final) Phase C.\nThe underscored one is the ongoing income."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVINCOMT"
+msgid "COUNTDOWN INCOME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVINCOPB"
+msgid "Displays the income you will get only at start of the different combat phases."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVINCOPE"
+msgid "First number indicates the Requisition points earned at start of Phase A.\nSecond one, at start of Phase B.\nThird one, at start of Phase C."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVINCOPT"
+msgid "PHASE INCOME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVSEL_DLC"
+msgid " * %1 DLC * "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVSEL_DSC"
+msgid "DESCRIPTION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DIVSEL_NAM"
+msgid "NAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DI_DCKCOP"
+msgid "battlegroup has been copied to clipboard"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DI_DCKEXPO"
+msgid "EXPORT A BATTLEGROUP to a string"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DI_DCKIMPO"
+msgid "IMPORT A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DI_FEMPTY"
+msgid "At least one field is empty. Please enter a name and a string representing a battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DI_HININPU"
+msgid "Paste a battlegroup here."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DI_INVALID"
+msgid "The string does not represent a valid battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DI_MISSDLC"
+msgid "This deck contains units from the DLC '%1' that you don’t own."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_1"
+msgid "Vox Populi"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_10"
+msgid "Second Wave"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_11"
+msgid "Operation Atlantic"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_20"
+msgid "Back to Hell"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_CONTNT"
+msgid "DLC Content"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_D_10"
+msgid "4 new battlegroups"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_D_11"
+msgid "Operation Atlantic"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_D_20"
+msgid "4 new battlegroups & 7 new Historical Missions"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_TAG"
+msgid "#contentDLC"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLC_USE"
+msgid "You are about to use a parameter from a downloadable content. All Players who don't own it will be kicked.\n\nDo you want to continue?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLS_DIVIS"
+msgid "DIVISION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLS_DNAME"
+msgid "BATTLEGROUP NAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLS_PNAME"
+msgid "Name"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLS_PTACT"
+msgid "AP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLS_SLCTAL"
+msgid "Select All"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DLS_TITLE"
+msgid "BATTLEGROUP LIST"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DR_RENDECK"
+msgid "Rename a battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DS_SELECT"
+msgid "SELECT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "DS_TITLE"
+msgid "SELECT DIVISION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "December"
+msgid "December"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ECNM_HIGH"
+msgid "High"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ECNM_LOW"
+msgid "Low"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ECNM_MED"
+msgid "Medium"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ECNM_NONE"
+msgid "None"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ECNM_VHIGH"
+msgid "Very high"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ECNM_VLOW"
+msgid "Very low"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EGH_OUTCOM"
+msgid "OUTCOME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EGH_UNITXP"
+msgid "Experience"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_ADDS"
+msgid "ADDS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_BATTFLD"
+msgid "BATTLEFIELD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_CASUAL"
+msgid "Causalties"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_CMDPTS"
+msgid "Command points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_DEBRIEF"
+msgid "DEBRIEFING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_DESTRU"
+msgid "DESTRUCTION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_DISCON"
+msgid "Game Ended"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_DISC_AL"
+msgid "Your ally is disconnected. You will return to campaign menu."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_DISC_OT"
+msgid "Your opponent is disconnected. You will return to campaign menu."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_DISC_SF"
+msgid "You are disconnected. You will return to main menu."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_DRAW"
+msgid "DRAW"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_ELAPSED"
+msgid "Elapsed time"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_GAME"
+msgid "Game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_GMODE"
+msgid "GAME MODE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_KILLS"
+msgid "Kills"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MAJDEFE"
+msgid "MAJOR DEFEAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MAJVICT"
+msgid "MAJOR VICTORY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MDLTTL"
+msgid "SAVE REPLAY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MHIST"
+msgid "History"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MINDEFE"
+msgid "MINOR DEFEAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MINVICT"
+msgid "MINOR VICTORY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MKILLS"
+msgid "Kills"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MLOSSES"
+msgid "Losses"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MODIF"
+msgid "MODIFICATORS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MPLAY"
+msgid "Players"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_MPOINT"
+msgid "Points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_OBJECT"
+msgid "OBJECTIVES CAPTURED"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_POINTS"
+msgid "POINTS TO REACH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_SHOOT"
+msgid "SHOOTER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_TCASUAL"
+msgid "Casualties in team"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_TCMDPTS"
+msgid "Command points in team"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_TEAM"
+msgid "Team"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_TIME"
+msgid "TIME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_TKILLS"
+msgid "Kills in team"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_TOTAL"
+msgid "TOTAL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_TOTDEFE"
+msgid "TOTAL DEFEAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_TOTVICT"
+msgid "TOTAL VICTORY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_VICTIM"
+msgid "VICTIM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_VICTLVL"
+msgid "Victory level"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EG_WINSTRK"
+msgid "Winstreak"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTE_COPY"
+msgid "Failed to copy your save."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTE_LOAD"
+msgid "Failed to load your save."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTE_REMO"
+msgid "Failed to delete your save."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTE_RENE"
+msgid "A file with the same name already exists."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTE_RENF"
+msgid "Failed to rename your save."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTI_COPY"
+msgid "Copy Failed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTI_DEF"
+msgid "Operation failed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTI_LOAD"
+msgid "Load Failed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTI_REMO"
+msgid "Delete Failed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ERRTI_RENA"
+msgid "Rename failed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ES_DEFEAT"
+msgid "DEFEAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ES_VICTORY"
+msgid "VICTORY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "EURO"
+msgid "#FRA #RFA EUROCORPS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ExternLink"
+msgid "(external link)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FACTIONFMT"
+msgid "%1 (%2)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FAILCONMMS"
+msgid "Failed to connect to server"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FLTDK_ALL"
+msgid "Select All"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FLTDK_BRK"
+msgid "Breakthrough"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FLTDK_HIS"
+msgid "Historical battle"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FLTDK_NORM"
+msgid "Normal"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR"
+msgid "#FRA FRANCE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_ASKINVI"
+msgid "Invite this player to your friend list ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_CNECTED"
+msgid "Connected friends: %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_FRDDEL"
+msgid "Remove this player from your friend list ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_INVAXPT"
+msgid "Invitation accepted"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_INVDECL"
+msgid "Invitation declined"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_INVSENT"
+msgid "Invitation sent"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_JIFSLOT"
+msgid "You will join the game of your friend as long as there is a slot available."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_JNOSLOT"
+msgid "Sorry, the game of your friend has no slot available."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_JOIN"
+msgid "JOIN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_NUMBER"
+msgid "Friends: %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_PROFILE"
+msgid "VIEW PROFILE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "FR_REMOVE"
+msgid "REMOVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "February"
+msgid "February"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GI_PLAYERS"
+msgid "Online players"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GI_SESSRUN"
+msgid "Running games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GMODE_CLOQ"
+msgid "Closer Combat Mode"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GMODE_CONQ"
+msgid "Conquest Mode"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GMODE_DEST"
+msgid "Destruction Mode"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GMODE_ECO"
+msgid "Economy"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GMODE_SIEG"
+msgid "Siege"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GMODE_STR"
+msgid "Strategic"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GOT_GAME"
+msgid "You already own that game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GPNOPTLIMI"
+msgid "Total destruction"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GPNOTLIMIT"
+msgid "No time limit"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GPS_Invis"
+msgid "No"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GPS_Visib"
+msgid "Yes"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GPV_Privat"
+msgid "Private"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GPV_Public"
+msgid "Public"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GP_MAP"
+msgid "BATTLEFIELD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GP_PTSVICT"
+msgid "POINTS TO REACH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GP_TIME"
+msgid "TIME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GP_WINCONQ"
+msgid "Conquest points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GP_WINRESO"
+msgid "Resources to reach"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_ATTP"
+msgid "BREAKTHROUGH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_ATTPB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_ATTPE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_CHAL"
+msgid "Scenarios"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_CLOQB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_CLOQE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_CLOQU"
+msgid "CLOSER COMBAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_CONQ"
+msgid "Mode: conquest"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_CONQB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_CONQE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_CONQT"
+msgid "CONQUEST"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_DESTB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_DESTE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_DESTR"
+msgid "Mode: destruction "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_DESTT"
+msgid "DESTRUCTION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_EMPTY"
+msgid "Empty games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_FOUR"
+msgid "4vs4 games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_OBS"
+msgid "Spectator games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_OBSB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_OBSE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_OBST"
+msgid "This game allows any player to spectate it by clicking the Spectate button."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_ONE"
+msgid "1vs1 games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_PASS"
+msgid "Password protected games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_RUN"
+msgid "Running games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_TEN"
+msgid "10vs10 games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_THREE"
+msgid "3vs3 games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GRL_TWO"
+msgid "2vs2 games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GR_COMPLET"
+msgid "COMPLETE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GR_DEBRIEF"
+msgid "DEBRIEFING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GR_DEPLOY"
+msgid "IN DEPLOYMENT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GR_INROOM"
+msgid "IN THE ROOM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GR_LOADING"
+msgid "LOADING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GR_PLAYING"
+msgid "FIGHTING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GR_TIMELFT"
+msgid "%1 left"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GR_WAITING"
+msgid "WAITING FOR PLAYERS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_ACCESS"
+msgid "Accessibility"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_BATTLEF"
+msgid "Battlefield"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_BFSIZE"
+msgid "Size"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_DIFFICU"
+msgid "Difficulty"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_GAMEMDE"
+msgid "Game mode"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_INCRATE"
+msgid "Income rate"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_OPPOSIT"
+msgid "Opposition"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_PRIVATE"
+msgid "Private"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_PUBLIC"
+msgid "Public"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_STARPTS"
+msgid "Starting resources"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_VICTPTS"
+msgid "Victory points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GS_VICTTIM"
+msgid "Time limit"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GT_RKV2_AR"
+msgid "2 vs 2 Arranged Team"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GT_RKV2_AU"
+msgid "2 vs 2 Automatched"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GT_VERSUS1"
+msgid "1 vs 1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GT_VERSUS2"
+msgid "2 vs 2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GT_VERSUS3"
+msgid "3 vs 3"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "GT_VERSUS4"
+msgid "4 vs 4"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Gametype"
+msgid "Game type"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HELO"
+msgid "HELO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HGM_CLOQ"
+msgid "The team that controls the largest zone scores points.\nThe first team to reach the score limit wins.\nThe amount of requisition points earned every minute is fixed and not related to the controlled zone.\nDestruction points are not taken into account."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HGM_CQST"
+msgid "The team that controls the largest zone scores points.\nThe first team to reach the score limit wins.\nThe amount of requisition points earned every minute is fixed and not related to the controlled zone.\nDestruction points are not taken into account."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HGM_DEST"
+msgid "Each unit destroyed earns you as much points as its deployment cost.\nThe first team to reach the score limit, or the higher score at the end of the set time wins."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HGM_ECO"
+msgid "As deployment points increase when you control command zones, the first team to reach the target score wins.\nTarget score decreases within time."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HGM_NvN"
+msgid "Both teams play as ALLIES."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HGM_NvP"
+msgid "Team 1 plays as ALLIES, Team 2 plays as AXIS."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HGM_PvP"
+msgid "Both teams play as AXIS."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HGM_SIEGE"
+msgid "One team has a lot of income but no direct reinforcement zone, while the other team is surrounding them with deployment capability but weaker income.\nVictory conditions are the same as Desctruction mode."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HINT_EX_SP"
+msgid "---------------"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HISTO_LIST"
+msgid "SCENARIO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HOST_SLOT"
+msgid "Host"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HUB_NEWCON"
+msgid "▶ NEW CONTENT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HcpassCode"
+msgid "Please enter the code you've received by email."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_1"
+msgid "Press U to disembark the transport unit's passengers at the present location."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_10"
+msgid "Press C to display the line of sight from the position of your cursor."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_11"
+msgid "Press P to pause the game while you can still give orders."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_2"
+msgid "Press Y + left click on the map to disembark the transport unit's passengers at a given location."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_3"
+msgid "Press A for the unit to move under cover (as much as possible) until spotting an enemy, then stop and engage it."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_4"
+msgid "Press T to fire on a given position."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_5"
+msgid "Press B to fire smoke rounds."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_6"
+msgid "Press F to move fast using the road network. Unit won't stop its movement even if spotting an enemy or being engaged."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_7"
+msgid "Press I to display the unit's stats sheet."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_8"
+msgid "Press G to call in an off-map artillery strike."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_9"
+msgid "Press SHIFT to display the unit's ongoing order(s)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint1_Beta"
+msgid "Pre-Order Beta - The Game will also contain French, German, Russian and Chinese languages."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint2_1"
+msgid "The AUTO-FILL button automatically fills your battlegroup with units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint2_2"
+msgid "The EXPORT & IMPORT buttons allow you to share battlegroups with friends."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint2_3"
+msgid "The AUTO-COVER order is the default one for all units, except vehicles: when idle, a unit will always seek nearby cover."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint2_4"
+msgid "The RETURN FIRE order commands a unit not to engage an enemy, unless under fire themselves."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint2_5"
+msgid "The ARMOUR BUSTER icon indicates that the unit carries an anti-tank weapon, usually very effective but only at very close range."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint2_6"
+msgid "Units with an AP value only, can't engage infantry. It is often the case for many anti-tank guns."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint2_7"
+msgid "You can evaluate your unit's chances to hit & penetrate with the feedback displayed under the mouse pointer, when highlighting a target."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint2_Beta"
+msgid "Pre-Order Beta - The Game will contain Single Player Campaigns and Tutorials on release."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_1"
+msgid "Recon & dedicated anti-tank teams (Bazooka, PIAT, Panzerschreck) don’t generate an area of influence."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_10"
+msgid "Heavy bocages are like natural walls: infantry can get through them, but not vehicles."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_11"
+msgid "Infantry units can launch an assault inside a building and engage its occupants in close combat."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_12"
+msgid "Non-recon planes can't see ground targets and need to be guided on target by friendly ground units (or a recon plane)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_13"
+msgid "A routed unit surrenders to an enemy moving into close combat range, if no friendly unit is there to protect it."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_14"
+msgid "Leaders are extremely important, and impact nearby units in four ways: increasing their experience by one level, preventing surrender, allowing a surrounded unit to function normally, and halving the suppression damage received."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_15"
+msgid "Even if hidden, a unit will be seen by the enemy as soon as it uses its weapons."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_16"
+msgid "Some light anti-tank guns can be positioned in buildings to get a defensive bonus."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_2"
+msgid "If an unarmed transport is targeted by enemy fire, it will automatically disembark its passengers before disappearing."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_3"
+msgid "An armoured vehicle doesn't always take damage from a hit: the anti-tank round may bounce off it, or just stun the crew."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_4"
+msgid "If an anti-tank round pierces through a tank's armour, it might destroy it on the spot... unless it suffers a critical hit."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_5"
+msgid "Unlike other troops, airborne units (identified by their wings) don't suffer morale penalties if surrounded in enemy territory."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_6"
+msgid "Weapons can be activated or deactivated individually in the unit selection menu."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_7"
+msgid "Artillery observers can call in powerful off-map strikes. They can be identified by their dedicated icon."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_8"
+msgid "A reinforcement arrow can't be used if located within enemy territory."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_9"
+msgid "A unit surrounded in enemy territory won't be able to regain suppression, and once routed is most likely to surrender."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint3_Beta"
+msgid "Pre-Order Beta - The Game will contain 18 divisions on release."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_1"
+msgid "Experience is essential, increasing key statistics depending on unit types (accuracy, morale, RoF, optics...). Also, remember that leaders add one level of experience to nearby units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_10"
+msgid "Position your anti-tank guns & machine-guns under cover of vegetation or a building, but never in the open."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_11"
+msgid "Even the heaviest tanks are vulnerable if attacked from the sides or the rear."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_12"
+msgid "Even the heaviest tanks are vulnerable to close-range bazooka attacks."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_13"
+msgid "Satchel charges and flamethrowers can deal with infantry units very quickly, but their range is VERY limited."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_14"
+msgid "Don't forget that supply units double as transport/tractor."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_15"
+msgid "In solo campaign mode, spare your troops, for you will be able to use them again in the following missions of the same campaign."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_16"
+msgid "The closer an anti-tank round is fired at an enemy armoured vehicle, the more powerful it will be (unless it is a HEAT round, unaffected by range)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_17"
+msgid "Against enemy aircrafts, anti-air guns are the shield and fighters are the sword.\nThe formers suppress them until they fall back, while the latters shoot them down."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_2"
+msgid "Infantry is much more vulnerable to enemy fire while moving. Only advance under enemy fire as a last resort."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_3"
+msgid "Any infantry unit close to an enemy vehicle will automatically try to disable it with hand grenades or mines. Open-top vehicles are especially vulnerable to such attacks."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_4"
+msgid "Always move in HUNT mode if there is a risk of enemy units being nearby."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_5"
+msgid "In deployment mode, always favour positioning your units on roads."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_6"
+msgid "Forcing an enemy unit to surrender is the fastest way of neutralising it."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_7"
+msgid "Always try to seize and hold key defensive positions on the centre of the map, before your opponent."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_8"
+msgid "Church towers provide a better field of view over the horizon, especially for recon units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_9"
+msgid "Always remember to keep your units supplied with ammunitions, especially heavy-use artillery units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint4_Beta"
+msgid "Pre-Order Beta - Optimization and Balance in progress."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Hint5_Beta"
+msgid "Pre-Order Beta - Read the Player Guide on this link bit.ly/SteelDivGuide."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HintSMail"
+msgid "A code will be e-mailed to you that will allow you to reconfigure the password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "HistoOutco"
+msgid "HISTORICAL OUTCOME\n--------------------------------"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "INFANTRY"
+msgid "INFANTRY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "INVA_VERS"
+msgid "Version number differs from server"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "INV_LOGIN"
+msgid "Invalid Login or Password."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "INV_VERS"
+msgid "Version number differs from server. Your game is not up to date."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "JAP"
+msgid "#JAP JAPAN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "January"
+msgid "January"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "July"
+msgid "July"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "June"
+msgid "June"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "KEY_INVALI"
+msgid "CD Key is invalid."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "KEY_USED"
+msgid "CD Key is already used."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "KICK_SLOT"
+msgid "Kick"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LB_BGROUP"
+msgid "BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LB_DIVISN"
+msgid "DIVISION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LB_INCFRMT"
+msgid "%1 / %2 / %3"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LB_NAME"
+msgid "NAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LB_PING"
+msgid "PING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LB_PLAYERS"
+msgid "PLAYERS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LB_PSTATUS"
+msgid "MANAGE PLAYER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_DFTS"
+msgid "DEFEATS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_FRNDS"
+msgid "ADD TO FRIENDS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_GRADE"
+msgid "GRADE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_NAME"
+msgid "NAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_NBPLYR"
+msgid "Number of players"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_PFL"
+msgid "VIEW PROFILE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_POINTS"
+msgid "RATING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_RANK"
+msgid "Rank"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_TREND"
+msgid "TREND"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LDB_VCTRS"
+msgid "VICTORIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LGD_Rpl"
+msgid "Replays Number"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOBBYRK"
+msgid "LOBBY RANKED"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOBBYWARN"
+msgid "Special rule:"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_Ban"
+msgid "You have been banned from this server."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_CFail"
+msgid "Failed creating game room"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_CNoNam"
+msgid "Please fill the Game name field"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_CONTRB"
+msgid "This team must conquer the designated objective to win."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_CONTRE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_CONTRT"
+msgid "ATTACKER'S OBJECTIVE: CONQUEST"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_CoLost"
+msgid "Connection lost."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_CtJoPl"
+msgid "This game has already started. Click the Spectate button to watch it."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_DESTRB"
+msgid "This team must inflict enough damage to the enemy forces to win."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_DESTRE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_DESTRT"
+msgid "DEFENDER'S OBJECTIVE: DESTRUCTION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_Deco"
+msgid "Disconnected from game room"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_Full"
+msgid "Session full."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_JFail"
+msgid "Failed joining game room"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_Kick"
+msgid "Kicked by the host."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_KickBD"
+msgid "Kicked by the server because you don't have BLUFOR and REDFOR decks fitting with the rules of this game.\nCreate an appropriate deck for both before trying to join again."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_KickBP"
+msgid "Kicked by the server because your computer is too slow to play this game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_KickEG"
+msgid "Kicked by the server because you are not ready to play next game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_MOD"
+msgid "You don't own mods needed for this game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_NoSeOb"
+msgid "Cannot create game room with spectator mode activated"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_ObInvD"
+msgid "Invalid data received from server"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_ObInvM"
+msgid "Invalid map received from server"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOB_RANDOM"
+msgid "RANDOM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOGIN_CON"
+msgid "CONNECTING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOGIN_ERR"
+msgid "Login error."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOGIN_WAI"
+msgid "Please wait ..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOGISTIC"
+msgid "LOGISTIC"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOGPASSERR"
+msgid "Invalid login or password."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOG_INCORR"
+msgid "Login incorrect."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOG_INVALI"
+msgid "Login not valid."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOG_LONG"
+msgid "Login too long."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOG_SHORT"
+msgid "Login too short."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LOG_USED"
+msgid "Login already used."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LONGNAME"
+msgid "%1..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LSERR_DEF"
+msgid "Operation failed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Active"
+msgid "ACTIVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Cloud"
+msgid "CLOUD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_DETAILS"
+msgid "DETAILS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Date"
+msgid "DATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Dur"
+msgid "DURATION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Map"
+msgid "MAP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Name"
+msgid "NAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Players"
+msgid "PLAYERS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Rating"
+msgid "RATING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Result"
+msgid "RESULT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Size"
+msgid "SIZE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LS_Types"
+msgid "TYPE(S)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "LVLNOW"
+msgid "#stylered{%1}"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAILSENMAJ"
+msgid "E-MAIL SENT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAILSENMSG"
+msgid "An e-mail has been sent to the corresponding e-mail address"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAILSENT"
+msgid "e-mail sent."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAIL_INVAL"
+msgid "Email not valid."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAIL_MATCH"
+msgid "The emails you entered do not match. Emails must be the same."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAIL_UNKNW"
+msgid "Unknown Email."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAP_01V01"
+msgid "1v1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAP_02V02"
+msgid "2v2 / 3v3"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAP_04V04"
+msgid "4v4"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MAP_10V10"
+msgid "10v10"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MARINE"
+msgid "NAVAL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MCR_WARN"
+msgid "Do you really want to cancel? (counted as a Defeat)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MC_APPMOD"
+msgid "This will relaunch your game. Do you want to continue ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MC_APPMODE"
+msgid "The followings mods are incompatible with previous activated mods."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MC_BACMOD"
+msgid "You have unsaved changes. Do you want to discard them ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MC_DEFMOD"
+msgid "Do you really want to revert all your changes ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MC_DELCAMP"
+msgid "Do you really want to delete this save ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MC_DELREP"
+msgid "Do you realy want to delete this replay ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MC_REPSAVE"
+msgid "Do you really want to replace this save ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MODINFOS"
+msgid "- Mod(s) activated :"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MP_CHALLEN"
+msgid "SCENARIO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MP_LB"
+msgid "LEADERBOARDS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MP_NORMAL"
+msgid "CUSTOM GAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MP_RANKED"
+msgid "RANKED GAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MP_UNRANKD"
+msgid "QUICK PLAY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MT_APPMOD"
+msgid "Apply all changes"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MT_APPMODE"
+msgid "Error"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MT_BACMOD"
+msgid "Unsaved changes"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MT_DEFMOD"
+msgid "Revert all changes"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MT_DELCAMP"
+msgid "Delete a save"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MT_DELREP"
+msgid "Delete selected replay"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MT_NEWCAMP"
+msgid "New save"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MT_RENCAMP"
+msgid "Rename a save"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MT_REPSAVE"
+msgid "Replace a save"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MULTFORMAT"
+msgid "x %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "MULTILOG"
+msgid "You were signed out of the server because another person signed in using your account."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_ALRDYET"
+msgid "Team already exists."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_ARDYTM"
+msgid "Player is already a team member."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_ASetFail"
+msgid "Your graphic settings have not been modified."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_AutoSet"
+msgid "Please wait while the system autoconfigures your graphic settings..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_BRDCSTFB"
+msgid "Broadcast has been disabled for this session, you cannot join it as spectator."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_CHGSESS"
+msgid "You are about to quit your current game to join this new one. Do you want to continue ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_CREAROOM"
+msgid "Creating game room..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_CoAutSet"
+msgid "AutoSettings will compute the best graphic options for your computer.\n\nThis may take a few minutes and your screen may flicker during the process. This will close any game session you currently are in."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_DLCFNEED"
+msgid "You don't own the free downloadable content %1.\n\nIt includes :\n%2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_DLCFRANK"
+msgid "The free downloadable content %1 is required to play in ranked mode.\n\nIt includes :\n\n%2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_DLCPNEED"
+msgid "You don't own the downloadable content %1.\n\nIt includes :\n%2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_DLMOD"
+msgid "You're missing mods to launch this game. Do you want to download them ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_DLMODERR"
+msgid "Failed to download needed mods."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_DLMODIMP"
+msgid "This game uses either deprecated or unpublished mods."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_FORBRNK"
+msgid "You are not leader of team."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_FORBRNL"
+msgid "There are still members in this team or invitation pending.\n\nYou must give leadership to another member before leaving the team."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_FRIENDAF"
+msgid "You are already friends."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_FRIENDAI"
+msgid "You already have a pending request from this friend."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_FRIENDAR"
+msgid "You have already sent a request to this friend."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_FRIENDIY"
+msgid "You cannot send friend requests."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_FRIENDNF"
+msgid "Login cannot be found."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_FSERVER"
+msgid "Waiting to connect to friend server. Please sign in with a Steel Division account and/or try again later."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_INVRCH"
+msgid "Maximum number of invitations reached."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_JOINROOM"
+msgid "Joining game room..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_LEAVROOM"
+msgid "Leaving game room..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_LOADING"
+msgid "Loading..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_MODCAMP"
+msgid "You have some mod activated and you already have a campagn save with other mod(s). Do you want to continue, restart with the old mod(s) or cancel?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_MODDTERR"
+msgid "Failed to retrieve needed mods metadata."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_PROFCOR"
+msgid "Your profile needs to be loaded, but no valid profile could be found.\nDo you want to create one? If you already had a profile, it could be overwritten and all your data will be lost."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_PROFFAIL"
+msgid "Failed to load your profile. Please try again."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_PROFSYNC"
+msgid "Your profile is being synchronized with steam. Please restart the game to complete the process."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_QUIT"
+msgid "Do you really want to quit?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_RCHLIMT"
+msgid "Maximum number of teams reached."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_RSTGAME"
+msgid "The game need to restart to activate appropriate mods. Do you want to continue?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_SAVING"
+msgid "Saving..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_SAVINGEX"
+msgid "Saving %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_SPCTFULL"
+msgid "Maximum of spectators has been reached."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "M_STPRKSCH"
+msgid "You are about to stop searching ranked game. Do you want to continue ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "March"
+msgid "March"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "May"
+msgid "May"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NAME_EMPT"
+msgid "Field is empty. Please enter a name."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NATO"
+msgid "ALLIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NBPLY_SEAR"
+msgid "(%1 players searching)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NEXTLEVEL"
+msgid "NEXT LEVEL: #stylered{%1}"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NK"
+msgid "#NK NORTH KOREA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NON_APP"
+msgid "…"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NOR"
+msgid "#NOR NORWAY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NOT_ELIGIB"
+msgid "You are not eligible to create an account."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NRDY_SLOT"
+msgid "Not Ready"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NREQFRIEND"
+msgid "%1 wants to be your friend."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NREQPLAYER"
+msgid "%1 invites you to play."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NREQTEAM"
+msgid "You have received an invitation to join team [%1]"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NSWP"
+msgid "#POL #CZ #RDA EASTERN BLOCK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NV_BACK"
+msgid "BACK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NV_CREATE"
+msgid "CREATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NV_HBACK"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "NV_LEAVE"
+msgid "LEAVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "November"
+msgid "November"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_BL"
+msgid "PLAYER MUTED [%1]"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_BLCHAN"
+msgid "CHANNEL MUTED [%1]"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_BL_FMT"
+msgid "%1 (MUTED)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_CNTCTS"
+msgid "RECENT CONTACTS [%1]"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_COPIED"
+msgid "Message copied to clipboard"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_ERR"
+msgid "Please select an interlocutor."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_FRIENDS"
+msgid "FRIENDS ONLINE [%1]"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_FROM"
+msgid "From"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_GLOBAL"
+msgid "GLOBAL CHANNELS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_HADD"
+msgid "Send a friend request to selected user in your recent contacts."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_HCLR"
+msgid "Clears the social chat history."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_HTADD"
+msgid "ADD FRIEND"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_HTBL"
+msgid "MUTE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_HTCLR"
+msgid "CLEAR SCREEN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_HTTBL"
+msgid "Add (or remove) current lobby or selected player (from) your mute list. All incoming messages from that contact will be filtered out."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_JOIN"
+msgid "Now talking in %1 chat."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_JOINCHA"
+msgid "Now talking in %1 chat (%2 players connected)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_LBY"
+msgid "%1's LOBBY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_MUTED"
+msgid "%1 has been muted."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_RKLBY"
+msgid "RANKED LOBBY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_STMTLBY"
+msgid "STRATEGIC LOBBY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_SYS"
+msgid "SYSTEM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_TELL"
+msgid "You are now talking to %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_TO"
+msgid "To"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OC_UNMUTED"
+msgid "%1 has been unmuted."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_COPYBB"
+msgid "Click to create a duplicate of one of your existing battlegroups."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_COPYBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_COPYBT"
+msgid "COPY A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_CREABB"
+msgid "Click to create a new battlegroup from scratch."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_CREABE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_CREABT"
+msgid "CREATE A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_EDITBB"
+msgid "Click to open and modify one of your existing battlegroups."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_EDITBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_EDITBT"
+msgid "EDIT A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_EXPOBB"
+msgid "Click to generate a string of data from one of your existing battlegroups."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_EXPOBE"
+msgid "You can then copy-paste that simple string to share your battlegroups with your friends, or on forums."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_EXPOBT"
+msgid "EXPORT A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_IMPOBB"
+msgid "Click to add a friend's battlegroup to your list from a string of data."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_IMPOBE"
+msgid "Paste the string of data you've been given in the appropriate cell, name it and import the battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_IMPOBT"
+msgid "IMPORT A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_RENABB"
+msgid "Click to rename an existing battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_RENABE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_RENABT"
+msgid "RENAME A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_RMVBB"
+msgid "Click to remove an existing battlegroup from your list permanently."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_RMVBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_RMVBT"
+msgid "DELETE A BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_RMVNOB"
+msgid "Can't remove a deck while in a lobby or a game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_VIEWBB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_VIEWBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODL_VIEWBT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_ATFILB"
+msgid "Click to fill this battlegroup automatically with units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_ATFILE"
+msgid "It is a good way to create your first battlegroup with a division, or a default one on which you can perform minor tweaks."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_ATFILT"
+msgid "AUTO-FILL BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_BACBUB"
+msgid "Click to return to the previous screen."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_BACBUE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_BACBUT"
+msgid "QUIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_DISCBB"
+msgid "Discard your changes."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_DISCBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_DISCBT"
+msgid "DISCARD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_EDITBB"
+msgid "Click to open and modified this battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_EDITBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_EDITBT"
+msgid "EDIT BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_RENABB"
+msgid "Click to rename this battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_RENABE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_RENABT"
+msgid "RENAME BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_SAVEBB"
+msgid "Save your changes."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_SAVEBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_SAVEBT"
+msgid "SAVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_VALBUB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_VALBUE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_VALBUT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_VALNOB"
+msgid "You have unused slots for units in your deck."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_VALNOE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODO_VALNOT"
+msgid "INCOMPLETE DECK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODV_INCB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODV_INCE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ODV_INCT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_CNTINB"
+msgid "Go back to your game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_CNTINE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_CNTINT"
+msgid "CONTINUE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_EXITB"
+msgid "Exit this game. Any unsaved progress will be lost."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_EXITE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_EXITT"
+msgid "EXIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_HELPB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_HELPE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_HELPT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_LOADB"
+msgid "Load a previously saved game. It will end your current game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_LOADE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_LOADT"
+msgid "LOAD GAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_OPTNSB"
+msgid "Go to the options screen. It won't end your current game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_OPTNSE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_OPTNST"
+msgid "OPTIONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_RETRTB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_RETRTE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_RETRTT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_RSTRTB"
+msgid "Retry this mission from the beginning."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_RSTRTE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_RSTRTT"
+msgid "RESTART"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_SAVEB"
+msgid "Save this game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_SAVEE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_SAVET"
+msgid "SAVE GAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_SURNDB"
+msgid "Concede victory of this game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_SURNDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OES_SURNDT"
+msgid "SURRENDER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_ADDFDB"
+msgid "Click to send a friend request to the selected player."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_ADDFDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_ADDFDT"
+msgid "ADD FRIEND"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_BTFDNB"
+msgid "Choose the map on which your game will be fought."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_BTFDNE"
+msgid "Stars next to a name indicate its complexity."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_BTFDNT"
+msgid "MAP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_BTFDSB"
+msgid "Choose the size of the map depending on the number of players."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_BTFDSE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_BTFDST"
+msgid "SIZE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_CANCLB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_CANCLE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_CANCLT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_DECKSB"
+msgid "Click to open your BATTLEGROUP LIST."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_DECKSE"
+msgid "Visiting your BATTLEGROUP LIST won't disconnect you from this lobby."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_DECKST"
+msgid "OPEN BATTLEGROUP LIST"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_DIFFIB"
+msgid "Set the difficulty of this scenario"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_DIFFIE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_DIFFIT"
+msgid "DIFFICULTY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_DOWNB"
+msgid "Open Steam store to purchase the DLC."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_DOWNE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_DOWNT"
+msgid "DOWNLOAD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_GMMODB"
+msgid "Choose the victory mode (CLOSER COMBAT, CONQUEST or DESTRUCTION) in which your game will be set."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_GMMODE"
+msgid "In CONQUEST and CLOSER COMBAT, you earn Victory Points by controlling more ground than your opponent.\nIn DESTRUCTION, you earn Victory Points by destroying more enemy units than your opponent."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_GMMODT"
+msgid "GAME MODE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_INCRTB"
+msgid "Set the rate of the Requisition Point income in-game, once the game is launched.\nDefault setting is MEDIUM."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_INCRTE"
+msgid "VERY LOW means Requisition Point rate is x0.5 the default one.\nLOW is x0.75 the default one.\nHIGH is x1.25 the default one.\nVERY HIGH is x1.5 the default one."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_INCRTT"
+msgid "INCOME RATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_INVITB"
+msgid "Click to select a friend in your friend list and send them an invitation to join this game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_INVITE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_INVITT"
+msgid "INVITE A FRIEND"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_LEAVEB"
+msgid "Click to return to the previous screen."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_LEAVEE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_LEAVET"
+msgid "LEAVE LOBBY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_LNCHB"
+msgid "Click to start the game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_LNCHE"
+msgid "You should make sure everybody is ready first."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_LNCHT"
+msgid "LAUNCH GAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_MXTIMB"
+msgid "Set the maximum duration of the game if no-one reaches the Victory Point limit."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_MXTIME"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_MXTIMT"
+msgid "TIME LIMIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_OPSTNB"
+msgid "Default OPPOSITION setting is 'AXIS vs ALLIES', but you can also set the game to pit Allied or Axis divisions against each other."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_OPSTNE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_OPSTNT"
+msgid "OPPOSITION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_STRPOB"
+msgid "Set the amount of Requisition Points each player will start the game with for initial deployment."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_STRPOE"
+msgid "Default setting is 500. "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_STRPOT"
+msgid "STARTING RESOURCES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_SWTCHB"
+msgid "Click to switch from one team to another."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_SWTCHE"
+msgid "You can also switch AI from one team to another."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_SWTCHT"
+msgid "SWITCH TEAM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_VICPOB"
+msgid "Set the Victory Points limit to instantly win the game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_VICPOE"
+msgid "If no side has reached this limit by the end of the timer, the winner is the one with the more Victory Points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_VICPOT"
+msgid "VICTORY CONDITION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_VIEWDB"
+msgid "Click to open the selected player's DECK."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_VIEWDE"
+msgid "Viewing the DECK won't disconnect you from this lobby."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_VIEWDT"
+msgid "VIEW THE DECK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_VISBTB"
+msgid "Choose if your game is PUBLIC or PRIVATE."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_VISBTE"
+msgid "PUBLIC games are visible and accessible by anyone.\nPRIVATE games are visible and accessible only by your friends."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OLB_VISBTT"
+msgid "VISIBILITY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OMD_DISCDB"
+msgid "Click to discard your modifications before exiting this screen."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OMD_DISCDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OMD_DISCDT"
+msgid "DISCARD CHANGES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OMD_SAVEDB"
+msgid "Click to save your modifications before exiting this screen."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OMD_SAVEDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OMD_SAVEDT"
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OMD_SRNDCB"
+msgid "This will end the game.\nQuitting too early in the game is frowned upon by the community."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OMD_SRNDCE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OMD_SRNDCT"
+msgid "YOU ARE ABOUT TO SURRENDER …"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_APPLYB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_APPLYE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_APPLYT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_AUTOSE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_BACKB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_BACKE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_BACKT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_RESETB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_RESETE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OOP_RESETT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OPEN_SLOT"
+msgid "Open"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OP_JAUGE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OP_NAME"
+msgid "OPERATIONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OP_PARAMS"
+msgid "GAME PARAMETERS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OP_PERCENT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "OP_RESUME"
+msgid "RESUME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "October"
+msgid "October"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PACT"
+msgid "AXIS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PASCHANGED"
+msgid "Password changed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PASCHANMSG"
+msgid "Your password has been successfuly changed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PAS_INVALI"
+msgid "Password not valid."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PAS_LONG"
+msgid "Password is too long."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PAS_MATCH"
+msgid "The passwords you entered do not match. Passwords must be the same."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PAS_SHORT"
+msgid "Password is too short."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PERCFORMAT"
+msgid "%1 %%"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PGRACE_MSG"
+msgid "You have unlocked the Ace 'John Howard' for the 6th Airborne Division\nHave fun!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PLANE"
+msgid "PLANE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PLPAN_HINT"
+msgid "XP : %1 / %2."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PLPAN_TIPS"
+msgid "XP points can be earned by playing in any game mode. Victories are more rewarding."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PLPAN_TITL"
+msgid "Go to your profile"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PLUSFORMAT"
+msgid "+ %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PL_InGame"
+msgid "In game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PL_InMenu"
+msgid "In menu"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PL_InSess"
+msgid "In session"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PL_NOTINCG"
+msgid "In another game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PL_Offline"
+msgid "Offline"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PL_RESOPP"
+msgid "RESERVED FOR OPPONENT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PL_RESTEAM"
+msgid "RESERVED FOR TEAMMATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PL_UNKWAIT"
+msgid "???"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PL_Watch"
+msgid "Spectating game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "POL"
+msgid "#POL POLAND"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "POPATL_MSG"
+msgid "Download 7 additional Historical Missions now, available in the new Back to Hell expansion pack!\n\nThis DLC also features 4 new Divisions and 2 new exclusive Aces! Get it now!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "POPATL_TTL"
+msgid "NEW HISTORICAL MISSIONS AVAILABLE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PREQFRIEND"
+msgid "You have pending friend requests."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PROCCRASH"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PSEUD_MPT"
+msgid "Pseudo is too short."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "PTSFORMAT"
+msgid "%1 PTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "QUIT_WARN"
+msgid "All your unsaved progress will be lost."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RANKG_ELAP"
+msgid "Elapsed time"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RANKG_FND"
+msgid "Game Found! Launching in %1s"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RANKG_SEAR"
+msgid "Searching ranked game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RANKG_UNK"
+msgid "???"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RDA"
+msgid "#RDA 101st SS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "READY"
+msgid "Ready"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "READY_SLOT"
+msgid "Ready"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RECON"
+msgid "RECON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "REDDRAG"
+msgid "#CHI #NK RED DRAGONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RFA"
+msgid "#RFA WEST-GERMANY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_BG_GAL"
+msgid "BrG"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_CAPTAI"
+msgid "Capt"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_COLONE"
+msgid "Col"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_CORPO"
+msgid "Corp"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_F_MARS"
+msgid "FM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_GENERA"
+msgid "Gen"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_LTENAN"
+msgid "1tLt"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_LT_CNE"
+msgid "LCol"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_LT_GAL"
+msgid "LtG"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_MAJOR"
+msgid "Maj"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_MJ_GAL"
+msgid "MajG"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_PRIVAT"
+msgid "Pvt"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_SERGNT"
+msgid "Sgt"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_SGT_MJ"
+msgid "SgtM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKA_SND_LN"
+msgid "2dLt"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKH_FIRST"
+msgid "and first of the leaderboard"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKH_PTS"
+msgid "%1-%2 points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKH_PTSMAX"
+msgid ">%1 points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKH_PTSMIN"
+msgid "<%1 points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RKH_SECTHI"
+msgid "and second or third of the leaderboard"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_BG_GAL"
+msgid "Brigadier-General"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_CAPTAIN"
+msgid "Captain"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_COLONEL"
+msgid "Colonel"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_CORPO"
+msgid "Corporal"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_F_MARSH"
+msgid "Field Marshal"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_GENERAL"
+msgid "General"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_LTENANT"
+msgid "Lieutenant"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_LT_CNEL"
+msgid "Lieutenant-Colonel"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_LT_GAL"
+msgid "Lieutenant-General"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_MAJOR"
+msgid "Major"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_MJ_GAL"
+msgid "Major-General"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_PRIVATE"
+msgid "Private"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_SERGNT"
+msgid "Sergeant"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_SGT_MJR"
+msgid "Sergeant Major"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RK_SND_LNT"
+msgid "2nd Lieutenant"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RND_CUSDKA"
+msgid "Random Allied Custom Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RND_CUSDKX"
+msgid "Random Axis Custom Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RND_DKA"
+msgid "Random Allied Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RND_DKX"
+msgid "Random Axis Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RND_PREDKA"
+msgid "Random Allied PreMade Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RND_PREDKX"
+msgid "Random Axis PreMade Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ROK"
+msgid "#ROK SOUTH KOREA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ROOM_CFail"
+msgid "Cannot create game room"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RPLTI_OLD"
+msgid "Loading replay..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RPL_OLDOUT"
+msgid "A special viewer is needed to launch this replay. This operation may takes some time and will disconnect you from this server."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RPL_RENOVR"
+msgid "A replay with the same name already exists."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "RP_DESYNC"
+msgid "DESYNC"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SAVE_OLD"
+msgid "Loading save..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SAV_OLDOUT"
+msgid "A special viewer is needed to launch this save. This operation may takes some time and will disconnect you from this server."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SCAND"
+msgid "#SWE #NOR #DAN SCANDINAVIA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_CAMP"
+msgid "CAMPAIGN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_CLOUD"
+msgid "CLOUD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_CMPG"
+msgid "CAMPAIGN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_COPY"
+msgid "COPY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_DATE"
+msgid "DATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_DELETE"
+msgid "DELETE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_LAUNCH"
+msgid "LAUNCH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_MAP"
+msgid "MAP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_MODE"
+msgid "MODE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_NAME"
+msgid "NAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_NBSAV"
+msgid "Number of saves: %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_OP"
+msgid "OPERATION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_RENAME"
+msgid "RENAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_RENOVR"
+msgid "A Save with the same name already exists."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_SCEN"
+msgid "SCENARIO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_SKIR"
+msgid "SKIRMISH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_TTLOAD"
+msgid "LOAD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_TTSAVE"
+msgid "SAVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SGP_TUTO"
+msgid "TUTORIAL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SOLO_CAMP"
+msgid "SOLO CAMPAIGN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_CAMPXP"
+msgid "Campaign XP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_CMPGAM"
+msgid "Campaign played"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_CMPNATO"
+msgid "Campaign played as ALLIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_CMPPACT"
+msgid "Campaign played as AXIS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_CMPVIC"
+msgid "Victories"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_FAVUNIT"
+msgid "FAVORITE UNITS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_FUAERI"
+msgid "Aerial units"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_FUART"
+msgid "Artillery units"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_FUAT"
+msgid "Anti-tank units"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_FUDCA"
+msgid "Anti-aircraft units"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_FUINFA"
+msgid "Infantry units"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_FURECO"
+msgid "Recon units"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_FUSUPP"
+msgid "Support units"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_FUTANK"
+msgid "Tank units"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_LSTPLY"
+msgid "Last game played"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_LVL"
+msgid "LEVEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_MLTDEF"
+msgid "Defeats"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_MLTDRA"
+msgid "Draws"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_MLTGAM"
+msgid "Multiplayer games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_MLTNATO"
+msgid "Games with ALLIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_MLTPACT"
+msgid "Games with AXIS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_MLTRAT"
+msgid "Victory Ratio"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_MLTVIC"
+msgid "Victories"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_NEXTLVL"
+msgid "Next level in"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_NORMXP"
+msgid "Multiplayer XP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_OVERANK"
+msgid "Overall ranking"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYCAMP"
+msgid "Campaign"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYCMP"
+msgid "CAMPAIGN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYGRA"
+msgid "Grade"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYLVL"
+msgid "Player level"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYMENU"
+msgid "Menus"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYMLT"
+msgid "MULTIPLAYER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYMULT"
+msgid "Multiplayer games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYRANK"
+msgid "Ranked games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYRNK"
+msgid "RANK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYSKIR"
+msgid "Skirmish games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLYTUTO"
+msgid "Tutorial"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_PLY_T"
+msgid "Total"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RANKXP"
+msgid "Ranked XP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RATDIF"
+msgid "Grade rating range"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RATING"
+msgid "Rating"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RNKDEF"
+msgid "Defeats"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RNKDRA"
+msgid "Draws"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RNKGAM"
+msgid "Ranked Games"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RNKNATO"
+msgid "Ranked Games with ALLIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RNKNOG"
+msgid "No game played"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RNKPACT"
+msgid "Ranked Games with AXIS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RNKRAT"
+msgid "Victory Ratio"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_RNKVIC"
+msgid "Victories"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_SKIRXP"
+msgid "Skirmish XP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_STATS"
+msgid "STATS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_TIMES"
+msgid "PLAYING TIMES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_TOTALXP"
+msgid "Total XP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_TREND"
+msgid "Trend"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_TRENDOW"
+msgid "Down"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_TRENDRA"
+msgid "Draw"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SP_TRENDUP"
+msgid "Up"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SRV_AUTH"
+msgid "SERVER AUTHENTIFICATION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SRV_ERROR"
+msgid "Internal server error."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SRV_INVAL"
+msgid "Invalid password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SRV_PASSW"
+msgid "Password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_CANCEL"
+msgid "BACK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_CANCEL2"
+msgid "CANCEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_DISCARD"
+msgid "DISCARD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_MSGERRO"
+msgid "Your deck is empty."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_MSGMODC"
+msgid "Mod(s) are downloading. Please wait."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_MSGMODD"
+msgid "Mod(s) downloaded. Click OK to restart."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_MSGMODF"
+msgid "Mod(s) download failed. Verify your internet connection and retry."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_MSGMOUT"
+msgid "This mod is outdated and can't be activated. You can request an update by contacting the author of the mod. "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_MSGSAVE"
+msgid "You have pending changes in your battlegroup. Do you want to save them?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_MSGWAR2"
+msgid "You have unsaved changes in your deck, do you want to continue?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_MSGWARN"
+msgid "You could add more units, do you want to continue?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_OK"
+msgid "OK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_SAVE"
+msgid "SAVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_TTLERRO"
+msgid "ERROR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_TTLMOD"
+msgid "MOD REQUIREMENT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_TTLSAVE"
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SR_TTLWARN"
+msgid "WARNING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SUPPORT"
+msgid "SUPPORT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "SWE"
+msgid "#SWE SWEDEN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "September"
+msgid "September"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Spectate"
+msgid "Allow spectating"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TANK"
+msgid "TANK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TCH"
+msgid "#CZ CZECHOSLOVAKIA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TCHRONOMIN"
+msgid "%1:%2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TDmyHmFOR"
+msgid "%1/%2/%3 - %4h %5m"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TEMP_ERR"
+msgid "Server error. Try again later."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TIMEOUT"
+msgid "The server hasn't responded in time."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TMINFORMAT"
+msgid "%1 min"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TMSFORMAT"
+msgid "%1 min. %2 sec."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TOTALXP"
+msgid "TOTAL XP: #stylered{%1}"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TUTO_HINT"
+msgid "GAME TIPS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TUTO_HNT1"
+msgid "Shortcuts"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TUTO_HNT2"
+msgid "User Interface"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TUTO_HNT3"
+msgid "Gameplay Tips"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TUTO_HNT4"
+msgid "Tactical Tips"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TUTO_HNT5"
+msgid "Hint 5"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TUTO_LIST"
+msgid "BOOT CAMP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TWOVALFORM"
+msgid "%1 - %2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_ACCASK"
+msgid "Identification"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_ADVVID"
+msgid "ADVANCED VIDEO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_ASKOVER"
+msgid "OVERRIDE SHORTCUT ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_ASetFail"
+msgid "AutoSettings Failed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_AVATAR"
+msgid "AVATAR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_AutoSet"
+msgid "AutoSettings"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_BRDCSTFB"
+msgid "Broadcast forbidden"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_CHANGET"
+msgid "Team Activation Failed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_CHGLOGIN"
+msgid "Recover Login"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_CHGPASS"
+msgid "Change Password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_CHGPSUDO"
+msgid "CHANGE NICKNAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_CHGSESS"
+msgid "Leave Game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_CONNECT"
+msgid "WELCOME TO STEEL DIVISION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_CREAT"
+msgid "Team Creation Failed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_CrAcc"
+msgid "Create Paradox Account"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_DECKVIEW"
+msgid "BATTLEGROUP OVERVIEW"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_DLC_NEED"
+msgid "DLC is missing"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_DLC_NEW"
+msgid "New DLC available"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_DLMOD"
+msgid "Download missing mods"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_DLMODERR"
+msgid "Download Failed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_DLMODIMP"
+msgid "Invalid mods"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_FPASSWD"
+msgid "Forgot password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_FRDDEL"
+msgid "DELETE FRIEND ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_FRDJOIN"
+msgid "Join this game ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_FRIENDS"
+msgid "FRIENDS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_FRREC"
+msgid "Received request"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_FRSENT"
+msgid "Sent request"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_FULL"
+msgid "Session full"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_HOST"
+msgid "Host game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_INVFAIL"
+msgid "Invitation failed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_INVITE"
+msgid "Invite Friends"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_LDB"
+msgid "LEADERBOARD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_LEAVETF"
+msgid "Leave Team Failed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_LEVEL"
+msgid "LEVEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_LEVELUP"
+msgid "LEVEL UP "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_LINKACC"
+msgid "Link Eugen Account"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_LINKACCP"
+msgid "Link Paradox Account"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_LOBBY"
+msgid "LOBBY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_MODCAMP"
+msgid "Warning"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_MODCENT"
+msgid "MOD CENTER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_MODDTERR"
+msgid "Error"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_NAME"
+msgid "NAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_OPTIONS"
+msgid "OPTIONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_PROFCOR"
+msgid "Profile requested"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_PROFSYNC"
+msgid "Profile synchronizing"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_RANK"
+msgid "RANK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_RANKED"
+msgid "RANKED GAME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_REPLAY"
+msgid "REPLAY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_ROOMLIST"
+msgid "MULTIPLAYER SESSIONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_RPLRENA"
+msgid "Rename selected replay"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_RSTGAME"
+msgid "Relaunch Game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_SENDING"
+msgid "SENDING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_SETTING"
+msgid "SETTING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_STATS"
+msgid "STATS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_STATUS"
+msgid "STATUS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_STPRKSCH"
+msgid "Stop searching Ranked Game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "T_TINVIT"
+msgid "Invitation Failed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ThmFOR"
+msgid "%1h %2m"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "ThmPerFOR"
+msgid "%1h %2m (%3%%)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TosApprov"
+msgid "By logging in with your Paradox Account, information about your email address, date of birth, and country of residence will be shared and stored with Eugen Systems. For more information, please see our Privacy Policy : "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TosPrivPol"
+msgid ". Paradox's Privacy Policy"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "TosUse"
+msgid ". Paradox's Terms of Use"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "UK"
+msgid "#UK UNITED KINGDOM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "UNKNWN_ERR"
+msgid "Unknown error."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "UNRAN_SEAR"
+msgid "Searching quick play game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "URSS"
+msgid "#URSS URSS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "US"
+msgid "#US US Army"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "VACFAIL"
+msgid "Unable to connect as a problem with your computer blocks the VAC system. Please ensure that you do not use any program that can interfere with VAC and check that Steam is installed correctly"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "VALUFORMAT"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "VEHICLE"
+msgid "VEHICLE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "VERFORMAT"
+msgid "v.%1 %2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Val_Always"
+msgid "Yes, Always"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Val_No"
+msgid "No"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Val_NoMaj"
+msgid "NO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Val_Yes"
+msgid "Yes"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "Val_YesMaj"
+msgid "YES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "WARNING"
+msgid "WARNING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "cnewpass"
+msgid "Confirm new password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "confemail"
+msgid "Confirm e-mail"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "cpass_code"
+msgid "Code"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "defGameNa"
+msgid "%1's Game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "defPlayer"
+msgid "Player"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "email"
+msgid "E-mail"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "gameName"
+msgid "Game name"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "gameVisibi"
+msgid "Game visibility"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "login"
+msgid "Login"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "newpass"
+msgid "New password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "password"
+msgid "Password"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_OUTGAME.csv
+msgctxt "pseudo"
+msgid "Player name"
+msgstr ""
+

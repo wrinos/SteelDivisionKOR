@@ -1,0 +1,243 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT1"
+msgid "In this exercise, you'll learn how to defend against aircraft, and also how to use them.\nWhile on the ground you'll learn how to call in off-map long-range ARTILLERY strikes.\nYou are being granted access to the ANTI-AIR and AIR classes of the BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT10"
+msgid "The mobile Observation Post (OP) (or #coloredtext4{ARTILLERY OBSERVER} #op) can call ARTILLERY strikes from an off-map battery. Once the mission is fired, it takes some time to strike, but it suppresses and decimates any units in its area of effect."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT11"
+msgid "The enemy has established defence positions on the map.\nYou will need to find and dismantle them, one by one."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT12"
+msgid "But first, army intel warns us about an enemy aircraft take-off.\nLet’s #coloredtext5{DEPLOY AND POSITION} the #coloredtext4{M16 MGMC} in your DEPLOYMENT ZONE.\nClick on the LAUNCH BATTLE button when it’s done."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT13"
+msgid "The air raid alarm signal indicates an enemy aircraft has been spotted!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT14"
+msgid "It is a German ME 109 G0 #eme109 fighter, trying to claim AIR superiority!\nHopefully you have positioned your ANTI-AIR #pm16 defence in time!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT15"
+msgid "The ME 109 G0 #eme109 is now under suppressive fire!\nIt won’t be long before it flees…"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT16"
+msgid "Great job - the German ME 109 G0 #eme109 has evacuated!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT17"
+msgid "Now that we have a clear sky, bring in the #coloredtext4{GRASSHOPPER} to recon and #coloredtext5{FIND ALL OF THE ENEMY DEFENCES} on the ground."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT18"
+msgid "Once you call in an aircraft, it places itself on the #coloredtext4{OFF MAP ASSETS} panel.\nThis panel lists all your off-map assets, planes & heavy artillery, and indicates each one's status."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT19"
+msgid "As you can see in the off-map assets panel, your GRASSHOPPER is in READY stance.\nSelect it and RIGHT CLICK #mouserightclick anywhere on the map to deploy it."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT2"
+msgid "Click NEXT to compose your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT20"
+msgid "Well done! The GRASSHOPPER's #ppreco status once deployed is IN MISSION.\nThe gauge represents its fuel tank. Once it’s empty, planes automatically EVACUATE to resupply for a given duration before returning to the READY status."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT21"
+msgid "Let’s not waste time, we should detect the enemy's positions before the GRASSHOPPER #ppreco needs to resupply!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT22"
+msgid "Good job! All enemy defences have been spotted!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT23"
+msgid "It’s a bloody alarm! That goddamned German ME 109 G0 fighter #eme109 came back!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT24"
+msgid "Try to #coloredtext4{EVACUATE} #evacuate (Short-key #inputv) the GRASSHOPPER #ppreco! It will cancel its ongoing mission and resupply."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT25"
+msgid "It is time to call in the #coloredtext4{P-51D} #pp51: it's our best asset against this German fighter. Once deployed, it will automatically engage the ME 109 G0 #eme109 in a dogfight."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT26"
+msgid "Great job! Now we can reclaim AIR superiority and start the dismantlement of enemy defences!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT27"
+msgid "Call back a #coloredtext4{GRASSHOPPER} #ppreco and let’s focus on the first enemy concentration (#epak40 / #emg42). Let’s deploy the #coloredtext4{FORD GPA OP (356mm)} to call in an off-map ARTILLERY strike."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT28"
+msgid "FORD GPA OP (356mm) #pfordop deployed. Its associated off-map battery now appears in the Off-map assets panel. Next to it are listed 3 types of strikes:\n#coloredtext4{FIRE FOR EFFECT} #strike1, #coloredtext4{EMERGENCY} #strike2 and #coloredtext4{BARRAGE} #strike3."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT29"
+msgid "Select the #coloredtext4{FIRE FOR EFFECT} #strike1 one, the longest but most precise strike, and click on the first enemy concentration (#epak40 / #emg42). You have a total of 3 fire missions at your disposal. Scout with the GRASSHOPPER #ppreco to target precisely and be sure that no units are left."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT3"
+msgid "Fill the unit pack slots available in the now unlocked ARTILLERY, ANTI-AIR & AIR classes of the BATTLEGROUP. Don’t forget to add the new units available to your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT30"
+msgid "Remember that you can increase the #coloredtext4{GAME SPEED}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT31"
+msgid "Well done! The first enemy defensive line (#epak40 / #emg42) has been wiped out!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT32"
+msgid "The best way to get rid of those isolated PAK 43 88mm #epak88 is with our\n#coloredtext4{P-47 THUNDERBOLT}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT33"
+msgid "Use the GRASSHOPPER to get a clear view on the PAK 43 88mm #epak88 positions and deploy the P-47 THUNDERBOLT #pp47 to snipe them!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT34"
+msgid "OK, one PAK 43 88mm #epak88 gone, and one to go!\nDon’t waste time, deploy another #coloredtext4{P-47 THUNDERBOLT} #pp47."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT35"
+msgid "Good job, the PAK 43 88mm #epak88 are no more!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT36"
+msgid "You can now deploy the #coloredtext4{B-26 MARAUDER} HEAVY BOMBER or call in another off-map ARTILLERY strike, if left, on that last enemy concentration (#epak40 / #emg42)."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT37"
+msgid "Good choice, sir! Select your B-26 MARAUDER #pb26 and RIGHT CLICK #mouserightclick on a spotted enemy target, or #coloredtext4{FIRE ON POSITION} #fireposition (Shortcut: #inputt) and RIGHT CLICK on the desired position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT38"
+msgid "Great job, the enemy position (#epak40 / #emg42) has been eradicated!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT39"
+msgid "Well done, sir! You have mastered the use of off-map assets.\nYou've understood how vital it is to keep AIR superiority, and how to severely impact the enemy’s morale and troops by using powerful off-map ARTILLERY strikes."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT4"
+msgid "AIR units have various roles, depending on their loadout."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT40"
+msgid "No units have been deployed! Please pick a unit in the #coloredtext4{REQUISITION MENU} to position the unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT40b"
+msgid "The unit will then appear from the blue arrow called REINFORCEMENT POINT in MOVE FAST order to take the fastest route, using the road network, to the selected position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT41"
+msgid "Keep your ground unit away from enemy range! Move your unit to the furthest and safest position from here!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT42"
+msgid "You lost a unit, sir! Please pick a unit in the #coloredtext4{Requisition panel}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT43"
+msgid "Your aircraft came back to the airport without completing its mission. Let’s not waste any time, and pick another unit in the #coloredtext4{REQUISITION MENU} to complete the objective."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT44"
+msgid "Ally M8 #am8 reconnaissance vehicles have just arrived to help wipe out any remaining enemies after the artillery strike."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT45"
+msgid "Your aircraft took too much stress and evacuate ! In Fall Back stance it will automatically fly back to the airport to refuel and repair if it makes it alive..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT5"
+msgid "Aerial RECONS #reco , such as the #coloredtext4{GRASSHOPPER}, are the only aerial units that can unveil enemies on the ground without being affected by the terrain or the frontline.\nHowever, they are very fragile units…"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT6"
+msgid "DOGFIGHTER aircrafts #dogfighter, such as the #coloredtext4{P-51D MUSTANG}, fly at a higher altitude to detect other AIR units and engage them in dogfights.\nFighters rule the sky and are the best defence against any other planes."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT7"
+msgid "Ground Attack aircrafts, such as the #coloredtext4{P-47 THUNDERBOLT}, can engage planes, but also isolated ground targets when loaded with bombs #bombs or rockets #rockets .\nBut they fly more slowly and at a lower altitude, making them vulnerable to ANTI-AIR units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT8"
+msgid "HEAVY BOMBER aircraft, such as the #coloredtext4{B-26 MARAUDER}, are loaded with several heavy bombs #bomber . Their goal is to eradicate massed units, whatever their morale.\nBut their size and speed make them an easy target for any fighters."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Dialog.csv
+msgctxt "T6_HNT9"
+msgid "The #coloredtext4{ANTI-AIR} units' role is to protect your ground units on the battlefield.\nMost #coloredtext4{AA} units serve to suppress enemy planes and force them to evacuate the area."
+msgstr ""
+

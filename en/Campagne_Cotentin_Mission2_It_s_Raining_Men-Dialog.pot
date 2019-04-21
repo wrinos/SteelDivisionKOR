@@ -1,0 +1,153 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_0_HNT"
+msgid "Sainte-Mère in sight, sir, what are your orders?"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_10_HNT"
+msgid "They're coming! And they've brought those damn B1 with them."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_11_HNT"
+msgid "Here they come again! They've got armoured support: H-39 infantry tanks."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_12_HNT"
+msgid "Nebelwerfer barrage, get down! I hate those damn Screaming Mimis."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_13_HNT"
+msgid "Air recon and support could be handy, here. They would make short work of enemy AT guns or troop concentrations."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_14_HNT"
+msgid "Boys from the 505th have salvaged a German 88mm gun! But they need ammo to feed it."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_15_HNT"
+msgid "The enemy 88 have been destroyed! Airstrike on its way!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_1_HNT"
+msgid "We still haven't been able to make contact with the 505th, Major. Air support or naval artillery could help to secure the road's flanks."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_2_HNT"
+msgid "We've made contact with the first elements of the 505th, sir. Their communications have broken down, they're asking for orders."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_3_HNT"
+msgid "The garrison is in dire need of ammunition, sir. We should bring in a supply convoy."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_4_HNT"
+msgid "88! They've got a damn 88mm, be careful!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_5_HNT"
+msgid "505th reports serious casualties, but they're holding."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_6_HNT"
+msgid "The 505th is taking heavy casualties, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_7_HNT"
+msgid "The 505th is decimated, Major, they won't be able to take such punishment for very much longer."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_8_HNT"
+msgid "Scouts report that the Germans are wavering. We just have to hold them at bay for a little longer, and they'll give up."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_9_HNT"
+msgid "Some Germans have sneaked behind us. We can't let them cut the road."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_DAIR"
+msgid "The Air Force is designated to assist us: Grasshoppers can detect enemy ambushes, P-51s with bombs destroy their combat positions, and P-47's rockets engage against guns and vehicles."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_DART"
+msgid "Our artillery could dislodge enemy anti-tank guns threatening the road to Sainte-Mère-Eglise."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_DART2"
+msgid "We have also received artillery observers (OP) who may call long-range heavy artillery strike. These strikes are very efficient but take some time to be effective."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_DRECO"
+msgid "The main task of our recon units should be to detect ambushed infantry and anti-tank guns on the road to Sainte-Mère-Eglise, in order for our supply trucks and Sherman DD to reach the village safely."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_DSUPP"
+msgid "It is imperative that we bring a significant number of supply vehicles to replenish the 505th's stocks."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_DSUPP2"
+msgid "Supply jeeps have a limited capacity but they are immediately available. They can be used to resupply our troops in Sainte-Mère-Eglise while waiting for DUKWs, or even captured Opel trucks later on."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_DSUPP3"
+msgid "If our boys managed to capture some German supply trucks around Audouville, these could be the perfect middle ground: good cargo capacity, and we could call them in early enough."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_DTANK"
+msgid "Sherman DD are amphibious tanks which broke through from Utah Beach yesterday. Use them to open the way to Sainte-Mère-Eglise, but be wary of enemy anti-tank guns."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_ECHEC"
+msgid "It's over, Major. The 505th has been slaughtered."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_OBJP"
+msgid "Sainte-Mère is under attack!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Dialog.csv
+msgctxt "02_VICTO"
+msgid "The Germans are pulling back, sir. The siege is lifted."
+msgstr ""
+

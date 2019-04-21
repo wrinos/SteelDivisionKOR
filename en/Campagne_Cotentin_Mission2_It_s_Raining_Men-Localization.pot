@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Localization.csv
+msgctxt "3L9i4CMTmy"
+msgid "Eliminate the enemy 88mm guns to secure the right flank."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Localization.csv
+msgctxt "6bQdbcuNsW"
+msgid "DESTROY THE GUNS"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Localization.csv
+msgctxt "HB4m2hVYK3"
+msgid "(Secondary) RESUPPLY THE FLAK GUN"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Localization.csv
+msgctxt "eeYNoQqgrY"
+msgid "LINK UP WITH THE 505th (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Localization.csv
+msgctxt "fo0YRP2M0l"
+msgid "Resupply the captured Flak gun before it is destroyed."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Localization.csv
+msgctxt "v2YIrtbavL"
+msgid "HOLD STE-MERE-EGLISE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Localization.csv
+msgctxt "xxyOPvcSkg"
+msgid "Take command of the airborne units by moving your troops next to them.\n#coloredtext3{%s / %s} under your command."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission2_It_s_Raining_Men\Scripting\Localization.csv
+msgctxt "ykJxIicMMe"
+msgid "Maintain American units in town to secure it."
+msgstr ""
+

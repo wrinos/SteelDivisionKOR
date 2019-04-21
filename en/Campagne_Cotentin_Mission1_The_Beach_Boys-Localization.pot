@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "2ZHIXBh1sm"
+msgid "The enemy will soon arrive from the Sainte-Mère-Eglise road."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "7TtFyP1nay"
+msgid "SEIZE AUDOUVILLE"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "8nvp62OXl4"
+msgid "Destroy the 88mm to facilitate the invasion troops' advance.\n#coloredtext3{%s} guns remaining."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "BBhLIcwufY"
+msgid "HOLD"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "E7nUJHEjNR"
+msgid "(Secondary) DESTROY ALL 88mm GUNS"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "EWKY870y03"
+msgid "(Secondary) SILENCE THE GUNS"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "HTf1G4hSgx"
+msgid "The enemy will soon arrive from the Sainte-Mère-Eglise road."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "HXjuCUYKrT"
+msgid "Clear the exit of all German defenders to get the tanks rolling towards Sainte-Mère-Eglise."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "M93Ayr5cZb"
+msgid "CLEAR THE WAY"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "SmVQX84Q35"
+msgid "Hold Audouville and assist the DD tanks in getting through to the town."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "U8VVbRkqDf"
+msgid "(Secondary) SILENCE THE GUNS"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "Ywapm3tXYP"
+msgid "Hold Audouville until the tanks reach the village."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "ekgDbCsVse"
+msgid "Destroy the guns shelling the beach to facilitate the invasion troops' advance.\n#coloredtext3{%s} guns remaining."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "hWtsh7fNmd"
+msgid "HOLD AUDOUVILLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "tI68w0P8EM"
+msgid "PREPARE AN AMBUSH (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission1_The_Beach_Boys\Scripting\Localization.csv
+msgctxt "yu5s2HH0pD"
+msgid "Destroy the guns shelling the beach to facilitate the invasion troops' advance.\n#coloredtext3{%s} guns remaining."
+msgstr ""
+

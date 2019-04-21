@@ -1,0 +1,583 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0013"
+msgid "Eugen Systems team"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0014"
+msgid "Creative Director"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0015"
+msgid "CEO & Technical Director"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0016"
+msgid "Gameplay / AI Programming Leads"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0017"
+msgid "Gameplay / AI Programming"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0018"
+msgid "3D Programming Leads"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0019"
+msgid "3D Programming"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0020"
+msgid "Tools Programming"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0021"
+msgid "Lead Game Designer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0022"
+msgid "Game & Level Designers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0023"
+msgid "Producers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0024"
+msgid "Associate Producers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0025"
+msgid "Assistant Producers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0026"
+msgid "Art Director"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0027"
+msgid "Concept Artists"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0028"
+msgid "3D Artists"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0029"
+msgid "Lead Level Building"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0030"
+msgid "Level Building"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0031"
+msgid "Marketing & Communication Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0032"
+msgid "Additionnal "
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0033"
+msgid "Special Thanks to…"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0034"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0035"
+msgid "Paradox “Steel Division: Normandy 44” team"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0036"
+msgid "Production Team Lead"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0037"
+msgid "Lead Producer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0038"
+msgid "Associate Producer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0039"
+msgid "Product Management"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0040"
+msgid "Project Marketing Managers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0041"
+msgid "QA Project Coordinator"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0042"
+msgid "Paradox Interactive"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0043"
+msgid "Management"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0044"
+msgid "CEO"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0045"
+msgid "CFO"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0046"
+msgid "COO"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0047"
+msgid "CPO"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0048"
+msgid "CIO"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0049"
+msgid "Manager of Paradox Studio Group"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0050"
+msgid "Vice President Business Development"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0051"
+msgid "CMO"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0052"
+msgid "Products"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0053"
+msgid "CPO"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0054"
+msgid "Product Management Team"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0055"
+msgid "Product Managers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0056"
+msgid "Associate Product Managers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0057"
+msgid "Process Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0058"
+msgid "Production Team"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0059"
+msgid "Production Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0060"
+msgid "Production Team Lead"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0061"
+msgid "Senior Producers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0062"
+msgid "Producers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0063"
+msgid "Associate Producers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0064"
+msgid "Product Verification"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0065"
+msgid "VP Product Verification"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0066"
+msgid "Product Verification Support Team"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0067"
+msgid "Game Programming Specialist"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0068"
+msgid "User Research Team"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0069"
+msgid "User Research Team Lead"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0070"
+msgid "User Researchers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0071"
+msgid "User Research Participant Coordinator"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0072"
+msgid "QA Team"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0073"
+msgid "Senior QA Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0074"
+msgid "QA Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0075"
+msgid "QA Specialists"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0076"
+msgid "QA Testers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0077"
+msgid "Marketing"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0078"
+msgid "Chief Marketing Officer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0079"
+msgid "Creative Director of Marketing"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0080"
+msgid "Product Marketing Managers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0081"
+msgid "Trailer & Video Producer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0082"
+msgid "Streaming Producer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0083"
+msgid "Event Production Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0084"
+msgid "Content & Communications Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0085"
+msgid "Senior Community Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0086"
+msgid "Community Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0087"
+msgid "Forum And Support Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0088"
+msgid "Commerce Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0089"
+msgid "Direct Sales Developer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0090"
+msgid "CRM & Loyalty Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0091"
+msgid "User Acquisition Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0092"
+msgid "Graphics Producers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0093"
+msgid "Partner Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0094"
+msgid "Partner Account Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0095"
+msgid "Partner Coordinator"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0096"
+msgid "Business Development"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0097"
+msgid "Business Developer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0098"
+msgid "Acquisition Associate"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0099"
+msgid "DevOps"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0100"
+msgid "Sr Backend developers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0101"
+msgid "CEO"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0102"
+msgid "Web Developer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0103"
+msgid "Project Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0104"
+msgid "Analytics"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0105"
+msgid "IT"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0106"
+msgid "Finance & Legal"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0107"
+msgid "Finance"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0108"
+msgid "Legal"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0109"
+msgid "QLOC S.A."
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0110"
+msgid "General Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0111"
+msgid "Business Evangelist"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0112"
+msgid "Business Development Director"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0113"
+msgid "Senior Business Development Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0114"
+msgid "Director of Quality Assurance"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0115"
+msgid "QA Project Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0116"
+msgid "QA Lab Managers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0117"
+msgid "QA Team Leader"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0118"
+msgid "QA Testers"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0119"
+msgid "Tripplepoint PR"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0120"
+msgid "Project PR Coordinator"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0121"
+msgid "Assistant PR Coordinator"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0122"
+msgid "Bondstreet"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0123"
+msgid "Project Manager"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0124"
+msgid "Trailer Producer"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0125"
+msgid "Adapt Productions"
+msgstr ""
+
+#: GameData:\Localisation\CREDITS.csv
+msgctxt "0126"
+msgid "Trailer Producer"
+msgstr ""
+

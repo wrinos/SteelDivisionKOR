@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_0_HNT"
+msgid "Engines are running, Herr Major. What are your orders?"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_1_HNT"
+msgid "Tetrarch tanks! And quite a few of them. They must have been brought by gliders."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_2_HNT"
+msgid "Canadian troops, supported by British engineers, are moving against our left flank, Herr Major."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_3_HNT"
+msgid "Here comes the Sturmartillerie! Let's hope they will be able to punch a hole through those paratroopers."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_4_HNT"
+msgid "Our forward elements are moving towards Lion-sur-Mer, mein Herr."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_5_HNT"
+msgid "They are locking us in place, Herr Major! We must extricate ourselves from this situation and start sending units towards the sea."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_6_HNT"
+msgid "We're running out of time, Herr Major, we MUST get through to Lion-sur-Mer quickly."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_7_HNT"
+msgid "We must disengage our last fighting units, mein Herr. It would be useless to let them die here when they will be much needed for the showdown at Lion-sur-Mer."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_8_HNT"
+msgid "No supply unit has gone through yet, Herr Major. We should make sure to bring enough ammo for the assault on Lion-sur-Mer."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_9_HNT"
+msgid "We should secure our access road, or reinforcements won't be able to reach us."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DAA"
+msgid "It is planned for 12. SS-Panzer to supply us with some anti-aircraft units once at Lion-sur-Mer. We can use our present ones to secure the corridor against enemy infantry and aircraft."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DAIR"
+msgid "Planes are not concerned by the need to break through the British lines. They’ll be there to support our assault on Lion-sur-Mer, whatever happens."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DAIR2"
+msgid "For now we can use them as firemen wherever the enemy is trying to cut the road."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DAT"
+msgid "Our PaK guns and new Marders will have to hold our reinforcement point. It is crucial that our units can continue to arrive without interruption."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DECK"
+msgid "Compose your battlegroup."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DINF"
+msgid "Our priority should be to bring as much of our best infantry as possible to Lion-sur-Mer. We should use 'expandable' soldiers to hold the corridor and make sure that enough Panzer-Grenadiers (especially Phase A ones) get through enemy lines."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DRECO"
+msgid "We can expect ambushes from British paratroopers with anti-tank guns along the road to Lion-sur-Mer. As always, reconnaissance ahead of our troops should detect any threat."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DSUP"
+msgid "Supply will be highly needed in the next battle. Getting as many logistical trucks as possible to Lion-sur-Mer is another priority."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DTANK"
+msgid "12. SS-Panzer will detach some of its Panthers under our command once at Lion-sur-Mer. But they will only be available in Phase B."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_DTANK2"
+msgid "If we still have any remaining obsolete Somuas, they might prove useful in Phase A if we can get them through, while Panzer IV can hold the corridor open."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_ECHEC"
+msgid "We won't be able to push the Tommies back to the Channel with so few units, Herr Major. The offensive is cancelled"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_OBJP"
+msgid "We must reach this point!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_OBJS"
+msgid "Heavy assault guns will be supporting us."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Dialog.csv
+msgctxt "13_VICTO"
+msgid "We passed through, Herr Major. Now we have a chance to push the Tommies back to the Channel!"
+msgstr ""
+

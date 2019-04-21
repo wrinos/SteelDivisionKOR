@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_Historical_Mont_Ormel_01\Scripting\Localization.csv
+msgctxt "5y2lEp8jY9"
+msgid "HOLD MONT ORMEL (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Mont_Ormel_01\Scripting\Localization.csv
+msgctxt "A4QkZTYyU4"
+msgid "TAKE BACK MONT ORMEL (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Mont_Ormel_01\Scripting\Localization.csv
+msgctxt "AJcUuadMBB"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Mont_Ormel_01\Scripting\Localization.csv
+msgctxt "BSeY2fAvuv"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Mont_Ormel_01\Scripting\Localization.csv
+msgctxt "IyghkmspJW"
+msgid "HOLD MONT ORMEL (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Mont_Ormel_01\Scripting\Localization.csv
+msgctxt "WtLWSK3Bel"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Mont_Ormel_01\Scripting\Localization.csv
+msgctxt "bLG6Ngh8Bx"
+msgid "The Axis hold the objectives."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Mont_Ormel_01\Scripting\Localization.csv
+msgctxt "c8WQL5spaK"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Mont_Ormel_01\Scripting\Localization.csv
+msgctxt "oSroW5mRY0"
+msgid "SECURE MONT ORMEL (%s)"
+msgstr ""
+

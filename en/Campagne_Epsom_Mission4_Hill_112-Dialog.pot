@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_0_HNT"
+msgid "Hill 112 is waiting for us, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_10_HNT"
+msgid "Tank busters! We must shoot them down before they wreak havoc amongst our armoured units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_11_HNT"
+msgid "Bloody hell, that monster must be the new Tiger II!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_12_HNT"
+msgid "Sir, we don't have any anti-aircraft defence on the plateau. It might be a good idea to bring some."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_13_HNT"
+msgid "German counter-attacks are expected to be led by armoured units, sir. Maybe we should bring some AT guns forward on the plateau?"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_14_HNT"
+msgid "Royal Air Force reports casualties amongst its pilots, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_1_HNT"
+msgid "We're falling off schedule, sir. We must secure the plateau as soon as possible."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_2_HNT"
+msgid "It might be wise to call in a massive concentration of artillery, both our own and the long-range, in order to ease our conquest of the hill."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_3_HNT"
+msgid "And here comes that bloody 12. SS Firefly again. We should have dealt with it on the Odon when we had the opportunity."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_4_HNT"
+msgid "We're behind schedule, sir. Their frontal defence is too strong. Directing our attack on their flanks should prove less costly, and bring us closer to reinforcements."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_5_HNT"
+msgid "88, sir! We should silence it before advancing with armours or planes."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_6_HNT"
+msgid "We have secured the plateau. And on schedule too, congratulations, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_7_HNT"
+msgid "This is the lull before the storm, sir. They're planning their counter-strike, you can be sure of that. Better get ready to receive it... The RAF warns us that several German tank-buster planes have slipped through their net and are heading in our direction."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_8_HNT"
+msgid "We must hold on, sir, just a little longer."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_9_HNT"
+msgid "The Germans are taking a foothold on the plateau, sir!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_DAIR"
+msgid "RAF aircraft will provide much needed ground support, but we should be wary of the formidable German Flak guns."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_DAIR2"
+msgid "I suggest that we first hit them with our artillery, and then strike from the air to destroy our targets."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_DARTY"
+msgid "Artillery will be crucial in taking the Hill. We should strike enemy defensive positions whenever we can locate them. Smoke rounds will also be useful, to screen the advance of our troops."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_DAT"
+msgid "Once Hill 112 is secured, we should get as many anti-tank assets to the area as we can. The Germans will undoubtedly counter-attack with Panzers, and we must be ready to welcome them."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_DRECO"
+msgid "The Jerries are waiting for us with anti-air, anti-tank guns, rocket launchers, and everything they have been able to gather."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_DRECO2"
+msgid "Recon work will be vital here, more than ever, to detect German defences and to choose where to strike."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_ECHEC"
+msgid "We won’t take that plateau, sir, not without destroying the entire brigade. We must give up."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_ECHEC2"
+msgid "We must retreat, sir! The plateau can't be defended"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_OBJP"
+msgid "Here lies the infamous Hill 112!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Dialog.csv
+msgctxt "24_VICTO"
+msgid "Hill 112 remains ours, sir. If this hill is worth all the blood we've spilled on it, it will give us Caen and the Normandy lowlands in no time."
+msgstr ""
+

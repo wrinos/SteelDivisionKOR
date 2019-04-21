@@ -1,0 +1,43 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Localization.csv
+msgctxt "D5R24llYK1"
+msgid "HOLD CHEUX"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Localization.csv
+msgctxt "WgDcapbVJO"
+msgid "Hold the city against 12. SS-Panzer's counter-attacks."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Localization.csv
+msgctxt "oEOu4lGjMB"
+msgid "Inflict sufficient losses on the enemy to compel them to retreat.\nLosses inflicted #coloredtext3{%s / %s}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Localization.csv
+msgctxt "opYDJJUriW"
+msgid "REPEL THE 12. SS"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Localization.csv
+msgctxt "tbdt8FK1R1"
+msgid "SECURE CHEUX (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Localization.csv
+msgctxt "wWdsXD21P7"
+msgid "Deploy troops in the town to secure the city centre."
+msgstr ""
+

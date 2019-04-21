@@ -1,0 +1,148 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_0_HNT"
+msgid "No time to lose, sir. What are your commands?"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_10_HNT"
+msgid "They are setting up a new defensive position in those woods. A good artillery and air bombardment should prepare them for a final ground assault."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_11_HNT"
+msgid "Be careful, Major, scouts are reporting movement on our left flank."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_12_HNT"
+msgid "I've received worrying reports about enemy activity on our right flank."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_1_HNT"
+msgid "The Germans are almost on the bridge. We must stop them!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_2_HNT"
+msgid "The Germans have taken the bridge! But it’s not over yet: the first elements of the reinforcements are here, they can help us take it back."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_3_HNT"
+msgid "Reinforcements are here! Time to go on the offensive, don't you think, sir?"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_4_HNT"
+msgid "The bridge is secured, and the Germans are pulling back. Shouldn’t we pursue them, Major?"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_5_HNT"
+msgid "Our scouts have located the Flak position, sir, and it looks as bad as the flyers were saying. We should deal with it quickly, so the Air Force can support us."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_6_HNT"
+msgid "German heavy artillery spotted, sir. Shall we order ours to counter-fire?"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_7_HNT"
+msgid "That AA nest will tear us apart if we get in its line of sight. A smoke screen should allow us to close in on it without too much damage."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_8_HNT"
+msgid "AA guns destroyed, Major. Air Control has been informed. \n The Mighty Eight is on its way..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_9_HNT"
+msgid "We're running out of time, we must hurry!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DAA"
+msgid "The Luftwaffe won't bother us today, but our M16 halftracks are deadly against infantry, while the M15 can deal with light vehicles."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DAA2"
+msgid "The M16 halftrack is deadly against enemy infantry, while the M15 is also able to deal with light-armoured vehicles."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DART"
+msgid "We have been granted some extra 105mm howitzers. They are less powerful than the OP's long-range batteries we received yesterday, but they are more responsive."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DART2"
+msgid "They can be quickly put to use against moving enemy infantry, as their explosive shell will pin and slow them down."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DAT"
+msgid "To defend that bridge against enemy armours, we need to find the best positions for our anti-tank guns: under cover, with a long line of fire, and away from enemy infantry infiltrations."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DINF"
+msgid "Our airborne rifles have bazookas to ambush enemy vehicles in the woods."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DINF2"
+msgid "We should position our machine-guns in second line, close to the river, or in buildings, where they will be able to engage enemy infantry without being exposed to enemy vehicles."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DSUPP"
+msgid "We now have M8 Scott assault guns. They will provide a substantial firepower against enemy infantry at medium range."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_DTANK"
+msgid "We have received M5A1 light tanks. They are perfect to tear apart enemy infantry and light vehicles. However, it is highly recommended NOT TO go toe-to-toe against enemy tanks."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_ECHEC"
+msgid "We can’t hold the bridge any longer. We have to blow it up now, or their Panzer will be back in Sainte-Mère before sundown."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_ECHEC2"
+msgid "All this for nothing. Holding the bridge is useless if we can’t expand our beachhead on the other side of the Merderet."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_OBJP"
+msgid "The bridge is right here!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Dialog.csv
+msgctxt "03_VICTO"
+msgid "They’ve got enough. Our beachhead on this side of the Merderet is secured."
+msgstr ""
+

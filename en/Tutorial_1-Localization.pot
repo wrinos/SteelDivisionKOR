@@ -1,0 +1,43 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Localization.csv
+msgctxt "33HsYSy31N"
+msgid "Do it faster, makes us stronger."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Localization.csv
+msgctxt "3C3nB8nZq7"
+msgid "Position your AB Rifles within their WC25 truck inside the deployment zone."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Localization.csv
+msgctxt "8QMv6kCcVd"
+msgid "Reach the farm in less than 2 minutes."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Localization.csv
+msgctxt "95YtQGorkm"
+msgid "Deployment zone"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Localization.csv
+msgctxt "EWKY870y03"
+msgid "Reach the farm."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Localization.csv
+msgctxt "ekgDbCsVse"
+msgid "Reach the farm and disembark an AB Rifles unit."
+msgstr ""
+

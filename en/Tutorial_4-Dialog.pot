@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT1"
+msgid "In this exercise, you will help an allied TANK progress through the map by being its eyes. You are being granted access to the RECON class."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT10"
+msgid "Enemies identified! It is a s.MG 42 #emg42!\nThis one was pretty close to the TANK!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT11"
+msgid "Let the TANK get rid of it"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT12"
+msgid "OK, two more enemy units are hiding somewhere else ..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT13"
+msgid "Progress within the hedgerow to conceal yourself.\nIf you hover over elements of the map, it will provide you with information on their level of protection and concealment:\nYellow #cursorlight for LIGHT COVER #lightcover and Green #cursorheavy for HEAVY COVER #heavycover."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT14"
+msgid "As you can see, RECON #reco units don't influence the FRONTLINE, so they are able to sneak up quietly into enemy territory."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT15"
+msgid "While your unit is advancing, you can see the #coloredtext4{LINE OF SIGHT} #lof of your unit or the enemy's one, by pressing the (Short-key #inputc)."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT16"
+msgid "s.MG 42 #emg42 identified!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT17"
+msgid "One enemy left! Keep quiet!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT18"
+msgid "s.MG 42 #emg42 identified in the farm sector!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT19"
+msgid "TANK on the way."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT2"
+msgid "Click NEXT to compose your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT20"
+msgid "Well done, sir, there's no longer any sign of an enemy presence."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT21"
+msgid "You've understood the value of RECONNAISSANCE units on the battlefield, and have mastered their use. Good job!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT22"
+msgid "No units have been deployed! Please pick a unit in the #coloredtext4{REQUISITION MENU} to position the unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT22b"
+msgid "The unit will then appear from the blue arrow called REINFORCEMENT POINT in MOVE FAST order to take the fastest route, using the road network, to the selected position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT23"
+msgid "Hold your fire! Put the safety on your weapons by clicking their icon in the #coloredtext4{UNIT SELECTION PANEL}!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT24"
+msgid "RECON under fire! Retreat! Their use requires patience and precision. Once you master it you'll be able to dissect an enemy plan."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT25"
+msgid "You've lost a unit, sir! Call for reinforcements and deploy the new unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT3"
+msgid "One unit's pack slots is available in the unlocked RECON classes."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT4"
+msgid "As you can guess, a RECON #reco unit possesses a certain ability to spot and identify the enemy's position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT5"
+msgid "But it has a cost : SCOUTS are usually a very weak unit, so you cannot allow them to engage in battle."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT6"
+msgid "Enemies are hiding somewhere near to the central road…\nTANKS have very poor optics, so they can easily be ambushed. You will need to #coloredtext5{SPOT ENEMY POSITIONS} on a parallel road with your SCOUTS #pscouts."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT7"
+msgid "Once your unit has located an enemy, that good old M4A1 #am4a1, with its firepower will automatically neutralise it."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT8"
+msgid "Position your men on the DEPLOYMENT ZONE, click on the LAUNCH BATTLE button when it's done, and rally your squad at the RECON SITE on the parallel road."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Dialog.csv
+msgctxt "T4_HNT9"
+msgid "The FRONTLINE is pretty close… You should always consider dismounting your troops before entering enemy territory."
+msgstr ""
+

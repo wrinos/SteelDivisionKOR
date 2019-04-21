@@ -1,0 +1,183 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT1"
+msgid "In this exercise, you will control several types of TANKS. You are being granted access to the TANK and ANTI-TANK classes of the BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT10"
+msgid "An allied SCOUTS #ascouts has been deployed to help you spot enemy TANKS waiting to ambush your armours."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT11"
+msgid "Position your #coloredtext4{M4A1} in the DEPLOYMENT ZONE, and click on the LAUNCH BATTLE button when it’s done."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT12"
+msgid "Enemy identified ! It is a PANZER II LUCHS #epzii!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT13"
+msgid "That PANZER II #epzii is a lightly armoured TANK designed for mobility. Light TANKS are often very fast and carry enough firepower to be a threat to any unit which is lighter than they are."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT14"
+msgid "Position your M4A1 #pm4a1 medium TANK at range to get rid of it swiftly.\nNotice the AP #ap value of your main gun against the PANZER II ARMOUR #armor."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT15"
+msgid "Good job! PANZER II LUCHS neutralised!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT16"
+msgid "Enemy identified! It is a PANZER IV G #epziv!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT17"
+msgid "That PANZER #epziv is a tough guy! It's a medium TANK similar to our M4A1 #pm4a1, but it's armed with an extremely effective gun that's able to knock your isolated tank!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT18"
+msgid "We will need backup to turn that situation to our advantage.\nCall in the other #coloredtext4{CMD M4A1} at your disposal."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT19"
+msgid "Command TANK #pm4a1cmd works as Platoon Leader #leader.\nBring it close to your deployed TANK to improve its stats."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT2"
+msgid "Click NEXT to compose your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT20"
+msgid "Now that your TANKS have gathered, face the PANZER IV G #epziv by holding down the RIGHT-MOUSE #mouserightclick button on the TANKS and dragging the mouse in the direction of the enemy, to face the enemy with the strongest armour."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT21"
+msgid "Good job! PANZER IV G neutralised!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT22"
+msgid "Last enemy identified! It is a STUG III G #estug ! As you can guess from the two stars #starexp#starexp under its tag, this one is a battle-hardened veteran!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT23"
+msgid "No need to try to attack it with the M4A1 #pm4a1.\nLet's bring in the #coloredtext4{M10A1 DESTROYER} and neutralise this TANK at long-range!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT24"
+msgid "Now place the M10A1 #pm10 in range.\nYou can bring the CMD M4A1 #pm4a1cmd close to it to increase its precision !"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT25"
+msgid "You can also try to use the other M4A1 TANK #pm4a1 to flank the STUG III G #estug.\nThis STUG III G has no turret, so a flanking manoeuvre could be pretty efficient!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT26"
+msgid "Good job! STUG III G neutralised!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT27"
+msgid "Well done, sir, the enemy’s presence has been eradicated!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT28"
+msgid "You’ve understood the use of armoured units in combat. You are now ready to deal massive damage to the German pride. Great job!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT29"
+msgid "No units have been deployed! Please pick a unit in the #coloredtext4{REQUISITION MENU} to position the unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT29b"
+msgid "The unit will then appear from the blue arrow called REINFORCEMENT POINT in MOVE FAST order to take the fastest route, using the road network, to the selected position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT3"
+msgid "Unit pack slots are available in the TANK and ANTI-TANK unlocked classes.\nDon’t forget to add the new units available in your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT30"
+msgid "You've lost a unit, sir! Call for reinforcements and deploy the new unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT31"
+msgid "Your tank took too much stress and Fall Back ! In falling back stance it will automatically run back to a safe position.\nDuring that time, it is impossible for you to give any other order."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT32"
+msgid "Your tank took a critical hit ! It is impossible to repair it on the field for the moment! Call for reinforcements and deploy the new unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT33"
+msgid "The enemy tank took too much stress and fall back ! It will run back to a safe position.\nUse the #coloredtext4{HUNT} #hunt (Short-key #inputq) order to pursue him and neutralise it before it recovers!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT4"
+msgid "TANKS are powerful units, able to engage every type of ground unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT5"
+msgid "Pay attention to the ARMOUR-PIERCING and HIGH EXPLOSIVE values of their weapons. The AP #ap indicates the unit's ability to destroy armoured units.\nThe HE #he indicates its ability to damage unarmoured units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT6"
+msgid "More importantly, have a look at their ARMOUR #armor:\nMost TANKS have thick frontal armour. In combat, always try to present your thickest armor to a threat, while at the same time, if you outnumber an enemy TANK, try to flank it and attack its rear or side armour."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT7"
+msgid "The #coloredtext4{M4A1} at your disposal are basic medium TANKS, well-armoured and well-armed, capable to handling all types of combat situations."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT8"
+msgid "ANTI-TANK units come in various calibers (hence efficiency), but are all dedicated to neutralising enemy armours. Foot ones are usually low profile and easy to conceal to ambush enemy armours, while self-propelled ones trade concealment for mobility and some level of protection."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_5\Scripting\Dialog.csv
+msgctxt "T5_HNT9"
+msgid "The #coloredtext4{M10A1 DESTROYERS} are armoured and self-propelled ANTI-TANK unit. They are vulnerable due to their open top and weak rear and side armour. But their long-range cannon and speed makes them both very effective and annoying for the enemy to chase down."
+msgstr ""
+

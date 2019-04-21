@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Localization.csv
+msgctxt "IhCwYawuHI"
+msgid "Only the units which break through today will be available in the next battle.\n#coloredtext3{%s} units evacuated (30 minimum)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Localization.csv
+msgctxt "Od2d5BDrVk"
+msgid "EVACUATE 30+ UNITS (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Localization.csv
+msgctxt "bY9U00gXux"
+msgid "Kampfgruppe Thannenberg will arrive soon to support our advance. "
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission3_Crack_the_armor\Scripting\Localization.csv
+msgctxt "fRMsXiScL5"
+msgid "Incoming reinforcement (%s)"
+msgstr ""
+

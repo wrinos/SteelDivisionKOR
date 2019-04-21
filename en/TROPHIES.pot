@@ -1,0 +1,498 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH01"
+msgid "Mind the Gap"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH01D"
+msgid "Complete the historical mission 'Caumont's Gap'"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH02"
+msgid "Aere Perennius"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH02D"
+msgid "Complete the historical mission 'Dawn of the Panthers'"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH03"
+msgid "Rangers Lead The Way"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH03D"
+msgid "Complete the historical mission 'Rangers Lead The Way' with a friend."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH04"
+msgid "Royals"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH04D"
+msgid "Complete the historical mission 'Operation Windsor' with a friend."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH05"
+msgid "Bull on parade"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH05D"
+msgid "Complete the historical mission 'Operation Atlantic' with a friend."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH06"
+msgid "Redcoat"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH06D"
+msgid "Complete the historical mission 'Operation Bluecoat' with a friend."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH07"
+msgid "Bellerophon FTW"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH07D"
+msgid "Complete the historical mission 'Operation Deadstick' with a friend."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH08"
+msgid "Maczuga"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TBH08D"
+msgid "Complete the historical mission 'A Polish Battlefield' with two friends."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TCAT"
+msgid "Category"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM01"
+msgid "Conqueror"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM01D"
+msgid "Win a multiplayer game in Conquest mode"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM02"
+msgid "Destructor"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM02D"
+msgid "Win a multiplayer game in Destruction mode"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM03"
+msgid "Wingman"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM03D"
+msgid "Win a 2v2 multiplayer game"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM04"
+msgid "Teammate"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM04D"
+msgid "Win a 3v3 multiplayer game"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM05"
+msgid "Companiable"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM05D"
+msgid "Win a 4v4 multiplayer game"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM06"
+msgid "Party Animal"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TM06D"
+msgid "Win a 10v10 multiplayer game"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TMISC01"
+msgid "Rookie"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TMISC01D"
+msgid "Reach the level 5"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TMISC02"
+msgid "Battle-Hardened"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TMISC02D"
+msgid "Reach the level 10"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TMISC03"
+msgid "Veteran"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TMISC03D"
+msgid "Reach the level 20"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TMISC04"
+msgid "With a little help from my friends…"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TMISC04D"
+msgid "Add one friend"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRDT"
+msgid "Finish all tutorials"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRDT01"
+msgid "Finish the tutorial in less than 2 minutes."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRDT02"
+msgid "Finish the tutorial without any loss."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRDT03"
+msgid "Save the surrounded units."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRDT04"
+msgid "Kill the MG using the mortars."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRDT05"
+msgid "Finish the tutorial without any loss."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRDT06"
+msgid "Finish the tutorial without any loss."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRDT07"
+msgid "Finish the tutorial without loosing the P51."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRDT08"
+msgid "Win the skirmish."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRNT"
+msgid "Currahee !"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRNT01"
+msgid "Do it faster, makes us stronger"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRNT02"
+msgid "Baptism by fire!"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRNT03"
+msgid "We paratroopers, are supposed to be surrounded."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRNT04"
+msgid "Far more better with the tubes..!"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRNT05"
+msgid "The Eye of God"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRNT06"
+msgid "Best job I've ever had."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRNT07"
+msgid "Angels on our shoulders."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TRNT08"
+msgid "Today, you people are no longer maggots."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC01"
+msgid "The Longest Day"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC01D"
+msgid "Finish the first mission of the US campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC02"
+msgid "Mother of Mercy"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC02D"
+msgid "Finish the second mission of the US campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC03"
+msgid "Kelly's Heroes"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC03D"
+msgid "Finish the third mission of the US campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC04"
+msgid "Kiss my a.."
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC04D"
+msgid "Finish the fourth mission of the US campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC05"
+msgid "All Americans"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC05D"
+msgid "Finish all the missions of the US campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC06"
+msgid "Die Invasion!"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC06D"
+msgid "Finish the first mission of the German campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC07"
+msgid "Die Brücke"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC07D"
+msgid "Finish the second mission of the German campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC08"
+msgid "Breakthrough"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC08D"
+msgid "Finish the third mission of the German campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC09"
+msgid "Big Game Hunter"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC09D"
+msgid "Finish the fourth mission of the German campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC10"
+msgid "Another Brick in the Wall"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC10D"
+msgid "Finish all the missions of the German campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC11"
+msgid "Tiperrary"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC11D"
+msgid "Finish the first mission of the UK campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC12"
+msgid "Valley of Death"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC12D"
+msgid "Finish the second mission of the UK campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC13"
+msgid "Scotland the Brave"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC13D"
+msgid "Finish the third mission of the UK campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC14"
+msgid "Sharp as a knife"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC14D"
+msgid "Finish the fourth mission of the UK campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC15"
+msgid "Hill of Calvary"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC15D"
+msgid "Finish all the missions of the UK campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC16"
+msgid "On all fronts"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC16D"
+msgid "Finish all the solo campaigns"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC17"
+msgid "Fanatic"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSC17D"
+msgid "Finish all the secondary objectives of each campaign"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSK01"
+msgid "Captain"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSK01D"
+msgid "Beat an easy AI in skirmish mode"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSK02"
+msgid "Colonel"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSK02D"
+msgid "Beat a medium AI in skirmish mode"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSK03"
+msgid "General"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSK03D"
+msgid "Beat a hard AI in skirmish mode"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSK04"
+msgid "Peacemaker"
+msgstr ""
+
+#: GameData:\Localisation\TROPHIES.csv
+msgctxt "TSK04D"
+msgid "Win a game with each faction in skirmish mode"
+msgstr ""
+

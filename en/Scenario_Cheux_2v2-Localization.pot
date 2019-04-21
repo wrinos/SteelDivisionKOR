@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "47o8bmR4i6"
+msgid "CHEUX (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "5y2lEp8jY9"
+msgid "HOLD THE TOWN"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "A4QkZTYyU4"
+msgid "TAKE BACK THE TOWN (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "AJcUuadMBB"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "BSeY2fAvuv"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "E9881rFK6s"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "IyghkmspJW"
+msgid "HOLD THE TOWN (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "WtLWSK3Bel"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "c8WQL5spaK"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Cheux_2v2\Scripting\Localization.csv
+msgctxt "oSroW5mRY0"
+msgid "SECURE THE TOWN"
+msgstr ""
+

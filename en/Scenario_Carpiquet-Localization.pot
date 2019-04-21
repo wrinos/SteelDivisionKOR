@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_Carpiquet\Scripting\Localization.csv
+msgctxt "Dv6T582P0c"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Carpiquet\Scripting\Localization.csv
+msgctxt "skw6oKZZjU"
+msgid "CHEUX"
+msgstr ""
+

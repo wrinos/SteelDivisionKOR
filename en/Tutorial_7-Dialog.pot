@@ -1,0 +1,168 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT1"
+msgid "In this exercise, you will be free to put to use what you have already learnt in a real SKIRMISH condition! You are being granted access to all the classes of the BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT10"
+msgid "ARTILLERY units can strike at long-range, while the mobile OP units can call in heavy off-map ARTILLERY strikes. Fill all slots with available packs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT11"
+msgid "AIR units have various functions, depending on their loads. Fill all slots with available packs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT12"
+msgid "In this exercise, you will need to gain map control."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT13"
+msgid "The more ground you control, the more #coloredtext4{VICTORY POINTS} you earn. Your objective is to have more #coloredtext4{VICTORY POINTS} than the enemy at the 30 minute mark."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT14"
+msgid "Every SKIRMISH game in STEEL DIVISION begins in PHASE A. PHASES determine your REQUISITION POINTS income at different times in the game, and your access to certain units. PHASES change every 10 minutes up to the final PHASE C."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT15"
+msgid "Notice the A, B or C letters on the #coloredtext4{UNIT'S PACK}. B & C unit packs are presently locked. When you build your BATTLEGROUP, make sure to take into consideration which unit pack will unlock to fit your strategy."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT16"
+msgid "Position various types of unit in the DEPLOYMENT ZONE, click on the LAUNCH BATTLE button."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT17_1"
+msgid "You earn +1 VICTORY POINTS every second! It means that as long as you retain control of at least 51% of the map, you'll keep scoring every second! Push forward, expand your territory, and your score will continue to increase!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT17_2"
+msgid "The enemy earns +1 VICTORY POINTS every second! It means that as long as he retains control of at least 51% of the map, he'll keep scoring every second!  You need to fight him off and expand your influence area or his score will continue to increase!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT18"
+msgid "The FRONTLINE dynamically measures the ground control during the game. The influence areas and the domination gauge are displayed on the top right panel. It is crucial, for your success, to keep an eye on this information."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT19"
+msgid "You have just received +90 Requisition point! REQUISITION POINTS are earned every minute and are feedbacked on your #coloredtext4{Requisition menu}. REQUISITION POINTS increase at each PHASE change."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT2"
+msgid "Click NEXT to compose your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT20"
+msgid "The cost of a unit is indicated on its card. Buy or save your REQUISITION POINTS for your next move. It all depends upon your strategy."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT21"
+msgid "Do not forget to keep an eye on the FRONTLINE. It’s useful feedback for predicting the opponent's movement and positioning."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT22"
+msgid "That sound announces the beginning of a new PHASE. PHASE B units are now unlocked, alongside a rise in your REQUISITION POINTS income!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT23"
+msgid "At last, the final PHASE C! All units are now unlocked, plus a final rise in your income. It is time to unleash your full potential!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT24"
+msgid "Ground control is going well, sir. Keep going!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT25"
+msgid "It won't be long before you achieve victory, sir. We must hold our ground control just a little longer."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT26"
+msgid "The enemy has scored 500 points! We must fight back and expand our influence to reverse the trend!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT27"
+msgid "Beware sir, the enemy score is quite high! We must regain the lost ground."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT28"
+msgid "Well done, sir! You have proven yourself worthy on the battlefield with the knowledge that you've acquired. You’ve understood the main victory conditions in STEEL DIVISION, and how to use economy and PHASES to your advantage. Be ready to ship for Normandy, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT29"
+msgid "Sorry, but this exercise is a failure. Please restart: it is essential that you apply what you've learnt to prove yourself worthy in a real SKIRMISH condition."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT3"
+msgid "Fill all the units pack slots available to validate your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT30"
+msgid "No units have been deployed! Please pick a unit in the top left #coloredtext4{REQUISITION MENU} and place it on the battlefield quickly!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT4"
+msgid "RECON units can reveal enemy positions and sneak up stealthily into enemy territory. Fill all slots with the available packs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT5"
+msgid "INFANTRY units have various functions depending on their equipment, and are deployed with their TRANSPORT. Fill all slots with the available packs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT6"
+msgid "TANKS are powerful but blind units able to engage any ground threat. Fill all slots with the available packs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT7"
+msgid "SUPPORT units can provide leadership or fire support, or supply ground units. Fill all slots with the available packs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT8"
+msgid "ANTI-TANK units can ambush and neutralise armoured vehicles. Fill all slots with the available packs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_7\Scripting\Dialog.csv
+msgctxt "T7_HNT9"
+msgid "ANTI-AIR units protect your ground units from aerial threat by suppressing any AIRcraft in their range. Fill all slots with the available packs."
+msgstr ""
+

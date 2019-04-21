@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "5y2lEp8jY9"
+msgid "HOLD THE CASTLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "8QTCJdYhpQ"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "A4QkZTYyU4"
+msgid "TAKE BACK THE CASTLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "AJcUuadMBB"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "BSeY2fAvuv"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "FxxrVhM1Cg"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "IyghkmspJW"
+msgid "HOLD THE CASTLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "K0IxoDj8Kb"
+msgid "TAKE POINTE DU HOC BACK (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "NmiGZAQHiq"
+msgid "HOLD POINTE DU HOC (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "RXIFmKPrDX"
+msgid "The Allies hold the objectives."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "TN9rEi67Cx"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "WtLWSK3Bel"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "c8WQL5spaK"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "fXKYisPwos"
+msgid "TAKE POINTE DU HOC BACK (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "ghC79vcN7D"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "jKjLo5IeDf"
+msgid "The Axis hold the objectives."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "oSroW5mRY0"
+msgid "SECURE THE CASTLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pointe_Du_Hoc\Scripting\Localization.csv
+msgctxt "uFcdyYBCnx"
+msgid "HOLD POINTE DU HOC (%s)"
+msgstr ""
+

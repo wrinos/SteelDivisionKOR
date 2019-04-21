@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "24A8PgkZiL"
+msgid "Wait for the M4A1 to kill the enemy unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "33HsYSy31N"
+msgid "The Eye of God"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "7itnNk0qhC"
+msgid "Neutralise the MG42."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "8QMv6kCcVd"
+msgid "Finish the tutorial without any loss."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "EWKY870y03"
+msgid "Spot %s enemy positions"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "EjdZYdWArC"
+msgid "Recon site"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "JAJVfscHQm"
+msgid "Neutralise the MG42."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "JB72hXwr2t"
+msgid "Wait for the M4A1 to kill the enemy unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "ekgDbCsVse"
+msgid "Reveal and let the tank neutralise all the enemy positions (%s / %s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "fXKEZsmlFF"
+msgid "Neutralise the MG42."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "gL8qE9w2iO"
+msgid "Unload your Recon unit here."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_4\Scripting\Localization.csv
+msgctxt "n79axK9LiU"
+msgid "Wait for the M4A1 to kill the enemy unit."
+msgstr ""
+

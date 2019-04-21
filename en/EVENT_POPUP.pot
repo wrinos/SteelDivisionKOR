@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "CONVOI_NON"
+msgid "Refuser"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "CONVOI_OUI"
+msgid "Accepter"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "EPU_B_OK"
+msgid "Ok"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "EPU_B_OK2"
+msgid "Cancel"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "EPU_D_DDBG"
+msgid "Battlegroup %1 has just met a tragic end."
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "EPU_D_DOBG"
+msgid "%1 has been destroyed.\n\nMORAL POINTS #styleGreen{+%2 PTS}"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "EPU_D_DPBG"
+msgid "%1 has been destroyed.\n"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "EPU_T_DDBG"
+msgid "BATTLEGROUP DESTROYED !"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "Oui_gen"
+msgid "Yes, general"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "Sui_gen"
+msgid "Next"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "T_DEBRIEF"
+msgid "Debriefing"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "T_DEFEAT"
+msgid "Defeat"
+msgstr ""
+
+#: GameData:\Localisation\EVENT_POPUP.csv
+msgctxt "T_VICTORY"
+msgid "Victory"
+msgstr ""
+

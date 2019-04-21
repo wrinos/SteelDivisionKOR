@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "0WFP6h5jmX"
+msgid "A detached Armoured Stug group just arrived to bring backup to the 21st Panzer Div. and 12th SS.\n\nDo not even try to face their tanks!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "3UqUZ7Vvft"
+msgid "The enemy battlegroup's main combat formation is in approach."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "7gtLh14oAl"
+msgid "Kampfgruppe Frey's vanguard"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "9AtKerqAK3"
+msgid "Last stand, soldiers!\n\nNow the massive attack from the 21st Panzer Division to cut our support point!\n\nMake those bloody Huns bite the dust!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "A0QenYXVYl"
+msgid "Do you hear that sound...?\n\nStuka in approach! Take cover!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "A42mGWs77c"
+msgid "Enemy battlegroup in approach."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "EFKfNQ1IXp"
+msgid "Sir, recon teams of the 21st Panzer Division and 12th SS are in approach."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "FHg40XU5dX"
+msgid "PROTECT THE CONVOY (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "Gj0br9B3HF"
+msgid "Enemy battlegroup in approach."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "HFC7NhFKDp"
+msgid "Enemy reconnaissance force in approach."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "I1r7Nwg4rn"
+msgid "Repel Kampfgruppe Weidinger"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "Kic6GIINee"
+msgid "Kampfgruppe Weidinger"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "LoLFT9Hqy4"
+msgid "SS-StuG-Abteilung 2"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "QOB7KlBMvS"
+msgid "PROTECT THE CONVOY (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "QPyK9A4fAX"
+msgid "Be aware, Lieutenant,\nThe 21st Panzer Division just launched their attack from the South-West side\nin coordination with the 12th SS from the North-East side!\n\nDamned Fritz!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "QRWg5RqtQD"
+msgid "Repel Kampfgruppe Frey's offensive."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "RMYhg6fwaS"
+msgid "Repel Kampfgruppe Weidinger's offensive."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "Rxh63fC7gH"
+msgid "Hold tight, lads!\n\nThe 21st Panzer Division will try to wipe our defences at the centre of the road, and the starting zone of the convoy!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "UB9axqSPnT"
+msgid "Kampfgruppe Weidinger's vanguard"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "V2Hjm4AjDs"
+msgid "Enemy reconnaissance force in approach."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "V3TlM0giGh"
+msgid "Intel warns us that the 12th SS have prepared an attack at the evacuation point.\n\nBeware, they are equipped with the latest heavy tank hunter, the Jagdpanzer, to ambush your backup!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "V5YgGrnhdG"
+msgid "Kampfgruppe Frey"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "VQ5SwFj0C6"
+msgid "At least %s units from 11th Armoured must get through towards Hill 112.\n#coloredtext3{%s} units saved."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "WFmCyyNGqA"
+msgid "Kampfgruppe Frey"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "X5SQcYXS16"
+msgid "The enemy battlegroup's main combat formation is in approach."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "eFO6kX80rc"
+msgid "All extra convoy units saved will be added to your battlegroup for the next battle.\n#coloredtext3{%s} units saved."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "fO2Gbh6h9M"
+msgid "Repel the StuG assault guns moving in position to cut off the road."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "fffsvTWRdV"
+msgid "Kampfgruppe Weidinger"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "kflYUFCmwD"
+msgid "Repel Kampfgruppe Frey"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_M3_Scottish_Corridor\Scripting\Localization.csv
+msgctxt "y5VfiXBEgg"
+msgid "Tough Shit!\n\nThe 12th SS and the Armoured Stug group have gathered their forces and are trying to capture the evacuation point of the convoy!"
+msgstr ""
+

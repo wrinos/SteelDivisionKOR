@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Localization.csv
+msgctxt "3JeLwHsxkm"
+msgid "Secure this crossing for an allied armoured battlegroup to exploit the breakthrough."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Localization.csv
+msgctxt "53D9WEwRHu"
+msgid "(SECONDARY) TAKE PONT NEUF"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Localization.csv
+msgctxt "WVUXOTjK3s"
+msgid "Secure this crossing for a mixed allied tank destroyer/support battlegroup to exploit the breakthrough."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Localization.csv
+msgctxt "aNKTQh2tXf"
+msgid "(SECONDARY) TAKE MEHAYE BRIDGE"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Localization.csv
+msgctxt "f8k9nIBNLe"
+msgid "(SECONDARY) TAKE TAILLEBOSCQ BRIDGE"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Localization.csv
+msgctxt "mlRGxCCTXy"
+msgid "You must gain a Conquest mode victory."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Localization.csv
+msgctxt "pA1kaTwrPe"
+msgid "Secure this crossing for a mixed allied infantry/artillery battlegroup to exploit the breakthrough."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Localization.csv
+msgctxt "tbiAmItH8s"
+msgid "GET MAP CONTROL (%s)"
+msgstr ""
+

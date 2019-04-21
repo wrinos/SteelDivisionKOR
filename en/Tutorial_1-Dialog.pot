@@ -1,0 +1,178 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT1"
+msgid "Welcome to boot camp, Cadet!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT10"
+msgid "To position a unit on the #coloredtext5{DEPLOYMENT ZONE} :\nClick on the #coloredtext4{REQUISITION MENU} to deploy it, then click on the #coloredtext4{AB RIFLES PACK} and LEFT CLICK #mouseleftclick on the #coloredtext5{DEPLOYMENT ZONE} to position the unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT11"
+msgid "The number on the REQUISITION MENU is your given #coloredtext4{70 REQUISITION POINTS} for the deployment phase. A deployed #coloredtext4{AB RIFLES} unit uses 1 card from the pack and 35 RP. Once all the unit cards have been deployed on the map, the pack disappears."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT12"
+msgid "INFANTRY units are deployed with a TRANSPORT already accounted for in the card.\nThe WC25 #ptransport truck is an unarmed TRANSPORT from which the AB RIFLES #pabrifle squad disembarks to fight on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT12b"
+msgid "Vehicles go faster on the road. It is advised to deploy motorised unit on road to quickly reach a strategic position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT13"
+msgid "You can shift the unit's position by holding down LEFT CLICK #mouseleftclick on the unit’s tag #ptransport or remove it RIGHT CLICK #mouserightclick from the map to place it back to the #coloredtext4{REQUISITION MENU}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT13b"
+msgid "Click the #coloredtext4{LAUNCH BATTLE} button, once you have completed the deployment."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT14"
+msgid " Well done the battle is launched and your deployed WC25 #ptransport is now under your control!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT15"
+msgid "Your objective here is simple :\nYou must reach the #coloredtext5{FARM} and disembark an AB RIFLES #pabrifle squad once there."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT16"
+msgid "Notice on the map the road that goes straight to the #coloredtext5{FARM}. The quickest way to complete the objective is to give the order #coloredtext4{UNLOAD AT POSITION} #disembarkatposition to your WC25 #ptransport unit, at the #coloredtext5{FARM}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT17"
+msgid "To issue your first move orders :\nLEFT CLICK #mouseleftclick on the unit's tag #ptransport to select the unit. LEFT CLICK #mouseleftclick on the #coloredtext4{UNLOAD AT POSITION} #disembarkatposition order (Short-key #inputy) and LEFT CLICK #mouseleftclick on the map to apply it or RIGHT CLICK #mouserightclick to cancel the order."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT18"
+msgid "The #coloredtext4{UNLOAD AT POSITION} #disembarkatposition (Short-key #inputy) orders the TRANSPORT units to take the fastest way, using the road network, and disembark their passengers at the selected position. Beware : Once the unit is disembarked, the TRANSPORT disappears and cannot be use again."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT19"
+msgid "When a unit receives an order, you can select it and press SHIFT #shift to display the ongoing order in real time. You can also give multiple orders by pressing SHIFT #shift."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT2"
+msgid "I’m your drill sergeant. In this first exercise, I'll instruct you in the ways of issuing basic move orders."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT20"
+msgid "Control the camera using the #inputw #inputa #inputs #inputd. Direct it using the #arrowtop #arrowleft #arrowbottom #arrowright. Rotate it by pressing the MIDDLE MOUSE #mousemiddle button and SCROLL WHEEL #mousescrollwheel to zoom in and out. Zoom on a unit tag #ptransport to trigger the Follow camera."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT21"
+msgid "A unit can also comply with other move orders. The #coloredtext4{MOVE} order (Short-key #mouserightclick) orders the units to take the straightest route to the selected position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT22"
+msgid "The #coloredtext4{MOVE FAST} #movefast (Short-key #inputf) orders a vehicle to take the quickest route, using the road network, to the selected position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT23"
+msgid "One TRANSPORT unit has reached the #coloredtext5{FARM}. You can wait for the #coloredtext4{UNLOAD AT POSITION} #disembarkatposition order to comply or you can use the #coloredtext4{DISEMBARK} (Short-key #inputu) to immediately disembark the AB RIFLES #pabrifle from its TRANSPORT #ptransport."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT24"
+msgid "No sign of enemy units - the #coloredtext5{FARM} is secured. Well done, sir!\nYour AB RIFLES #pabrifle squad is now controlling the area!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT25"
+msgid "Your first success, sir ! You've learnt how to compose a BATTLEGROUP, to deploy, apply move orders and disembark the INFANTRY from their TRANSPORT.\nGood job!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT26"
+msgid "No units have been deployed! Please select a unit in the #coloredtext4{REQUISITION MENU} then LEFT CLICK #mouseleftclick on the #coloredtext4{UNIT CARD} and LEFT CLICK #mouseleftclick to position the unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT26b"
+msgid "The unit will then appear from the blue arrow called #coloredtext4{REINFORCEMENT POINT} in #coloredtext4{MOVE FAST} order to take the fastest way, using the road network, to the selected position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT27"
+msgid "Your AB RIFLES #pabrifle have been unloaded too far from the objective, sir! Call for Reinforcements and deploy the new #coloredtext4{AB RIFLES PACK} available on the battlefield. You must then select it and give the #coloredtext4{UNLOAD AT POSITION} order (Short-key #inputy) on the #coloredtext5{FARM} to complete the exercise."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT3"
+msgid "But first, in STEEL DIVISION, each battle begins with the selection of the units to be deployed during the action, called the BATTLEGROUP.\nClick NEXT to compose your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT4"
+msgid "This is your BATTLEGROUP OVERVIEW. It's composed of 8 unit classes, which we will explore step-by-step during the boot camp's exercises."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT5"
+msgid "Each category contains up to 10 slots in which you will later place a unit’s pack.\nOnly the unit’s pack selected in your BATTLEGROUP will be available for the mission."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT5b"
+msgid "For the purpose of this exercise we've granted you access to the INFANTRY class with 1 unit pack slot. LEFT CLICK #mouseleftclick on the slot to edit this class."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT6"
+msgid "Welcome to the showroom of the INFANTRY class!\nIt seems like the raw recruits are ready for the exercise"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT6b"
+msgid "In STEEL DIVISION, units are available by #coloredtext4{PACK}.\nPacks are composed of one or several unit's cards which represent the maximum number of deployable units on the field."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT7"
+msgid "Notice the available #coloredtext4{AB RIFLES PACK}.\nClick on the unit pack and hover values to obtain further information about the unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT8"
+msgid "RIGHT CLICK #mouserightclick or DRAG & DROP #mouseleftclickdraganddrop the available #coloredtext4{AB RIFLES PACK} on the #coloredtext4{EMPTY SLOT} to be able to deploy it on the field."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT8b"
+msgid "Once the AB RIFLES pack is in your BATTLEGROUP, click #coloredtext4{BACK} then #coloredtext4{VALIDATE} to see next, how the land lies."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_1\Scripting\Dialog.csv
+msgctxt "T1_HNT9"
+msgid "In STEEL DIVISION, each battle begins by the deployment phase.\n Its purpose is to pre-position your units within the blue area, called the #coloredtext5{DEPLOYMENT ZONE}, and plan your strategy before the battle begins."
+msgstr ""
+

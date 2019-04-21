@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "9pgTSmB7dS"
+msgid "Reach %s Victory Points"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "H1d0eG4qGS"
+msgid "[GER +1] THE HAMLET [CAN +3]"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "HuAEQo43bO"
+msgid "Hold the sector of Buron with at least one unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "MbU2LPMNrl"
+msgid "%s VP [Player] / %s VP [AI]\nTimer : %s"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "XbFwXOjFhA"
+msgid "Hold the western sector with at least one unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "f3jfuMfB2K"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "f9ttJu9BvV"
+msgid "Hold [CAN] : +9 VP / 10 sec"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "fxmClFuGCI"
+msgid " [GER +3] BURON [CAN +9]"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "m3A6WIJtGw"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "pOY2Y0YKDQ"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "rV5VtiN483"
+msgid "[GER +1] THE FARM [CAN +3]"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "tI1QtZBCEj"
+msgid "Hold the eastern sector with at least one unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "uaJpviAfxs"
+msgid "Hold [CAN] : +3 VP / 10 sec"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_2_Bloody_Buron\Scripting\Localization.csv
+msgctxt "w8T5UNGRLR"
+msgid "Hold [CAN] : +3 VP / 10 sec"
+msgstr ""
+

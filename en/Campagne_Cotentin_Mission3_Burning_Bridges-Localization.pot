@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Localization.csv
+msgctxt "2ZHIXBh1sm"
+msgid "Hold the main bridge, and keep at least one unit on it, to ensure its control."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Localization.csv
+msgctxt "5BpVtNMrIk"
+msgid "RETAKE THE BRIDGE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Localization.csv
+msgctxt "7TtFyP1nay"
+msgid "HOLD THE BRIDGE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Localization.csv
+msgctxt "FwqimA3e3v"
+msgid "SECURE THE WOODS (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Localization.csv
+msgctxt "KfbQh19hW2"
+msgid "Eliminate all enemy resistance."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Localization.csv
+msgctxt "t4I8hp1M38"
+msgid "To gain air support, destroy the enemy anti-aircraft battery."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Localization.csv
+msgctxt "uaXQSLDhlT"
+msgid "Regain control of the bridge before it's too late."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission3_Burning_Bridges\Scripting\Localization.csv
+msgctxt "xTn8UIaSYg"
+msgid "(Secondary) DESTROY THE FLAK (%s guns remaining)"
+msgstr ""
+

@@ -1,0 +1,128 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_0_HNT"
+msgid "The men are ready, Herr Major."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_1_HNT"
+msgid "Our scouts report that British commandos are coming from the North. They're heading our way."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_2_HNT"
+msgid "The units that broke through our lines at Saint-Aubin have been spotted near the bridge. They won't make things easy for us."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_3_HNT"
+msgid "Watch out, British Mosquitoes! Where the hell is the Luftwaffe?!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_4_HNT"
+msgid "Mein Herr, the British have turned the bridge garrison's PaK 40 anti-tank gun against us. And they have the cheek to lecture people on fair-play..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_5_HNT"
+msgid "We're running short on time, Herr Major. If we don't capture the bridge very soon, we will have no other choice than to fall back and retreat."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_6_HNT"
+msgid "Here comes the Luftwaffe!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_7_HNT"
+msgid "The British are well dug in, mein Herr. Any infantry or Panzer assault should only be launched in the wake of an artillery barrage."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DAA"
+msgid "If we could field some of those 88mm guns from the Ouistreham garrison, they would be perfect here, against tanks and planes alike, with their open field of fire!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DAIR"
+msgid "Air support is still limited, therefore we'll have to choose. Bombers are your best assets to quickly neutralise enemy guns: Ju 87D only carries 4 bombs, but is available from Phase A, while Ju 88S carrying 14 bombs would make devastating runs, but only in latter Phases B or C."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DAIR2"
+msgid "Finally, the versatile Me 109G-2 with rockets can attack both enemy vehicles and planes."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DARTY"
+msgid "Our artillery can weaken the enemy defences around the bridge. We can also suppress or even destroy enemy guns once we have spotted them."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DINF"
+msgid "Survivors from the Ouistreham garrison have been attached to our battlegroup. Grenadiers and Osttruppen are lighter-equipped than our own Panzer-Grenadiers, but they are a welcome reinforcement."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DINF2"
+msgid "Taking advantage of cover as much as possible, our infantry should be able to advance on Pegasus Bridge hidden from enemy artillery and machine-guns. But beware those Red Devils: they are deadly in close-range battle!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DRECO"
+msgid "We will face a great number of elite paratroopers with anti-tank guns. Our recon units should detect them, and avoid being ambushed. With its 20mm gun, the SPW 231 is well-suited to clear the way."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DSUPP"
+msgid "Panzer IV C and SPW 233, with their short-barrelled 75mm guns, are very good fire support units. Use them against the British infantry, but don't let the paratroopers engage them at close range."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DTANK"
+msgid "We have received some veteran Panzer IV and tank commanders. They are more powerful than any allied armour in the sector."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_DTANK2"
+msgid "They are also very precious: we can't afford to lose them to close-range AT weapons. We should pay particular attention to that PaK 40 the Brits have captured near the bridge!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_ECHEC"
+msgid "They won't give it up! We must order the retreat, Herr Major."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_OBJP"
+msgid "We must secure those bridges without delay."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_OBJS"
+msgid "Beware the Commandos’ reinforcement."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Dialog.csv
+msgctxt "12_VICTO"
+msgid "The bridge is yours, Herr Major. General Feuchtinger will be pleased. This achievement traps the British beachhead West of the Orne river."
+msgstr ""
+

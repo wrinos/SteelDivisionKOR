@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Localization.csv
+msgctxt "WK9oRIFAcP"
+msgid "SECURE THE ORNE BRIDGES (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Localization.csv
+msgctxt "fyHgu0569D"
+msgid "Clear the Orne bridges and the close vicinity of all enemy units, to isolate Pegasus Bridge."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Localization.csv
+msgctxt "tOUh1nEVrA"
+msgid "British commandos and armours are approaching from Merville."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission1_Dash_to_the_sea_Pegasus_Bridge_has_fallen\Scripting\Localization.csv
+msgctxt "yqOhMLYZgD"
+msgid "Enemy reinforcement (%s)"
+msgstr ""
+

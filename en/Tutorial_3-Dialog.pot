@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT1"
+msgid " During this exercise, you’ll have to deal with an unknown situation\nand you are being granted access to the ARTILLERY and SUPPORT classes."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT10"
+msgid "Your unit is under heavy stress! They are pinned #pabriflepd, and are laying down to gain protection but at the price of their mobility. Once a squad is immobilized, it takes longer to be wiped out."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT11"
+msgid "Use the #coloredtext4{FALL BACK} order #withdrawal (Short-key #inputr) to force a PINNED DOWN squad #pabriflepd to escape this dead-end!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT12"
+msgid "In FALL BACK stance #pabriflefb, the squad will automatically run back to a safe position.\nDuring that time, it's impossible for you to give any other order."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT13"
+msgid "An ally SCOUTS #ascouts unit has just arrived to keep an eye on the s.MG 42 #emg42."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT14"
+msgid "Now sir, you have 3 options:\nThe 1st one, the safest but most time-consuming, consists in using mortar teams #pabmortar to kill that s.MG 42 #emg42 from afar, thus sparing soldiers' lives."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT15"
+msgid "The 2nd option, the quickest, consists of using the #coloredtext4{SMOKE ON POSITION} #smokeonposition order (Short-key #inputb) of your mortar team, to cut the line of sight of the s.MG 42 #emg42 and conceal your INFANTRY's advance to engage it in close-quarter combat."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT16"
+msgid "The 3rd option, the most dangerous one, consists of flanking the s.MG 42 #emg42 with INFANTRY squads. But be warned : it can turn into a real bloodbath…"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT17"
+msgid "Mortar team incoming #ptransport2. It is safe to keep them away from the s.MG 42 #emg42 as they cannot directly attack an enemy. Instead, you need to take advantage of the mortar's long range curved shot #art and disembark the gunners in a safe place."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT18"
+msgid "To use an ARTILLERY unit you need to manually use the #coloredtext4{FIRE ON POSITION} #fireposition order (Short-key #inputt) and point it at that house. Or RIGHT CLICK #mouserightclick on the target #emg42, if seen, to directly try to kill this unit.\nThe curved shot #art does not take care of ground obstacles."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT19"
+msgid "Fire in the hole ! Enjoy the show !"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT2"
+msgid "Click NEXT to compose your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT20"
+msgid "The ammo for the AB MORTAR 60MM #pabmortar is almost depleted, sir. Requisition the available JEEP SUPPLY #pjeepsupply to replenish nearby units with ammunition."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT21"
+msgid "Well done, sir. The s.MG 42 #emg42 has been cut to pieces!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT22"
+msgid "You have successfully put into practice the combination of INFANTRY and ARTILLERY units to regain advantage on the field."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT23"
+msgid "No units have been deployed! Please pick a unit in the #coloredtext4{REQUISITION MENU} to position the unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT23b"
+msgid "The unit will then appear from the blue arrow called REINFORCEMENT POINT in MOVE FAST order to take the fastest route, using the road network, to the selected position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT24"
+msgid "You've lost a unit, sir! Call for reinforcements and deploy the new unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT25"
+msgid "Keep your mortar #pabmortar teams away from enemy range! Move your unit to the furthest and safest position from here!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT3"
+msgid "One unit’s pack slots is available in the unlocked ARTILLERY and SUPPORT classes.\nDon’t forget to add the new units available in your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT4"
+msgid "Pick the usual #coloredtext4{AB RIFLES} card for your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT5"
+msgid "The #coloredtext4{AB MORTAR 60MM}, is now available. It is a weapon team armed with a single 60mm mortar which shoots an INDIRECT FIRE #art at position from a distance.\nPick it for your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT6"
+msgid "The unarmed #coloredtext4{JEEP SUPPLY}, is now available.\nPick it for your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT7"
+msgid "Make good use of what you've learnt so far, and #coloredtext5{INSPECT THE FARM} area with your AB RIFLES #pabrifle squad section."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT8"
+msgid "Goddammit! It's an s.MG 42 #emg42!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Dialog.csv
+msgctxt "T3_HNT9"
+msgid "Since that machine gun is quite well protected #heavycover inside that building, our boys stand no chance to fight back : Make them retreat in order to plan a better approach!"
+msgstr ""
+

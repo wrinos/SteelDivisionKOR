@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT1"
+msgid "This second exercise will be your first contact with an ENEMY.\nI will teach you how to deal with the FRONTLINE, URBAN COVER and FIREPOWER."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT10"
+msgid "Since your units are deployed with their transport, you should not expose them that way to #coloredtext5{ENEMY} fire. Instead, disembark them in the selected area near the farm sector so they can close on the #coloredtext5{ENEMY} position on foot."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT11"
+msgid "You can issue your first move orders during the deployment phase :\nSelect the deployed unit and order #coloredtext4{UNLOAD AT POSITION} #disembarkatposition (Short-key #inputy) and apply it."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT12"
+msgid "Keep in mind that your troops will comply with the order only when the battle starts.\nClick the #coloredtext4{LAUNCH BATTLE} button once you have completed your deployment."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT13"
+msgid "Notice that the FRONTLINE is moving when your troops are advancing. Most of the units in STEEL DIVISION influence the FRONTLINE, so it gives you a feedback on #coloredtext5{ENEMY} strength and direction, and vice versa..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT14"
+msgid "We've arrived! #coloredtext4{DISEMBARK} (Short-key #inputu) your troops here!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT15"
+msgid "These farm buildings appear empty. They can provide good cover for your men!\n#coloredtext4{MOVE} #mouserightclick them inside."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT16"
+msgid "Notice the mouse cursor's #cursordefault colour changing when you hover over map elements.\nThe colour indicates the level of protection :\nYellow #cursorlight for LIGHT COVER #lightcover and cursor green #cursorheavy for HEAVY COVER #heavycover."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT17"
+msgid "German GRENADIERS #egrenadier are firing at us! This is the first taste of battle!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT18"
+msgid "These GRENADIERS #egrenadier are tough guys with their deadly light machine guns! The best way to dislodge them is to meet them with superior firepower (#pabrifle & #pmmg) from the COVER of the farm building."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT19"
+msgid "Notice the #coloredtext4{UNIT STATUS} gauge #stressgauge above the unit tag #egrenadierstress : It indicates the suppression level of a unit. When it's full, the soldiers are PINNED DOWN."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT19b"
+msgid "PINNED DOWN units can SURRENDER #captureflag by moving close to them.\nIt is also a good way of neutralising an #coloredtext5{ENEMY}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT2"
+msgid "Click NEXT to build your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT20"
+msgid "Congratulations, sir! The #coloredtext5{ENEMY} is PINNED DOWN #egrenadierpd! If you are close enough, you can make them SURRENDER #captureflag !"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT21"
+msgid "Great job! The #coloredtext5{ENEMY} section has been neutralised #egrenadierk !"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT22"
+msgid "Great job! The #coloredtext5{ENEMY} unit SURRENDERED #captureflag ! They raised the white flag, and will soon leave the battlefield!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT23"
+msgid "Well done, sir. The FRONTLINE is moving and is now overlaying the farm as there are no further #coloredtext5{ENEMIES} there."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT24"
+msgid "You've learnt how to use the basics of the INFANTRY and the FRONTLINE, to use MORALE and URBAN COVER at your advantage.\nGood job!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT25"
+msgid "No units have been deployed! Please select a unit in the #coloredtext4{REQUISITION MENU} to position the unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT25b"
+msgid "The unit will then appear from the blue arrow called REINFORCEMENT POINT in #coloredtext4{MOVE FAST} order to take the fastest route, using the road network, to the selected position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT26"
+msgid "Sir! Your unit is #coloredtext4{PINNED DOWN} #pabriflepd ! Use the #coloredtext4{FALL BACK} order #withdrawal (Short-key #inputr) to avoid getting killed or CAPTURED #captureflag !"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT27"
+msgid "You lost a unit, sir! Please select a unit in the #coloredtext4{REQUISITION MENU} to position the unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT27b"
+msgid "The unit will then appear from the blue arrow called REINFORCEMENT POINT in #coloredtext4{MOVE FAST} order to take the fastest route, using the road network, to the selected position"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT3"
+msgid "We have unlocked 2 unit pack slots.\nLEFT CLICK #mouseleftclick on a slot to edit the INFANTRY class."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT4"
+msgid "The #coloredtext4{AB M1919 MMG}, is now available.\nIt is an INFANTRY team with a medium machine-gun."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT5"
+msgid "Different units, in STEEL DIVISION, have different equipment. This impacts their requisition points cost, role and card availability. Learning how to distinguish each pack by hovering over their values, is crucial for your success on the field."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT6"
+msgid "Each pack fills #coloredtext4{1 ACTIVATION POINTS}.\nHere you have #coloredtext4{2 ACTIVATION POINTS} maximum at your disposal.\nFill your BATTLEGROUP to spend them all."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT7"
+msgid "Pick the #coloredtext4{AB RIFLES} pack and the new #coloredtext4{AB M1919 MMG} pack to #coloredtext4{VALIDATE} your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT8"
+msgid "The red FRONTLINE indicates a perimeter controlled by an #coloredtext5{ENEMY}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Dialog.csv
+msgctxt "T2_HNT9"
+msgid "Army intelligence has warned us that at least one #coloredtext5{ENEMY} unit is holding the farm sector."
+msgstr ""
+

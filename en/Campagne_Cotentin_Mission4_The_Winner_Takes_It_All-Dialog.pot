@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_0_HNT"
+msgid "Time to finish them off, sir..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_1_HNT"
+msgid "We've been able to hail the 506th on the radio, Major. They're close. Once we've linked with them, we could trap a lot of Germans."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_2_HNT"
+msgid "Progression is going well, Major. We're on schedule."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_3_HNT"
+msgid "German reinforcements on our right flank, sir: Panzer-Grenadiers with armoured support. According to our scouts, they are from 17. SS. How the hell could intel have screwed up like this?!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_4_HNT"
+msgid "The besieged partisans are safe now. They're offering their services to fight the Germans."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_5_HNT"
+msgid "French Resistance is calling for help, Major. They are about to be crushed."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_6_HNT"
+msgid "Our new partisan friends have contacted some of their comrades, who have captured a workshop from Panzer-Abteilung 100 near Baupte. They’ve salvaged some old French tanks and are bringing them to the fight."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_7_HNT"
+msgid "We're running out of time, Major. We must regain the lost ground."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_8_HNT"
+msgid "It won’t be long before all those trapped in the pocket surrender, Major. We just have to hold on a little longer..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_9_HNT"
+msgid "We've lost contact with several patrols on our right flank, Major. Something smells fishy here…"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_DAA"
+msgid "The Luftwaffe has been weakened and should not be a problem here. We should use our remaining planes for ground support. Be aware that German Flak is always dangerous!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_DAT"
+msgid "M10A1 Tank Destroyers are excellent hunters, armed with the 76mm anti-tank gun. Unfortunately, they won't be available until phase C."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_DINF"
+msgid "The western part of the area is covered with forest: expect intense close-range combat there. It is important to support your infantry there with leaders to strengthen them."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_DTANK"
+msgid "Finally, we will get heavier armoured support! M4A1 are inferior to standard German tanks, but the M4A3, with their more powerful 76mm guns, are better armed to deal with them."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_DTANK2"
+msgid "They are mostly medium tanks M4A1, but some of them are the newer M4A3, armed with the more powerful 76mm gun, perfect to deal with German tanks."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_ECHEC"
+msgid "The Germans managed to slip out. We will have to fight them all over again…"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_OBJP"
+msgid "It's payback time!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_OBJS"
+msgid "The Resistance needs us."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Cotentin_Mission4_The_Winner_Takes_It_All\Scripting\Dialog.csv
+msgctxt "04_VICTO"
+msgid "Germans trapped in the pocket are coming to our outposts in their hundreds to surrender, Major. We’ve bagged them!"
+msgstr ""
+

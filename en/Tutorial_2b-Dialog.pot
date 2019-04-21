@@ -1,0 +1,173 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT1"
+msgid "After the successful raid on the farm sector, squads on the field are asking for an ammo resupply #ammoempty. During this exercise I will teach you how to CAPTURE an enemy SUPPLY unit, and how to resupply."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT10"
+msgid "To CAPTURE an enemy SUPPLY #supply unit, first make sure no other enemy unit is nearby. Then, simply bring one of your units close to it and it will automatically switch sides."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT11"
+msgid "The OPEL BLITZ MUN. #psupply is CAPTURED! This is an unarmed SUPPLY #supply unit which can replenish #ammorefill any nearby units with ammunition. Capturing this type of unit is a good way to exhaust enemy units on the field."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT12"
+msgid "Since the GLIDER RIFLES #pgliderrifle and the AB M1919 MMG #pmmg weapons are depleted #ammoempty, you need to bring the squads and the SUPPLY #supply unit to a halt together to refill #ammorefill their weapons."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT13"
+msgid "Notice the yellow circle : it represents the supply range for units to get replenished #ammorefill. Now your units are once again ready to kick some ass…"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT14"
+msgid "German troops are flanking us, and will soon surround the units in the farm sector! Units are considered surrounded once they cease to be linked to a ground reinforcement route, or are not close to a platoon LEADER #leader."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT15"
+msgid "We need to #coloredtext5{REGAIN CONTROL} over the map! We have been granted new #coloredtext4{REQUISITION POINTS} and may deploy units from our BATTLEGROUP on the field to neutralise all enemy units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT16"
+msgid "We have identified an enemy platoon LEADER #leader : the GREN. FUHRER #eleader, along with GRENADIER #egrenadier INFANTRY squads! That's why they have so easily reclaimed control of the FRONTLINE!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT17"
+msgid "If we could neutralise the GREN. FUHRER #eleader squad, its influence over both the FRONTLINE and the GRENADIER #egrenadier squad will lessen and eventually collapse!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT18"
+msgid "We need to break the surrounded units' encirclement! Luckily, the AB M1919 MMG #pmmg is an AIRBORNE unit, as indicated by the wings on its card and tag."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT18b"
+msgid "AIRBORNE units are used to be surrounded so they retain their influence on the FRONTLINE the same way as platoon LEADERS #leader."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT19"
+msgid "On the other hand, a NON-AIRBORNE or NON-LEADER unit, such as the GLIDER RIFLES #pgliderrifle, once surrounded, loses its capacity to hold the FRONTLINE and suffers moral penalties in enemy territory..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT2"
+msgid "Click NEXT to build your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT20"
+msgid "You have deployed your AB LEADER #pleader - good choice! Once disembarked, it improves the EXPERIENCE LEVEL of any allied unit close to it! This up-leveling is represented by the yellow star #starexp under a unit tag (#pleaderxp / #pabriflexp) . An experienced unit gets improved accuracy, shorter reload time and stress resilience!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT21"
+msgid "Once your soldiers are on foot, click on the #coloredtext4{HUNT} #hunt order (Short-key #inputq). That stance allows your soldiers to stop moving and to fire at the first enemy within range.\nMost of the INFANTRY cannot shoot while in movement."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT22"
+msgid "An enemy squad is PINNED DOWN and cannot move! It is a perfect opportunity to force its SURRENDER #captureflag ! Make sure the unit is isolated to bring one of your own nearby!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT23"
+msgid "To force a unit to SURRENDER #captureflag, it needs to be covered by the opponent FRONTLINE, suppressed and with no ally unit close by. Once a unit SURRENDERS #captureflag it leaves the battlefield raising a white flag."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT24"
+msgid "Great job! The enemy squad SURRENDERED #captureflag! They raised the white flag, and will soon leave the battlefield!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT25"
+msgid "Good job! One enemy squad (#eleader & #egrenadier) has been neutralized. You're beginning to slightly regain control over the map! Continue to deploy units on the field to swiftly get rid of the remaining enemies."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT26"
+msgid "The surrounded units are saved! Great job, you have successfully rallied them!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT27"
+msgid "Well done, sir! You have #coloredtext5{RECLAIMED CONTROL} over the map."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT28"
+msgid "You have successfully put into practice the CAPTURE of an enemy SUPPLY #supply unit, the resupply of your troops, and regained control of the map."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT29"
+msgid "Sir! Your unit is PINNED DOWN! Use the #coloredtext4{FALL BACK} order #withdrawal (Short-key #inputr) to avoid getting killed or CAPTURED!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT3"
+msgid "Pick all available INFANTRY packs to validate your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT30"
+msgid "You've lost the surrounded units, sir! We were to slow to rally them. The more stressed a unit is, the less efficient it is on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT31"
+msgid "You've lost a unit, sir! Call for #coloredtext4{Reinforcements} and deploy the new unit on the battlefield."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT4"
+msgid "As you can see, a new pack of INFANTRY, the #coloredtext4{AB LEADER}, is available."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT5"
+msgid "Notice the white star #leader on the unit card. This speciality icon indicates a platoon LEADER who improves the stats of every unit nearby, and also heavily influences the FRONTLINE."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT6"
+msgid "Most LEADER #leader squads are small and too lightly equipped to engage the enemy on their own. It is also strongly advised to combine them with regular INFANTRY squads on the field."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT7"
+msgid "We've got intel about an unarmed OPEL BLITZ MUN. #esupply left in the farm sector.\nThe squads deployed on the field can safely CAPTURE it."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT8"
+msgid "The road seems clear so you will, exceptionally, not deploy any units on the DEPLOYMENT ZONE but simply guide the GLIDER RIFLES #pgliderrifle and the AB M1919 MMG #pmmg on the field, to CAPTURE the #coloredtext5{UNARMED ENEMY} unit in the farm sector."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Dialog.csv
+msgctxt "T2b_HNT9"
+msgid "Click on the #coloredtext4{LAUNCH BATTLE} button."
+msgstr ""
+

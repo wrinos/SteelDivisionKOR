@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "CZ"
+msgid "Czech"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "DATE"
+msgid "%m/%d/%y"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "DATE_HM"
+msgid "%m/%d/%y %I:%M%p"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "DATE_TIME"
+msgid "%m/%d/%y %I:%M:%S%p"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "FR"
+msgid "Français"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "GER"
+msgid "Deutsch"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "HU"
+msgid "Hungarian"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "ITA"
+msgid "Italiano"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "JPN"
+msgid "Japanese"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "KOR"
+msgid "Korean"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "POL"
+msgid "Polski"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "RU"
+msgid "Russian"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "SC"
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "SPA"
+msgid "Español"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "TC"
+msgid "Chinese"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "TIME_HM"
+msgid "%I:%M%p"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "TIME_HMS"
+msgid "%I:%M:%S%p"
+msgstr ""
+
+#: GameData:\Localisation\LANG.csv
+msgctxt "US"
+msgid "English"
+msgstr ""
+

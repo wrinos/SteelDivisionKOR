@@ -1,0 +1,1518 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BTN_CANCEL"
+msgid "Cancel"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BTN_CONFIR"
+msgid "Confirm"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BTN_OK"
+msgid "OK"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "Btn4Inst"
+msgid "Hardware Instancing"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "Btn4VSync"
+msgid "Enable vertical synchronization"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnAPI"
+msgid "API"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnAdp"
+msgid "Graphics Card"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnAmbV"
+msgid "Ambiance Volume"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnAniso"
+msgid "Texture Anisotropy"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnAudOut"
+msgid "Always Use Default Audio Output"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnAutVM"
+msgid "Auto Adjust Video Memory"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnCloud"
+msgid "Clouds"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnDoF"
+msgid "Depth of Field"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnDynCmpV"
+msgid "Dynamic range compression"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnFXQual"
+msgid "FX Quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnGPreset"
+msgid "Presets"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnGamma"
+msgid "Gamma Correction"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnGrAnim"
+msgid "Grass Animation"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnGrassQ"
+msgid "Grass"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnGroQual"
+msgid "Ground Quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnImpSize"
+msgid "Imposter texture quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnJoyst"
+msgid "Joystick"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnLODTr"
+msgid "Smooth LOD Transition"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnLang"
+msgid "Language"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnLangAud"
+msgid "Audio Language"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnLightQ"
+msgid "Dynamic Lights Quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnMainAA"
+msgid "Anti-Aliasing"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnMarginH"
+msgid "Vertical margin"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnMarginW"
+msgid "Horizontal margin"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnMasterV"
+msgid "Master Volume"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnModlQ"
+msgid "Model Quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnMon"
+msgid "Screen"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnMotBlur"
+msgid "Motion Blur"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnMusicV"
+msgid "Music Volume"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnPlayLst"
+msgid "Playlist"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnReflex"
+msgid "Automatic fire on enemy supply"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnRenRed"
+msgid "Render reduction"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnRes"
+msgid "Resolution"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnRumble"
+msgid "Rumble"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnSSAO"
+msgid "Ambient Occlusion"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnSSG"
+msgid "Grass Quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnSSGI"
+msgid "Global Illumination"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnSSR"
+msgid "Local Reflections"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnSfxV"
+msgid "SFX Volume"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnShaQual"
+msgid "Shader Quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnShadAA"
+msgid "Shadow anti-aliasing"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnShadSiz"
+msgid "Shadow texture quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnSharpen"
+msgid "Sharpen"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnShowSub"
+msgid "Show Subtitles"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnSticky"
+msgid "Sticky selection"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnTerCmpr"
+msgid "Terrain compression"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnTerQual"
+msgid "Terrain resolution"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnTess"
+msgid "Tesselation"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnTexQual"
+msgid "Texture Quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnTouch"
+msgid "Multi-touch"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnTran"
+msgid "Mouse border scroll"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnTrap"
+msgid "Mouse trap"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnTreeQ"
+msgid "Trees Quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnUsePad"
+msgid "Pad camera control"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnVChatMA"
+msgid "Voice Chat Mute All"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnVChatPT"
+msgid "Voice chat: push to talk"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnVChatV"
+msgid "Voice chat reception volume"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnVignet"
+msgid "Vignette"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnVoiceV"
+msgid "Voice Volume"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnWatQual"
+msgid "Water Quality"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnWinMod"
+msgid "Window types"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnWinch"
+msgid "Automatic Winchester evacuation"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "BtnYInvert"
+msgid "Invert Y Axis"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HCloProdMe"
+msgid "If set Automatic, this option will automatically close the production menu after a deployment"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HFLVis"
+msgid "Allows you to set on which side to display the map control overlay. "
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HHudSize"
+msgid "Allows to choose the size of the HUD components"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HIconsType"
+msgid "Choose the iconography for the company icons"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HLabSizes"
+msgid "Allows to choose the labels size. It also applies to the text inside."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HMapSize"
+msgid "Allows to choose the visibility of the Minimap"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HNuLiMuSel"
+msgid "Allows to choose the number of lines in multiple selection"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HShUniView"
+msgid "If set, the unit view panel will be visible by default."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HSvClDft"
+msgid "Yes: Files will be automatically saved on Steam Cloud upon creation. No: No file will be saved on Steam Cloud by default"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HSvRplUqNm"
+msgid "Yes: A replay will be automatically saved under a unique name after each game. No: Only the last replay will be kept."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HTextSize"
+msgid "Allows to choose the size of the text components"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HUnitName"
+msgid "If set, the unit name will be displayed in its label."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HUnitScal"
+msgid "Allows you to set the scaling of units."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "Hin4Inst"
+msgid "Can improve or reduce rendering performance depending on the graphics hardware. Force value only if auto gives slow framerates"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "Hin4VSync"
+msgid "Enabling vertical synchronization reduces tear in the image, at a cost in framerate. Enabled this to increase the rendering quality if your framerate is already sufficiently high"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinAPI"
+msgid "Change the API used for rendering."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinAdp"
+msgid "Allows you to choose on which adapter the game will run."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinAmbV"
+msgid "Background ambiance volume settings."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinAniso"
+msgid "Higher values improve texture-filtering"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinAudOut"
+msgid "Always check for changes in Audio Outputs and use new Default Audio Outputs."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinAutVM"
+msgid "Adjusts video settings when you play to fit with the video memory size of your graphics card."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinCloud"
+msgid "Show/Hide the cloud cover."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinDoF"
+msgid "Active / Deactivate depth of field"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinDynCmpV"
+msgid "Louder sounds over a certain threshold are reduced by this amount when it's necessary to avoid sound saturation."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinFXQual"
+msgid "Affects the amount and detail of special effects."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinGPreset"
+msgid "Allows to choose between global video settings presets."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinGamma"
+msgid "Gamma correction settings."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinGrAnim"
+msgid "Active / Deactivate grass animation."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinGrassQ"
+msgid "Off:No grass On:Grass"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinGroQual"
+msgid "Affects the quality of ground."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinImpSize"
+msgid "A higher value provides more detail to distant vegetation and small object."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinJoyst"
+msgid "Activate / Deactivate joystick."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinLODTr"
+msgid "Active / Deactive smooth LOD transition."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinLang"
+msgid "Change the language of the game (Effective after next launch)."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinLangAud"
+msgid "Change the audio language of the game."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinLightQ"
+msgid "Off:lights disabled Low:lights illuminate objects High:lights affect also FX"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinMainAA"
+msgid "A higher value reduces aliasing artifacts in the image."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinMarginH"
+msgid "Adjust vertical interface margin"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinMarginW"
+msgid "Adjust horizontal interface margin"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinMasterV"
+msgid "Master volume settings."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinModlQ"
+msgid "Set detail level of unit models in game"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinMon"
+msgid "Allows to choose on which monitor/adapter the game will run when in full screen mode."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinMotBlur"
+msgid "Camera-effect simulating the light accumulation over time."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinMusicV"
+msgid "Music volume settings."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinPlayLst"
+msgid "Change playlist to play music from previous games."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinReflex"
+msgid "Activate/Deactivate units' automatic fire on enemy buildings and supply units."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinRenRed"
+msgid "Reduces the main render size while keeping a high res interface to improve framerate on low end graphics hardware."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinRes"
+msgid "Screen resolution settings."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinRumble"
+msgid "Activate / Deactivate rumble mode."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinSSAO"
+msgid "Screen space ambient occlusion (advanced lighintg effect)."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinSSG"
+msgid "Screen space grass rendering."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinSSGI"
+msgid "Screen space global illumination (advanced lighintg effect)."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinSSR"
+msgid "Screen space reflections."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinSfxV"
+msgid "FX and units sounds volume settings."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinShaQual"
+msgid "Affects the quality of materials."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinShadAA"
+msgid "A higher value improves the quality of the shadows. Beware, higher values use a lot of video memory."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinShadSiz"
+msgid "Affects the quality of shadows. A Higher value gives finer detail."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinSharpen"
+msgid "Sharpens the final image."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinShowSub"
+msgid "Active / Deactivate the subtitles"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinSticky"
+msgid "Activate/Deactivate the sticky selection."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinTerCmpr"
+msgid "Greatly reduces graphics memory usage for a minor loss of quality."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinTerQual"
+msgid "Terrain texture resolution."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinTess"
+msgid "Increases the geometry density for some objects."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinTexQual"
+msgid "Allows to choose the average texture resolution."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinTouch"
+msgid "Activate / Deactivate multi-touch input."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinTran"
+msgid "Translate the camera when the mouse on border screen."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinTrap"
+msgid "Prevents the mouse to get out of the game's window."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinTreeQ"
+msgid "Off:Tree Leaves and Shape Disabled Low:Trees shape Mid:Some Tree leaves High:Tree leaves everywhere including in shadows"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinUsePad"
+msgid "Activate / Deactivate camera movement with the pad."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinVChatMA"
+msgid "If enabled, all incoming voice chat is disabled."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinVChatPT"
+msgid "If enabled, voice chat is active only when the ALT key is pressed."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinVChatV"
+msgid "Voice chat reception volume settings."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinVignet"
+msgid "Adds vignetting to the final image."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinVoiceV"
+msgid "Voice volume settings. "
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinWatQual"
+msgid "Affects the quality of the sea and rivers."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinWinMod"
+msgid "Switches between the different modes. Windowed fullscreen appears like the fullscreen settings, but allows faster alt-tab app switches."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinWinch"
+msgid "Planes will automatically evacuate after emptying their main weapons."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "HinYInvert"
+msgid "Normal / Invert joystick's Y Axis"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_ATTACK"
+msgid "Give the order to destroy a target, or move to a destination and stop to engage any enemy unit in view."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_AUTOCO"
+msgid "Order the unit to automatically go in cover."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_CALART"
+msgid "Order the linked artillery to shoot."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_CAM0"
+msgid "Camera Up"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_CAM1"
+msgid "Camera Left"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_CAM2"
+msgid "Camera Down"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_CAM3"
+msgid "Camera Right"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_DEPLOY"
+msgid "Allow you to field new units from any reinforcement zone under your control."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_Default"
+msgid "undefined shortcut description"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_EVAC"
+msgid "Order airplanes to evacuate to the airbase."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_FLRATK"
+msgid "Place a flare ordering to attack"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_FLRCUST"
+msgid "Place a flare with a custom message"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_FLRDEF"
+msgid "Place a flare ordering to defend"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_FLRHELP"
+msgid "Place a flare calling for help"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_FOCUS"
+msgid "Change the focus unit type"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_LOS"
+msgid "Display the Line of Sight under the cursor."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_MOVEDIE"
+msgid "Move next to the targeted ennemy and explode."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_QKMOVE"
+msgid "Order the unit to travel as fast as possible to destination, using roads if there are."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_RETREAT"
+msgid "Order a pinned down squad to retreat from the enemy."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_RIPSTN"
+msgid "Order the unit to retain it's fire until fired upon."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_RVRSE"
+msgid "Order units to reverse to the selected position."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_SAEVENT"
+msgid "Move the camera to the last situation awareness event"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_SBULLET"
+msgid "Shortcut to switch between normal game speed and bullet time (singleplayer only)"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_SHOPOS"
+msgid "Order the unit to fire a salvo on location, even without a visible target. Especially useful for artillery units."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_SMOKE"
+msgid "Order the unit to fire a smoke on location, even without a visible target."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_SPREAD"
+msgid "Spread all selected units."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_STOP"
+msgid "Order the unit to stop immediately."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_SUICIDE"
+msgid "Explode instantly, triggering a huge blast."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_TURNOFF"
+msgid "Turn all weapons on/off on the selected unit(s)."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_UNITINF"
+msgid "Activate/Deactivate the selected units characteristics display."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_UNLDAT"
+msgid "Order units to unload at the selected position."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KD_UNLDFT"
+msgid "Order any unit inside the selected transport to dismount immediately."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_ATTACK"
+msgid "Attack"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_AUTOCO"
+msgid "Auto Cover"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_CALART"
+msgid "Call artillery"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_CAM0"
+msgid "Camera Up"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_CAM1"
+msgid "Camera Left"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_CAM2"
+msgid "Camera Down"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_CAM3"
+msgid "Camera Right"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_DEPLOY"
+msgid "Deployment Menu"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_Default"
+msgid "undefined shortcut"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_EVAC"
+msgid "Evacuate"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_FLRATK"
+msgid "Flare: Attack"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_FLRCUST"
+msgid "Flare: Custom message"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_FLRDEF"
+msgid "Flare: Defend"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_FLRHELP"
+msgid "Flare: Help"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_FOCUS"
+msgid "Change focus"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_LOS"
+msgid "Display Line of Sight"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_MOVEDIE"
+msgid "Move & explode"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_QKMOVE"
+msgid "Move Fast"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_RETREAT"
+msgid "Fall back "
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_RIPSTN"
+msgid "Return Fire"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_RVRSE"
+msgid "Reverse"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_SAEVENT"
+msgid "Move camera to last situation awareness event"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_SBULLET"
+msgid "Switch to bullet time"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_SHOPOS"
+msgid "Fire at position"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_SMOKE"
+msgid "Smoke at position"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_SPREAD"
+msgid "Spread"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_STOP"
+msgid "Stop"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_SUICIDE"
+msgid "Self-destruction"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_TURNOFF"
+msgid "Turn weapons on/off"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_UNITINF"
+msgid "Unit Information"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_UNLDAT"
+msgid "Unload At Position"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "KN_UNLDFT"
+msgid "Unload"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "K_FORBID"
+msgid "Key %1 is not available."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "K_USED"
+msgid "Key %1 is already used.\nDo you want to overwrite it ?"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "MsgAsk"
+msgid "Options have not been saved. Do you want to apply your changes ?"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "MsgConf"
+msgid "Keep your choice ? (%1)"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "MsgDefOpt"
+msgid "All custom options will be lost, are you sure?"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "MsgRestart"
+msgid "Some options require game restart."
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "OPT_ADVVID"
+msgid "Advanced Video"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "OPT_GAMEPL"
+msgid "Gameplay"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "OPT_GUIHUD"
+msgid "User Interface"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "OPT_SOUND"
+msgid "Sound"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "OPT_VIDEO"
+msgid "Video"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TCloProdMe"
+msgid "Close Requisition Menu"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TFLVis"
+msgid "Display Frontline"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "THudSize"
+msgid "HUD size"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TIconsType"
+msgid "Icons type"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TLabSizes"
+msgid "Labels size"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TMapSize"
+msgid "Display Minimap"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TNuLiMuSel"
+msgid "Labels size in multiple selection"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TShUniView"
+msgid "Display unit view panel by default"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TSvClDft"
+msgid "Save on Steam Cloud by default"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TSvRplUqNm"
+msgid "Auto Save each replay"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TTextSize"
+msgid "Text size"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TUnitName"
+msgid "Show unit name"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "TUnitScal"
+msgid "Unit scaling"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "Val2X"
+msgid "2X"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "Val4X"
+msgid "4X"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "Val8X"
+msgid "8X"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValAdd"
+msgid "+"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValAutClMe"
+msgid "Close automatically"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValAutoDet"
+msgid "Auto detect"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValCustom"
+msgid "Custom"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValDX11"
+msgid "DirectX 11"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValDark"
+msgid "Dark"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValDepClMe"
+msgid "Keep open during Deployment"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValFLBoth"
+msgid "Both"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValFLNone"
+msgid "None"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValFLOppo"
+msgid "Opponent"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValFLPlay"
+msgid "Player"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValFouLiSM"
+msgid "Very small"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValFull"
+msgid "No reduction"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValFullScr"
+msgid "Full Screen"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValFullWin"
+msgid "W. Full Screen"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValGeoInst"
+msgid "Geometry Instancing"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValHWInst"
+msgid "Hardware Instancing"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValHigh"
+msgid "High"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValHudSiBi"
+msgid "Big"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValHudSiNo"
+msgid "Normal"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValHudSiSm"
+msgid "Small"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValHudSiVB"
+msgid "Very Big"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValHudSiVS"
+msgid "Very small"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValIconNAT"
+msgid "NATO"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValIconRTS"
+msgid "RTS"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValLabL"
+msgid "Large"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValLabM"
+msgid "Medium"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValLabMin"
+msgid "Minimal"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValLabS"
+msgid "Small"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValLabXL"
+msgid "Very large"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValLabXS"
+msgid "Very small"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValLight"
+msgid "Light"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValLow"
+msgid "Low"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValLowest"
+msgid "Lowest"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValManClMe"
+msgid "Always keep open"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValMapSiHi"
+msgid "No"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValMapSiNo"
+msgid "Yes"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValMapSiSm"
+msgid "Small"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValMapSiVS"
+msgid "Very small"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValMax"
+msgid "Insane"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValMid"
+msgid "Mid"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValMinus"
+msgid "-"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValNSticky"
+msgid "Not sticky"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValNo"
+msgid "No"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValNoInst"
+msgid "No instancing"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValOGL"
+msgid "OpenGL"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValOGLBeta"
+msgid "OpenGL (Beta)"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValOff"
+msgid "Off"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValReduc25"
+msgid "Reduced to 25%"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValReduc33"
+msgid "Reduced to 33%"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValReduc50"
+msgid "Reduced to 50%"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValStickUO"
+msgid "Sticky until order"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValSticky"
+msgid "Sticky"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValTSSAA"
+msgid "TSSAA"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValThrLiSM"
+msgid "Small"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValTwoLiSM"
+msgid "Normal"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValUSLarge"
+msgid "Large"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValUSNone"
+msgid "None"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValUSNorm"
+msgid "Normal"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValUSSmall"
+msgid "Small"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValVHigh"
+msgid "Very High"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValVeryLow"
+msgid "Very Low"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValWindow"
+msgid "Windowed"
+msgstr ""
+
+#: GameData:\Localisation\OPTIONS.csv
+msgctxt "ValYes"
+msgid "Yes"
+msgstr ""
+

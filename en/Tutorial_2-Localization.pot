@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "33HsYSy31N"
+msgid "Baptism by fire!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "6r2clgWogE"
+msgid "Cover your units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "7oGPxHa5sc"
+msgid "Move the infantry inside the farm building."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "8QMv6kCcVd"
+msgid "Finish the tutorial without any loss."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "EWKY870y03"
+msgid "Neutralise the enemy."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "RplHkKFL4i"
+msgid "Move the infantry inside the farm building."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "ekgDbCsVse"
+msgid "Kill or capture the enemy unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "h14pxJk0MV"
+msgid "Cover your units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "iWAVaIYt6l"
+msgid "Unload your units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2\Scripting\Localization.csv
+msgctxt "xFkKpsiM6t"
+msgid "Disembark infantry so they can close on the enemy position on foot."
+msgstr ""
+

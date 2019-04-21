@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Localization.csv
+msgctxt "8AML8S1cn5"
+msgid "You must gain a Conquest mode victory.\nAxis: #coloredtext3{%s/3000}  Allies: #coloredtext3{%s/3000}"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Localization.csv
+msgctxt "kNJwmW06R6"
+msgid "GET MAP CONTROL (%s)"
+msgstr ""
+

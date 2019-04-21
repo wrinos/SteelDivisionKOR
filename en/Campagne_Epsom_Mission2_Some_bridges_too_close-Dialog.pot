@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_0_HNT"
+msgid "What are your orders, sir? Against which bridge should the brigade deploy?"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_10_HNT"
+msgid "Nothing is lost. We can still beat them!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_11_HNT"
+msgid "We are giving them hell, sir. Let's maintain the pressure, and they'll soon be done."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_12_HNT"
+msgid "The 12. SS-Panzer's Firefly has been destroyed, sir. That's one heavy anti-tank tank we won't have to face in the future..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_1_HNT"
+msgid "Taillebosq Bridge is ours, sir. 29th Armoured Brigade's vanguard is on its way to cross it."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_2_HNT"
+msgid "We have secured the Pont Neuf, sir. Engineers are on their way to exploit the crossing."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_3_HNT"
+msgid "Mehaye Bridge is in our hands, sir. First elements from 31st Armoured Brigade will be there soon."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_4_HNT"
+msgid "We haven't secured a crossing yet, sir. We must break the enemy front now or the whole operation will be in jeopardy."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_5_HNT"
+msgid "Still no crossing, sir. Division is... voicing some concerns, sir. We must focus on one bridge and capture it quickly."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_6_HNT"
+msgid "The Germans are making more progress than us, sir. We must retake the initiative."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_7_HNT"
+msgid "That recon plane could be quite useful in spotting weaknesses in the enemy defence."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_8_HNT"
+msgid "Bloody hell, the 12. SS-Panzer appears to have salvaged one of our Fireflys. If we let them turn it against us, they will give us a hard time."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_9_HNT"
+msgid "RAF recon is warning us about the Germans’ movements on our whole front. We should expect counter-attacks, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_DARTY"
+msgid "Our artillery has just been reinforced with self-propelled Priest and observers for heavy artillery batteries. I suggest we use this firepower to crush the German troops around the bridges before assault."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_DAT"
+msgid "Although we have new tanks at our disposal, we should keep in mind that our 17-pdr AT guns remain our best weapons against German Panzers."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_DINF"
+msgid "Unlike vehicles, our infantry is able to ford rivers. This will be very useful to manoeuvre around the flanks of the German defenders around the bridges."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_DRECO"
+msgid "Bad weather has grounded the RAF, but one Auster observation plane is still able to fly at low altitude. It could prove useful in identifying enemy positions around each bridge."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_DSUPP"
+msgid "We have received some Crocodile flamethrower tanks, which are deadly efficient against infantry at close range."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_DTANK"
+msgid "Survivors from 31st Tank Brigade are available now, along with a squadron of Sherman II in Phase C. Useful in fire support, they are still inferior to their German medium tank counterparts."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_ECHEC"
+msgid "It's a slaughter, sir. We won't cross that damn river today"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_OBJP"
+msgid "Let's give Jerry a bloody nose."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_OBJS"
+msgid "This is the Pont Neuf."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_OBJS2"
+msgid "Here is the Taillebosq Bridge."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_OBJS3"
+msgid "And finally, the Mehaye Bridge."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission2_Some_bridges_too_close\Scripting\Dialog.csv
+msgctxt "22_VICTO"
+msgid "The crossing over the Odon is secured, sir, and a strong beachhead established. We've played our part well!"
+msgstr ""
+

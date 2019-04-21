@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "AERO"
+msgid "Air lifted"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "AIR"
+msgid "Air Force"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "ARTILLERY"
+msgid "Artillery Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "BGHS_USA9"
+msgid "This is an American air assault battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "BGHT_CAN5"
+msgid "5th CMBG"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "BGH_CAN5"
+msgid "This Battlegroup comes from North Atlantic and can be deployed in any controlled harbor on the western coast or in any controlled airport on the map."
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "BGNA_CAN5"
+msgid "5th CMBG"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "BGNA_USA9"
+msgid "199th Light Brigade"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "BGUNIT_SEP"
+msgid "    + "
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "BG_DBG_NME"
+msgid "27è"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "BG_DBG_SZE"
+msgid "XXX"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "INFANTRY"
+msgid "Air assault"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "MARINE"
+msgid "Marine Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "SAM"
+msgid "Anti-Air Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "SUPPORT"
+msgid "Support Battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\BATTLEGROUP.csv
+msgctxt "TANK"
+msgid "Armored Battlegroup"
+msgstr ""
+

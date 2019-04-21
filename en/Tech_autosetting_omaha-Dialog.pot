@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_0_HNT"
+msgid "Troops ready for deployment, sir. Just give the order to launch the offensive when you're ready."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_10_HNT"
+msgid "The tanks are almost there, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_11_HNT"
+msgid "Here comes the Mighty Eight, sir - duck your head!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_12_HNT"
+msgid "We're running out of time, sir. We must hurry."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_13_HNT"
+msgid "We're falling off schedule, sir. The tanks should already be rolling towards Sainte-Mère-Eglise."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_14_HNT"
+msgid "The tanks still aren't through, sir. The longer they're stuck here, the fewer will be able to reach Sainte-Mère on time."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_15_HNT"
+msgid "Our men have captured a German supply truck, sir. 'Liberating' more of them could prove useful for our future operations."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_16_HNT"
+msgid "We must hurry, Major: assault troops are already massing on the beach. We're completely off schedule."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_1_HNT"
+msgid "MG! Use smoke to cut its line of sight."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_2_HNT"
+msgid "Village secured. We should bring MGs & AT guns to ambush any German reinforcements."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_3_HNT"
+msgid "Enemy column in sight, we must stop them!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_4_HNT"
+msgid "We haven't secured the objective yet, Major. Keeping the enemy under mortar fire or moving under cover of a smoke screen could ease our progression."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_5_HNT"
+msgid "Scouts report locating one of the field batteries shelling the beach, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_6_HNT"
+msgid "Field guns destroyed, Major. The landing element expresses its gratitude."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_7_HNT"
+msgid "Heavy AT guns spotted, sir! We must destroy them or they will eat our tanks for breakfast!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_8_HNT"
+msgid "Anti-tank guns destroyed, Major. The road is open for the tanks."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_9_HNT"
+msgid "New orders from division, Major: it’s time to counter-attack and open the way to Sainte-Mère-Eglise."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_ECHEC"
+msgid "Casualties on the beach are too high, sir. The assault troops are being slaughtered. Ike is calling it off: the invasion is cancelled."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "01_VICTO"
+msgid "The road is open, Major. There's no time to lose, we must reinforce Colonel Ekman in Sainte-Mère-Eglise."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "BeachBoy01"
+msgid "OK boys, it's time! Let's take this town in a pincer movement!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "BeachBoy02"
+msgid "4th ID talking. We are under barrage fire, we can't move forward!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "BeachBoy03"
+msgid "Armoured group reporting. The road is under fire from 88s! We can't move!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tech_autosetting_omaha\Scripting\Dialog.csv
+msgctxt "BeachBoy04"
+msgid "German reinforcements are coming from the South!"
+msgstr ""
+

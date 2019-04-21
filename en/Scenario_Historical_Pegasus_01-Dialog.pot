@@ -1,0 +1,38 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Dialog.csv
+msgctxt "S1_HNTX"
+msgid "Click NEXT to compose your BATTLEGROUP."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Dialog.csv
+msgctxt "SH_HNTAL1"
+msgid "The Ally hold the objective."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Dialog.csv
+msgctxt "SH_HNTAL2"
+msgid "The Allies hold the objectives."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Dialog.csv
+msgctxt "SH_HNTAX1"
+msgid "The Axis hold the objective."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Pegasus_01\Scripting\Dialog.csv
+msgctxt "SH_HNTAX2"
+msgid "The Axis hold the objectives."
+msgstr ""
+

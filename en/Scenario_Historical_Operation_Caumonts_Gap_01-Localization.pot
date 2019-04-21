@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Caumonts_Gap_01\Scripting\Localization.csv
+msgctxt "6AZB7hTOLI"
+msgid "HOLD LA LONDE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Caumonts_Gap_01\Scripting\Localization.csv
+msgctxt "EFoeIjPj0d"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Caumonts_Gap_01\Scripting\Localization.csv
+msgctxt "Mw1EviswDK"
+msgid "TAKE BACK LA LONDE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Caumonts_Gap_01\Scripting\Localization.csv
+msgctxt "N2QgBlW8BT"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Caumonts_Gap_01\Scripting\Localization.csv
+msgctxt "PTYrg2qRlD"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Caumonts_Gap_01\Scripting\Localization.csv
+msgctxt "R7Jcdln7rL"
+msgid "SECURE LA LONDE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Caumonts_Gap_01\Scripting\Localization.csv
+msgctxt "RhK71UuGbL"
+msgid "The Allies hold the objectives."
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Caumonts_Gap_01\Scripting\Localization.csv
+msgctxt "ZdTSW9EaQE"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Historical_Operation_Caumonts_Gap_01\Scripting\Localization.csv
+msgctxt "kx8A4o3lFE"
+msgid "HOLD LA LONDE (%s)"
+msgstr ""
+

@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Localization.csv
+msgctxt "Pau3KF5t8b"
+msgid "(SECONDARY) SUPPORT OUISTREHAM"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Localization.csv
+msgctxt "QOB7KlBMvS"
+msgid "CLOSE OFF THE ROAD (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Localization.csv
+msgctxt "VQ5SwFj0C6"
+msgid "Prevent more than 20 units coming from Sword Beach from breaking through toward Bénouville Bridge.\nBritish units which have already broken through #coloredtext3{(%s / %s)}."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Localization.csv
+msgctxt "vlp55Vgnyw"
+msgid "Preserve the units from the Ouistreham garrison. They will be more useful in the battles to come."
+msgstr ""
+

@@ -1,0 +1,43 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Localization.csv
+msgctxt "IbyypbDPgW"
+msgid "Hold the plateau on top of Hill 112 at all costs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Localization.csv
+msgctxt "OFHBw7I3Ox"
+msgid "4.2-IN MORTAR BATTERY"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Localization.csv
+msgctxt "j3fCvj4Cr6"
+msgid "HOLD HILL 112 (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Localization.csv
+msgctxt "mlRGxCCTXy"
+msgid "Secure & clear the plateau on top of Hill 112 of all enemy units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Localization.csv
+msgctxt "nGhjPOngbR"
+msgid "Use the 4.2-in Mortars to clear the hill."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Epsom_Mission4_Hill_112\Scripting\Localization.csv
+msgctxt "tbiAmItH8s"
+msgid "SECURE HILL 112 (%s)"
+msgstr ""
+

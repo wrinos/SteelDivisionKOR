@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "4P0IuWseiG"
+msgid "Move your units to capture the enemy Opel Blitz Mun."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "8Xmk18gOWH"
+msgid "Save at least the Glider Rifles and/or the AB M1919 MMG."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "Bdk1xwVywx"
+msgid "Capture the unarmed enemy unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "EWKY870y03"
+msgid "Regain map control."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "Q3sSFdIYuk"
+msgid "Stop your units close to the Opel Blitz Mun. to refill their weapons."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "QAg8jEIBYO"
+msgid "Refill your units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "Y5CRSSpsVw"
+msgid "Save your isolated troops."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "ekgDbCsVse"
+msgid "Neutralise enemy units to reclaim control over the map."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "iWAVaIYt6l"
+msgid "Deploy your units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_2b\Scripting\Localization.csv
+msgctxt "xFkKpsiM6t"
+msgid "Deploy infantry units so they can regain map control."
+msgstr ""
+

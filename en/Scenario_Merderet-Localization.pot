@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "5y2lEp8jY9"
+msgid "HOLD THE CASTLE"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "A4QkZTYyU4"
+msgid "TAKE BACK THE CASTLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "AJcUuadMBB"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "BSeY2fAvuv"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "Dv6T582P0c"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "IyghkmspJW"
+msgid "HOLD THE CASTLE (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "VH56R90sR0"
+msgid "THIS IS NOT CHEUX (%s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "WtLWSK3Bel"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "c8WQL5spaK"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "oSroW5mRY0"
+msgid "SECURE THE CASTLE"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "skw6oKZZjU"
+msgid "CHEUX"
+msgstr ""
+
+#: GameData:\Map\Scenario\Scenario_Merderet\Scripting\Localization.csv
+msgctxt "unUAkyqC5B"
+msgid ""
+msgstr ""
+

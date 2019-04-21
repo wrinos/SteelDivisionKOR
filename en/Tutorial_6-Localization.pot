@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "24A8PgkZiL"
+msgid "Use airstrike on the isolated Pak 43 88mm."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "33HsYSy31N"
+msgid "Angels on our shoulders."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "7itnNk0qhC"
+msgid "Neutralise defence site 1."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "8QMv6kCcVd"
+msgid "Finish the tutorial without loosing the P51."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "Ad9juAmEZy"
+msgid "Enemy dense defence emplacement."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "BmtPtG3lnX"
+msgid "Defence site 1"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "DEUUykBQAj"
+msgid "Repel the ME 109 G0."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "E1wPgmsSKy"
+msgid "Use P-51D Mustang."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "EWKY870y03"
+msgid "Neutralize the %s defence sites"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "JAJVfscHQm"
+msgid "Neutralise defence site 2."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "JB72hXwr2t"
+msgid "Use airstrike on the isolated Pak 43 88mm."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "JM1inhLdFa"
+msgid "Enemy isolated PAK 43 emplacement."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "L5J2FQAYfZ"
+msgid "Find all enemy sites. (%s / %s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "LTDcM8h6xY"
+msgid "Position Anti-Air defence."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "N9IZbUAmVg"
+msgid "Deploy the M16 MGMC unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "NGyBjUey8C"
+msgid "Neutralise defence site 4."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "PmZxx7lUff"
+msgid "Mobilise the Ford GPA OP and the Grasshopper."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "QfSwm745E6"
+msgid "Enemy dense defence emplacement."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "V4wIK0kODp"
+msgid "Rally point 1"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "VA1MvE1j2K"
+msgid "Defence site 3"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "VrTQ6eX9p5"
+msgid "Scout the map."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "XDaFOH7g8i"
+msgid "Neutralise the ME 109 G0."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "dZR9yQtO24"
+msgid "Use the M16 MGMC."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "ekgDbCsVse"
+msgid "Kill or capture the enemy units. (%s / %s)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "fXKEZsmlFF"
+msgid "Neutralise defence site 3."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "lumRRvKit6"
+msgid "Enemy isolated PAK 43 emplacement."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "n79axK9LiU"
+msgid "Use off-map artillery strike on the condensed enemy spot."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "oDftjk3y6c"
+msgid "Defence site 4"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "rZbVTTFUNd"
+msgid "Use heavy strike on the last condensed enemy spot."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_6\Scripting\Localization.csv
+msgctxt "vgaqX49YVJ"
+msgid "Defence site 2"
+msgstr ""
+

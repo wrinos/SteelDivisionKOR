@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "9pgTSmB7dS"
+msgid "Reach %s Victory Points"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "AEqnkQG7Sv"
+msgid "%s enemy's Unit Points destroyed."
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "Dv6T582P0c"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "H1d0eG4qGS"
+msgid "[CAN +3] THE HAMLET [GER +1]"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "HuAEQo43bO"
+msgid "Reoccupy the sector of Buron."
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "MKC4RZKhHf"
+msgid "Save %s UP (500 VP)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "MbU2LPMNrl"
+msgid "%s VP [Player] / %s VP [AI]\nTimer : %s"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "VamKBKAsUC"
+msgid "%s Unit's Points lost."
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "XbFwXOjFhA"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "baQDPnLsfY"
+msgid "%s Unit's Points lost."
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "f9ttJu9BvV"
+msgid "Attack [CAN] : +9 VP / 10 sec"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "m3A6WIJtGw"
+msgid "Reoccupy the northern sector."
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "pOY2Y0YKDQ"
+msgid ""
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "qEu8fS0Pxe"
+msgid "Save %s UP (250 VP)"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "rV5VtiN483"
+msgid "Attack [CAN] : +3 VP / 10 sec"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "skw6oKZZjU"
+msgid "[CAN +9] BURON [GER +3]"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "tI1QtZBCEj"
+msgid "Reoccupy the western sector."
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "uaJpviAfxs"
+msgid "[CAN +3] THE FARM [GER +1]"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "w8T5UNGRLR"
+msgid "Attack [CAN] : +3 VP / 10 sec"
+msgstr ""
+
+#: GameData:\Map\Scenario\Sandbox_Buron\Scripting\Localization.csv
+msgctxt "wWOywWMWw0"
+msgid "Counter : %s CAN Unit Killed."
+msgstr ""
+

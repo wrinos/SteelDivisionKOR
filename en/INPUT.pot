@@ -1,0 +1,208 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "BACK"
+msgid "Backspace"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "CAPITAL"
+msgid "Capital"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "CAPSLOCK"
+msgid "Caps Lock"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "DEL"
+msgid "Delete"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "DOWN"
+msgid "Down"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "END"
+msgid "End"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "ENTER"
+msgid "Return"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "ESC"
+msgid "Esc"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F1"
+msgid "F1"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F10"
+msgid "F10"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F11"
+msgid "F11"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F12"
+msgid "F12"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F2"
+msgid "F2"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F3"
+msgid "F3"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F4"
+msgid "F4"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F5"
+msgid "F5"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F6"
+msgid "F6"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F7"
+msgid "F7"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F8"
+msgid "F8"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "F9"
+msgid "F9"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "HOME"
+msgid "Home"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "INS"
+msgid "Insert"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "LALT"
+msgid "Alt"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "LCTRL"
+msgid "Left Control"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "LEFT"
+msgid "Left"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "LSHIFT"
+msgid "Left Shift"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "NUMLOCK"
+msgid "Num Lock"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "PAGEDOWN"
+msgid "Page Down"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "PAGEUP"
+msgid "Page Up"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "PAUSE"
+msgid "Pause"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "PRNSCR"
+msgid "Print Screen"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "RALT"
+msgid "AltGr"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "RCTRL"
+msgid "Right Control"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "RIGHT"
+msgid "Right"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "RSHIFT"
+msgid "Right Shift"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "SCROLL"
+msgid "Scroll Lock"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "SPACE"
+msgid "Space"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "TAB"
+msgid "Tab"
+msgstr ""
+
+#: CommonData:\Localisation\INPUT.csv
+msgctxt "UP"
+msgid "Up"
+msgstr ""
+

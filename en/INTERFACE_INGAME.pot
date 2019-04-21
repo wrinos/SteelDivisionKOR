@@ -1,0 +1,5258 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_AEBOMB"
+msgid "Aerial Bombardment"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_AECOVR"
+msgid "Aerial Cover"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_AERECO"
+msgid "Aerial Recon"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_CAMOUF"
+msgid "Camouflage"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_CHWEAP"
+msgid "Chemical Weapons"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_COMMRA"
+msgid "Commando Raid"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_DELAY"
+msgid "DELAY:"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_EFFECT"
+msgid "EFFECT:"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_IMME"
+msgid "IMMEDIATE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_INTEL"
+msgid "Intel"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_MINELA"
+msgid "Minelayer"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_NABOMB"
+msgid "Naval Bombardment"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_SECTRO"
+msgid "Security Troops"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_SECU"
+msgid "Security"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_STRIKE"
+msgid "Strike"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_TANUKE"
+msgid "Tactical Nuclear Strike"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_TIME"
+msgid "TIME:"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_TYPE"
+msgid "Type"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ACS_UBOATS"
+msgid "Submarines"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "AER_COR_LO"
+msgid "Aerial Corridor lost!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "AER_COR_TK"
+msgid "Aerial Corridor secured!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ARMORS"
+msgid "Front %1 / Side %2 / Rear %3 / Top %4"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ART_RNGNOK"
+msgid "OUT OF SIGHT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ART_TIME"
+msgid "TIME ON TARGET"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "AS_UNAVAIL"
+msgid "UNAVAILABLE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ATT_FOB_TK"
+msgid "Enemy Forward Operating Base captured."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ATT_SUP_TK"
+msgid "Enemy supply truck captured."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BACK_BTN"
+msgid "BACK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BAD"
+msgid "Bad"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BENCHMARK"
+msgid "[DEPRECATED]\nFPS : %1\nCurrent Rating : %2\nRating : %3"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BG_APPROAC"
+msgid "APPROACHING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BG_AVAI_IN"
+msgid "AVAILABLE IN\n%1 DAYS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BG_DPLYING"
+msgid "DEPLOYING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BG_OD_AVAI"
+msgid "AVAILABLE IN\n%1 DAY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BOMBS"
+msgid "%1 bombs"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRD_DRAW"
+msgid "The battle stopped because both sides are exhausted (time out)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRL_EFRT"
+msgid "The enemy forces routed because they endured a total defeat."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRL_EGCU"
+msgid "The battle stopped because our last command unit on the battlefield has been lost."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRL_EGCZ"
+msgid "The battle stopped because enemy forces took control of all command zones. "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRL_EGKO"
+msgid "The battle stopped because our losses %1pts have exceeded our sustainable losses %2pts"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRL_EGRT"
+msgid "The battle stopped because we decided to retreat our forces."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRL_EGSU"
+msgid "The battle stopped because we decided to surrender."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRL_NCOW"
+msgid "The battle stopped because we had no units capable of damaging ennemy units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRL_OFRT"
+msgid "Our forces routed because we endured a total defeat."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRW_EGCU"
+msgid "The battle stopped because enemy last command unit on the battlefield has been destroyed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRW_EGCZ"
+msgid "The battle stopped because we took control of all command zones."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRW_EGKO"
+msgid "The battle stopped because the ennemy losses %1pts have exceeded their sustainable losses %2pts."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRW_EGRT"
+msgid "The battle stopped because the enemy decided to retreat their forces."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BRW_EGSU"
+msgid "The battle stopped because the enemy decided to surrender."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_CSQC"
+msgid "As a consequence"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_DRAW"
+msgid "DRAW"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_EFAG"
+msgid "Enemy forces are getting"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_GMRL"
+msgid "- a gain of %1pts of morale (%2)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_LCHS"
+msgid "- a loss of %1 cohesion #cohesion (fatigue from combat)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_LMRL"
+msgid "- a loss of %1pts of morale (%2)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_MAJDEF"
+msgid "MAJOR DEFEAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_MAJVICT"
+msgid "MAJOR VICTORY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_MINDEF"
+msgid "MINOR DEFEAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_MINVICT"
+msgid "MINOR VICTORY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_OFAG"
+msgid "Our forces are getting"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_OPPRET"
+msgid "OPPONENT RETREAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_OPSRNDR"
+msgid "OPPONENT SURRENDER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_PTBONUS"
+msgid "+ %1 PTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_PTMALUS"
+msgid "- %1 PTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_RETREAT"
+msgid "RETREAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_SURRNDR"
+msgid "SURRENDER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_TDEAD"
+msgid "#%1{%2} has been destroyed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_TITLE"
+msgid "DEBRIEFING"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_TOTDEF"
+msgid "TOTAL DEFEAT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BR_TOTVICT"
+msgid "TOTAL VICTORY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTLC_TITLE"
+msgid "Choose the battle result"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTLC_VICTY"
+msgid "Choose the type of victory"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTLC_WIN"
+msgid "Choose the winner"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_AIPAR"
+msgid "Please choose AI parameters"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_AUTOHT"
+msgid "The result of an auto-resolved battle depends on the morale, cohesion and value of the units of the battlegroups involved. Armored and air superiority make a significant impact on the end result."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_AUTORV"
+msgid "Auto Resolve"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_AVOID"
+msgid "Avoid Battle"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_BG_CO"
+msgid "Opponent's Battlegroups"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_BG_CP"
+msgid "Your Battlegroups"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_BG_LBL"
+msgid "Please choose the fighting battlegroup"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_BRIEF"
+msgid "A conflict is occuring in zone #styleTurquoise{%1} at #styleYellow{%2}"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_CANCL"
+msgid "Cancel"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_CANCLR"
+msgid "Cancel the attack."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_CMBREC"
+msgid "COMBAT RECORDS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_CMDPTS"
+msgid "COMMAND POINTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_COHESB"
+msgid "Bonus From Cohesion : %1 #cohesion"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_DRTN"
+msgid "The battle lasted %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_DSTRTR"
+msgid "Destruction points before defeat :"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_DTRPTS"
+msgid "DESTRUCTION POINTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_ENEFRC"
+msgid "ENEMY FORCES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_FRCMOR"
+msgid "Forces morale :"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_HAVOID"
+msgid "You may avoid the fight and withdraw on an adjacent friendly sector."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_HRETRT"
+msgid "Retreating will make your BG lose %1 morale points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_HSURDR"
+msgid "Surrendering will disband your battlegroups."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_LAUNCH"
+msgid "Launch Battle"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_LBL"
+msgid "A conflict is engaged in zone 'WIP (ZoneId=%1)'"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_MRLFMT"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_ORDER"
+msgid "What are your orders ?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_OURFRC"
+msgid "OUR FORCES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_POINTS"
+msgid "%1pts"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_PRTRT"
+msgid "%1 retreat from battle"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_PTSCHS"
+msgid "+%1#command/s"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_RETRT"
+msgid "Retreat"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_SECTOR"
+msgid "SECTOR OF %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_SHOCAN"
+msgid "CANCEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_SHOMAP"
+msgid "SHOW MAP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_SHOMOD"
+msgid "BACK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_STAPTS"
+msgid "Starting command points :"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_SURDR"
+msgid "Surrender"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_TCTMAP"
+msgid "TACTICAL MAP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_TITLE"
+msgid "CONFLICT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_VALFRC"
+msgid "Total value of forces :"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTL_VICPTS"
+msgid "VICTORY POINTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BTN_HIDEUI"
+msgid "Hide HUD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "B_HIDEINFO"
+msgid "HIDE INFO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "B_PORNVIEW"
+msgid "HIDE GRID"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BtnBeginMa"
+msgid "LAUNCH BATTLE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "BtnCanceMa"
+msgid "CANCEL CHRONO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CALL_IN"
+msgid "CALL IN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CALM"
+msgid "Calm"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CA_HQH"
+msgid "Open the escape menu."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CA_HQHT"
+msgid "HQ"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CA_ISSORD"
+msgid "ISSUE ORDER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CA_VALBOT"
+msgid "Left click to select a target or position"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CA_VALPOS"
+msgid "Left click to select a position"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CA_VALTAR"
+msgid "Left click to select a target"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CHAT_MINUS"
+msgid "-"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CHAT_PLUS"
+msgid "+"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CONT_BTN"
+msgid "CONTINUE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CON_PROB"
+msgid "STEEL DIVISION encounters problems with the following players: "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CORRE_SHOT"
+msgid "CORRECTED SHOT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CPT_CLOSE"
+msgid "CLOSE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CQSTLOCWIN"
+msgid "Your team owns %1%% of the conquest points needed to win"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "CQSTOTHWIN"
+msgid "The enemy team owns %1%% of the conquest points needed to win."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_ALL"
+msgid "ALL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_CLEARH"
+msgid "CLEAR SCREEN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_CTACT"
+msgid "CONTACTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_DISC"
+msgid "Disconnected"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_ECTC"
+msgid "Invalid contact"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_EDISC"
+msgid "You are not connected to chat"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_EONLIN"
+msgid "%1 is not online"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_LOGLINE"
+msgid "(%1): %2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_ME"
+msgid "ME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_PLLINE"
+msgid "%1 %2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "C_TEAM"
+msgid "ALLIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DATE_LBL"
+msgid "TURN %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_CAT80"
+msgid "1980 and less"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_CAT85"
+msgid "1981 to 1985"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_CAT90"
+msgid "1986 and more"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_PHASEA"
+msgid "A-Combat Recon"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_PHASEB"
+msgid "B-Skirmish"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_PHASEC"
+msgid "C-Battle"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_TAERO"
+msgid "Air lifted"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_TARMOR"
+msgid "Armored"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_TMECHA"
+msgid "Mechanized"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_TMOT"
+msgid "Motorized"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_TNAVY"
+msgid "Marine"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_TPARA"
+msgid "Airborne"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_TSHIP"
+msgid "Naval"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DC_TSUP"
+msgid "Support"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DECKEDIT"
+msgid "Editing battlegroup …"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DECK_EMPTY"
+msgid "Empty deck"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DEFEATED"
+msgid "%1 has been defeated !"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DELAYED"
+msgid "Your game time is currently behind other players due to performance problem."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DESLOCWIN"
+msgid "Your team owns %1%% of the destruction points needed to win."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DESOTHWIN"
+msgid "The enemy team owns %1%% of the destruction points needed to win."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DES_ACTIV"
+msgid "Activation"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DES_CURACT"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DES_MAXACT"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DES_SEPACT"
+msgid "/"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DES_T_GRID"
+msgid "AVAILABLE UNITS - %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DES_VALUE"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DISTANCE"
+msgid "Dist."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DIV_AVA_IN"
+msgid "NEXT IN\n%1 DAYS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "DIV_OD_AVA"
+msgid "NEXT IN\n%1 DAY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ECM"
+msgid "ECM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ECOLOCWIN"
+msgid "Your team owns %1%% of the command points needed to win."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ECOOTHWIN"
+msgid "The enemy team owns %1%% of the command points needed to win."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ENEMY_DEST"
+msgid "Enemy %1 destroyed! #Enemy_unit_destroyed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ENEMY_ENC"
+msgid "Enemy contact! #Enemy_unit_contact"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ENGAGED"
+msgid "Engaged"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "EVAC_BINGO"
+msgid "EVAC BINGO!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "EVAC_CRITI"
+msgid "EVAC!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "EVAC_ORDER"
+msgid "EVAC ORDERED!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "EVAC_WINCH"
+msgid "EVAC WINCHESTER!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "EXCE"
+msgid "Exceptional"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "EXIT_BTN"
+msgid "QUIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "FILT_MISC"
+msgid "Misc"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "FILT_ROLE"
+msgid "Role"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "FLBL_CAT"
+msgid "CATEGORIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "FLBL_FAC"
+msgid "ALLIANCES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "FLBL_NAT"
+msgid "NATIONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "FMT_PRECIS"
+msgid "%1%%"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GHO_WRGCOR"
+msgid "You can't produce this kind of units. You don't have the right reinforcement corridor..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GHO_WRGZON"
+msgid "You can't place this kind of units here. Invalid field type..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GOOD"
+msgid "Good"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GS_BULTIME"
+msgid "ACTIVE PAUSE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GS_FAST"
+msgid "FAST"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GS_FORMAT"
+msgid "SPEED : %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GS_NORMAL"
+msgid "NORMAL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GS_SLOW"
+msgid "SLOW"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GS_VFAST"
+msgid "VERY FAST"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "GS_VSLOW"
+msgid "VERY SLOW"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HBACK"
+msgid "Unit's resistance to damages dealt from back.\nThis is usually the weak point of any armored unit."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_ALLBUB"
+msgid "All players will be able to read your messages."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_ALLBUE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_ALLBUT"
+msgid "CHAT ALL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_ALYBUB"
+msgid "Player from your team only will be able to read your messages."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_ALYBUE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_ALYBUT"
+msgid "CHAT ALLIES"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_CLRBUB"
+msgid "Remove all chat texts."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_CLRBUE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_CLRBUT"
+msgid "CLEAR SCREEN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_CONBUB"
+msgid "Only the selected player in the opposite list will be able to read your messages."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_CONBUE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_CONBUT"
+msgid "CHAT CONTACT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_DFTSIB"
+msgid "Decrease the chat font's size."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_DFTSIE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_DFTSIT"
+msgid "DECREASE SIZE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_IFTSIB"
+msgid "Increase the chat font’s size."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_IFTSIE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_IFTSIT"
+msgid "INCREASE SIZE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_SELFDB"
+msgid "Select a specific player to chat privately with."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_SELFDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HCT_SELFDT"
+msgid "SELECT CONTACT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_BACKB"
+msgid "Go back to the previous screen"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_BACKE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_BACKT"
+msgid "BACK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_EDITB"
+msgid "Click to rename this battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_EDITE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_EDITT"
+msgid "RENAME BATTLEGROUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_HDINFB"
+msgid "Hides/displays the selected unit's information panel"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_HDINFE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_HDINFT"
+msgid "HIDE INFO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_PRNVWB"
+msgid "Hides/displays all unit cards"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_PRNVWE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_PRNVWT"
+msgid "HIDE GRID"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_SAVEB"
+msgid "Save your changes."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_SAVEE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HDB_SAVET"
+msgid "SAVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_ATTACB"
+msgid "Place an ATTACK beacon on the map.\nFor your team's eyes only."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_ATTACE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_ATTACT"
+msgid "ATTACK BEACON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_CUSMEB"
+msgid "Write a custom message and place it on the map as a beacon\nFor your teammate(s)'s eyes only."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_CUSMEE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_CUSMET"
+msgid "CUSTOM MESSAGE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_DEFENB"
+msgid "Place a DEFENSE beacon on the map\nFor your team's eyes only."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_DEFENE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_DEFENT"
+msgid "DEFENSE BEACON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_HELPB"
+msgid "Place a HELP beacon on the map\nFor your team's eyes only."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_HELPE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFL_HELPT"
+msgid "HELP BEACON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HFRONT"
+msgid "Unit's resistance to damages dealt from front.\nThis is usually the most armored part you want to turn toward the enemy."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_AGILB"
+msgid "Indicates the plane's ability to turn quickly to get behind its opponent."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_AGILE"
+msgid "The better it is, the more chance it will have to get the upper hand in a dogfight."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_AGILT"
+msgid "AGILITY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_DISPB"
+msgid "Display/Hide the transport unit's stats sheet."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_DISPE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_DISPT"
+msgid "TRANSPORT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_OPTICB"
+msgid "Vision level of the unit."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_OPTICE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_OPTICT"
+msgid "OPTICS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_PLATB"
+msgid "Indicates the armour values depending on orientation. From right to left: front / side / rear."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_PLATE"
+msgid "Vehicle's top armour is either ENCLOSED or OPEN TOP."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_PLATT"
+msgid "ARMOR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_RESILB"
+msgid "Indicates the plane's ability to dodge/sustain damages."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_RESILE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_RESILT"
+msgid "RESILIENCE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_RSPEDB"
+msgid "Displays the unit's off-road / road speed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_RSPEDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_RSPEDT"
+msgid "SPEED"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_SPEEDB"
+msgid "Displays the unit's off-road / road speed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_SPEEDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_SPEEDT"
+msgid "SPEED"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_STEALB"
+msgid "Indicates the level of stealth of the unit. The higher it is, the more difficult it will be for the enemy to spot it."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_STEALE"
+msgid "Infantry receives stealth penalty when moving."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_STEALT"
+msgid "STEALTH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_SUPPB"
+msgid "Indicates the ammunition load it carries."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_SUPPE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_SUPPT"
+msgid "SUPPLY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_TEAMB"
+msgid "Indicates the number of soldiers in the squad or gun crew, representing its hit points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_TEAME"
+msgid "Vehicles have their own damage system. "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_TEAMT"
+msgid "STRENGTH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_TPTBLB"
+msgid "Indicates the cargo space the unit occupies when carried/towed by a transport."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_TPTBLE"
+msgid "Transport vehicles may only carry passengers occupying a cargo space equal or inferior to their transport capacity."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_TPTBLT"
+msgid "CARGO SPACE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_TPTERB"
+msgid "Indicates the vehicle is able to transport/tow unit displaying a cargo space."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_TPTERE"
+msgid "Transport vehicles may only carry passengers occupying a cargo space equal or inferior to their transport capacity."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_TPTERT"
+msgid "TRANSPORT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_UCOSTB"
+msgid "Cost in requisition points to call-in the unit as reinforcement."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_UCOSTE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_UCOSTT"
+msgid "COST"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_UNAMEB"
+msgid "Displays the selected unit's name."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_UNAMEE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_UNAMET"
+msgid "UNIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_UNUMB"
+msgid "Indicates the number of units of this type still available as reinforcements in your battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_UNUME"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_UNUMT"
+msgid "AVAILABILITY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_VISUB"
+msgid "Allows you to hide/display the unit's visual."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_VISUE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_VISUT"
+msgid "VISUAL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAMMOB"
+msgid "Indicates the remaining ammunitions for the weapon against its maximum loadout."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAMMOE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAMMOT"
+msgid "AMMUNITIONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAOEB"
+msgid "Indicates the area affected by the impact of the round.\nThe higher the HE value and the closer it stands from the point of impact, the higher the physical and suppression the target will receive."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAOEE"
+msgid "A wide AoE allows you to saturate an area and inflict minor damages to many units at once.\nThe smaller the AoE, the more chance to « snipe » a specific target with maximum effect."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAOET"
+msgid "AREA OF EFFECT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAPIB"
+msgid "Indicates this unit has a dedicated anti-tank weapon, allowing it to engage armoured units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAPIE"
+msgid "The breaching symbol indicates a powerful infantry weapon, only useful at close range but usually with deadly effect."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAPIT"
+msgid "ANTI-TANK WEAPON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAPVB"
+msgid "Indicates the weapon's armour piercing value at max range.\nIt needs to at least equal the target's armour in order to penetrate it.\nThe higher the AP value is in contrast with that of the armour, the greater the chance to penetrate it and the suppression damages inflicted."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAPVE"
+msgid "Also remember that each time you close on the target by 100m, the weapon's AP value increases by +1.\nArmour piercing rounds are useless against infantry units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WAPVT"
+msgid "ARMOR PIERCING VALUE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WCALB"
+msgid "Indicates the weapon's calibre (in millimetres)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WCALE"
+msgid "HEAT next to a calibre indicates a shaped-charge weapon: those do not get AP value bonus when closing on a target."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WCALT"
+msgid "CALIBER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WHEVB"
+msgid "Indicates the weapon's anti-personnel damages value.\nIt is greatly reduced by armour."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WHEVE"
+msgid "The higher the HE value and the closer it stands from the point of impact, the higher the physical and suppression the target will receive."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WHEVT"
+msgid "HIGH EXPLOSIVE VALUE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WIMGB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WIMGE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WIMGT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WNUMB"
+msgid "Display the number of weapons of a same type carried by the unit."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WNUME"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WNUMT"
+msgid "WEAPON NUMBER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WPRECB"
+msgid "Indicates the weapon's stationary accuracy, on a scale of 10 (most accurate)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WPRECE"
+msgid "But for planes, accuracy is greatly reduced while moving"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WPRECT"
+msgid "ACCURACY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WRANGB"
+msgid "Indicates the maximum distance the weapon can engage an enemy."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WRANGE"
+msgid "In the case of anti-tank weapons, their AP value increases by one each time they close by 100m on their target."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WRANGT"
+msgid "RANGE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WROFB"
+msgid "Indicates the weapon's practical rate of fire."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WROFE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIP_WROFT"
+msgid "RATE OF FIRE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HIT"
+msgid "Hit"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HKH_FORMA2"
+msgid "(%2) %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HKH_FORMAT"
+msgid "(%1) %2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HLB_BUTTOB"
+msgid "Click to start the game once you've deployed your starting units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HLB_BUTTOE"
+msgid "In multiplayer mode, the game won't start until every player has hit the LAUNCH button, or the countdown is over."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HLB_BUTTOT"
+msgid "LAUNCH BATTLE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HINTCB"
+msgid "Indicates the evolution of map control between the teams.\nThe more control a team has over the map, the more victory points it draws from it."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HINTCE"
+msgid "A team gets +1 victory point per second for controlling 51% of the map, +2 for 58%, +3 for 65%, +4 for 75%, and so on …"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HINTCT"
+msgid "MAP CONTROL (CONQUEST)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HINTDB"
+msgid "Indicates the evolution of map control between the teams.\nThe more control a team has over the map, the more bonus income it draws from it."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HINTDE"
+msgid "A team gets additional income for controlling more than half of the map :\n- at 51% : +10 in phase A, +20 in phase B, +30 in phase C\n- at 58% : +20 in phase A, +40 in phase B, +60 in phase C\n- at 65% : +30 in phase A, +60 in phase B, +90 in phase C\n- at 75% : +40 in phase A, +80 in phase B, +120 in phase C..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HINTDT"
+msgid "MAP CONTROL (DESTRUCTION)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HNTADB"
+msgid "Indicates the evolution of map control between the teams."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HNTADE"
+msgid "The attacker will lose if he controls less than 10% of the map."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HNTADT"
+msgid "MAP CONTROL (BREAKTHROUGH)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HNTCEB"
+msgid "Indicates the evolution of map control between the teams.\nThe more control a team has over the map, the more bonus income it draws from it."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HNTCEE"
+msgid "A team gets +1 victory point per second for controlling 52% of the map, +2 for 58%, +3 for 65%, +4 for 75%, and so on …"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HMC_HNTCET"
+msgid "MAP CONTROL (CLOSER COMBAT)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNTDEPLOY"
+msgid "Allow you to field new units from any reinforcement zone under your control."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNTUNITINF"
+msgid "Activate/Deactivate the selected units characteristics display."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_ATTACK"
+msgid "Give the order to destroy a target, or move to a destination and stop to engage any enemy unit in view."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_AUTCO"
+msgid "Toggle auto-covering for the unit(s)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_BACK"
+msgid "Go back to previous menu."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_BARRG"
+msgid "Order the artillery to launch a barrage of fire."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_CALART"
+msgid "Order the linked artillery to fire at the chosen position."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_EFFIC"
+msgid "Order the artillery to fire precisely at the chosen position."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_EVAC"
+msgid "Order airplanes to evacuate to the airbase. Cannot be cancelled."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_HOLDF"
+msgid "Give the order to the unit to stop fire until taking damages."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_HOME"
+msgid "Go back to main menu."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_MOVE"
+msgid "Order the units to move to the selected position."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_OMS"
+msgid "SMOKE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_QKMOVE"
+msgid "Order the unit to travel as fast as possible to destination, using roads if there are."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_RIPOS"
+msgid "Set the unit in return fire mode, meaning they won't fire unless fired at."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_RVRSE"
+msgid "Order units to reverse to the selected position."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_SHOPOS"
+msgid "Order the unit to fire a salvo on location, even without a visible target. Especially useful for artillery units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_SMMOVE"
+msgid "Order unit to move to a position, using safest path."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_SMOKE"
+msgid "Order the unit to fire a smoke on location, even without a visible target."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_SPREAD"
+msgid "Spread all selected units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_STOP"
+msgid "Order the unit to stop immediately."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_UNLDAT"
+msgid "Order any unit inside the selected transport to dismount at a position.\nPress « U » if you want the unit to unload immediatly."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_UNLDFT"
+msgid "Order any unit inside the selected transport to dismount immediately."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HNT_WARN"
+msgid "Order the artillery to fire warning shots."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_ARTAMB"
+msgid "Displays the number of available fire missions left to this observers' battery."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_ARTAME"
+msgid "Fire missions are tied to their field observers: if the latter dies in-game, the remaining off-map fire missions are lost with him.\nFire missions are limited and can't be replenished : once all used up, the off-map asset is removed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_ARTAMT"
+msgid "FIRE MISSIONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_BARB"
+msgid "Aiming time : %1~%2\nShots fired : %3\nPrecision : High\nIntensity : Low"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_BARE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_BART"
+msgid "BARRAGE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_EFFB"
+msgid "Aiming time : %1~%2\nShots fired : %3\nPrecision : Medium\nIntensity : High"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_EFFE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_EFFT"
+msgid "FIRE FOR EFFECT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_SMKB"
+msgid "Aiming time : %1~%2\nShots fired : %3\nPrecision : Low\nIntensity : Medium"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_SMKE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_SMKT"
+msgid "SMOKE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_STATB"
+msgid "Indicates the readiness status of the off-map asset."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_STATE"
+msgid "READY means the asset can be called-in immediately, while other statuses have a duration displayed by the gauge."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_STATT"
+msgid "STATUS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_TITLEB"
+msgid "Display the planes and long-range batteries you can call-in on map for a strike."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_TITLEE"
+msgid "Once called-in, planes can be controlled by any unit as long as they have enough fuel or ammo, or aren't too heavily damaged to stay on site.\nLong range artillery strikes are volleys of heavy calibre rounds striking on the target location set by its field observer."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_TITLET"
+msgid "OFF-MAP ASSETS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_UNNAMB"
+msgid "Displays the off-map asset's name (for planes) or calibre & type (for artillery strikes)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_UNNAME"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_UNNAMT"
+msgid "ASSET"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_WRNB"
+msgid "Aiming time : %1~%2\nShots fired : %3\nPrecision : Low\nIntensity : Medium"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_WRNE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HOM_WRNT"
+msgid "EMERGENCY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_CPLA_B"
+msgid "Graphic settings are too high "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_CPLA_E"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_CPLA_T"
+msgid "CPULoad Alert"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_CPLW_B"
+msgid "Graphic settings are too high "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_CPLW_E"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_CPLW_T"
+msgid "CPULoad Warning"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_LATA_B"
+msgid "Graphic settings are too high "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_LATA_E"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_LATA_T"
+msgid "Latency Alert"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_LATW_B"
+msgid "Graphic settings are too high "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_LATW_E"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_LATW_T"
+msgid "Latency Warning"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_MTFA_B"
+msgid "Graphic card isn't powerful enough "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_MTFA_E"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_MTFA_T"
+msgid "MTFrame Alert"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_MTFW_B"
+msgid "Graphic card isn't powerful enough "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_MTFW_E"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_MTFW_T"
+msgid "MTFrame Warning"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_NWDA_B"
+msgid "Connexion too weak orshared between too many users "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_NWDA_E"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_NWDA_T"
+msgid "NetworkDelay Alert"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_NWDW_B"
+msgid "Connexion too weak orshared between too many users "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_NWDW_E"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPA_NWDW_T"
+msgid "NetworkDelay Warning"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_AIRB"
+msgid "This category regroups all aircraft: recon planes, fighters, fighter-bombers & light bombers."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_AIRC"
+msgid "AIR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_AIRE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_AIRT"
+msgid "AIRCRAFTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_ARTB"
+msgid "This category regroups all towed or self-propelled indirect fire units: mortars, howitzers and multiple launcher rocket systems."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_ARTC"
+msgid "ARTY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_ARTE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_ARTT"
+msgid "ARTILLERY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_ATB"
+msgid "This category regroups all towed or self-propelled dedicated anti-tank units: bazooka teams, anti-tank guns & tank destroyers."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_ATC"
+msgid "ANTI-TANK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_ATE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_ATT"
+msgid "ANTI-TANK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_CHRONB"
+msgid "Indicates the time remaining before you receive your division's next income."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_CHRONE"
+msgid "Countodwn is reset every 60s."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_CHRONT"
+msgid "INCOME COUNTDOWN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_CMDB"
+msgid "This is the total of requisition points presently available to call in new units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_CMDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_CMDT"
+msgid "REQUISITION POINTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_DCAB"
+msgid "This category regroups all towed or self-propelled dedicated anti-aircraft units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_DCAC"
+msgid "ANTI-AIR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_DCAE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_DCAT"
+msgid "ANTI-AIR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_INCB"
+msgid "This is the amount of requisition points allocated to your division every 60s in this phase."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_INCE"
+msgid "Income varies depending on the division you are playing, and ongoing phase."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_INCT"
+msgid "INCOME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_INFB"
+msgid "This category regroups rifle & assault squads and their corresponding squad leaders, as well as machine-gun teams."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_INFC"
+msgid "INF"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_INFE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_INFT"
+msgid "INFANTRY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_MAINBB"
+msgid "Allows you to spend your requisition points to call in new units as reinforcements."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_MAINBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_MAINBT"
+msgid "REQUISITION MENU"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_RECOB"
+msgid "This category regroups all ground reconnaissance units, both dismounted scouts & dedicated recon vehicles."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_RECOC"
+msgid "RECO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_RECOE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_RECOT"
+msgid "RECONNAISSANCE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_SUPB"
+msgid "This category regroups fire support and supply units, as well as light command vehicles."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_SUPC"
+msgid "SUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_SUPE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_SUPT"
+msgid "SUPPORT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_TNKB"
+msgid "This category regroups light, medium & heavy tanks, and their corresponding leaders, as well as StuG for the German army. "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_TNKC"
+msgid "TANK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_TNKE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_TNKT"
+msgid "TANKS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UABTNB"
+msgid "Buy the passengers only."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UABTNE"
+msgid "A click on this button will buy the passengers only, without their transport."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UABTNT"
+msgid "UNIT ALONE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UACSTB"
+msgid "Indicates cost of the unit alone in requisition points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UACSTE"
+msgid "The price given is the passengers cost only."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UACSTT"
+msgid "UNIT ALONE PRICE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UAPB"
+msgid "Indicates this unit has a dedicated anti-tank weapon, allowing it to engage armoured units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UAPE"
+msgid "The value given is the weapon's armour penetration one."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UAPINB"
+msgid "Indicates this unit has a dedicated anti-tank weapon, allowing it to engage armoured units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UAPINE"
+msgid "The breaching symbol indicates a powerful infantry weapon, only useful at close range but usually with deadly effect."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UAPINT"
+msgid "ANTI-TANK WEAPON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UAPT"
+msgid "ANTI-TANK GUN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UCOSTB"
+msgid "Indicates cost of the unit in requisition points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UCOSTE"
+msgid "The price given for a unit is the sum of the passengers and transport's costs. "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UCOSTT"
+msgid "UNIT PRICE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UEXPB"
+msgid "Experience improves various stats, depending on the unit type (accuracy, morale, RoF, optics…)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UEXPE"
+msgid "No star indicates regular troops with basic training.\nOne star indicates seasoned veterans.\nTwo stars indicates elite troops."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UEXPT"
+msgid "EXPERIENCE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UNAMB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UNAME"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UNAMT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UNBB"
+msgid "Indicates the number of units in the pack."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UNBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UNBT"
+msgid "UNIT NUMBER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UPARAB"
+msgid "Airborne or special forces aren't affected by the frontline, and operate in enemy territory without morale penalty."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UPARAE"
+msgid "'We're paratroopers, Lieutenant. We're supposed to be surrounded.' Lt. Winters"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UPARAT"
+msgid "AIRBORNE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UPHASB"
+msgid "Indicates in which phase the unit will be released and available as reinforcements."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UPHASE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UPHAST"
+msgid "PHASE AVAILABILITY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UPLATB"
+msgid "Indicates the front amour value of the vehicle."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UPLATE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPD_UPLATT"
+msgid "ARMOR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPH_NXPHSB"
+msgid "Time remaining before the game enters the next combat phase."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPH_NXPHSE"
+msgid "Phase (A) involves light units looking for the enemy & secure key positions.\nPhase (B) unlocks medium units to engage the enemy and try to push the frontline.\nPhase (C) unlocks all the heaviest units for a full scale battle."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPH_NXPHST"
+msgid "PHASE COUNTDOWN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPH_TIME_B"
+msgid "Time remaining before the end of the game if no side wins on points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPH_TIME_E"
+msgid "Once the game's time limit has elapsed, victory is decided by which side has scored the most points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPH_TIME_T"
+msgid "GAME COUNTDOWN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPROD_ACST"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPROD_APTX"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPROD_CMDI"
+msgid "+ %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPROD_CMDP"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPROD_COST"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPROD_NBU"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPROD_NBUX"
+msgid "x"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPROD_PLTX"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HPROD_SEP"
+msgid "+"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_DSPDBB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_DSPDBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_DSPDBT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_HDHUDB"
+msgid "Hide all HUD elements."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_HDHUDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_HDHUDT"
+msgid "HIDE HUD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_ISPDBB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_ISPDBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_ISPDBT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_PLAYBB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_PLAYBE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_PLAYBT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_SLPOVB"
+msgid "Select the player from whose point of view you want to watch the replay unfold."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_SLPOVE"
+msgid "By selecting NEUTRAL, you will see units from all the players."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HRP_SLPOVT"
+msgid "SELECT PLAYER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_ALSCOB"
+msgid "Displays each team's victory points against the victory points' limit."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_ALSCOE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_ALSCOT"
+msgid "VICTORY POINTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_ALTTLB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_ALTTLE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_ALTTLT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_CONTRB"
+msgid "This team must conquer the designated objective to win."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_CONTRE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_CONTRT"
+msgid "VICTORY CONDITION: CONQUEST"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_DESTRB"
+msgid "This team must inflict enough damage to the enemy forces to win."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_DESTRE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSC_DESTRT"
+msgid "VICTORY CONDITION: DESTRUCTION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSIDE"
+msgid "Unit's resistance to damages dealt from sides.\nThis part is more vulnerable than the front armor."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_NAMEB"
+msgid "Displays the squad leader or vehicle commander's name. "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_NAMEE"
+msgid "You can identify each one individually and check their feats of arms in the after-action briefing."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_NAMET"
+msgid "LEADER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_STATUB"
+msgid "Indicates the unit's state of mind."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_STATUE"
+msgid "The calmer a unit, the more efficient it is, while pinned down or panicked ones are prone to surrender."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_STATUT"
+msgid "UNIT STATUS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_SUPPT"
+msgid "Bullets supply"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_TYPEB"
+msgid "Displays the selected unit's name."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_TYPEE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_TYPET"
+msgid "UNIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_ULOSBB"
+msgid "Display the selected unit's line of sight (LoS)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_ULOSBE"
+msgid "Maintain the key (default, 'C') to display the LoS on any position on the battlefield."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_ULOSBT"
+msgid "LINE OF SIGHT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WAMMOB"
+msgid "Indicates the remaining ammunitions for the weapon against its maximum loadout."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WAMMOE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WAMMOT"
+msgid "AMMOS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WAPIB"
+msgid "Indicates this unit has a dedicated anti-tank weapon, allowing it to engage armoured units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WAPIE"
+msgid "The breaching symbol indicates a powerful infantry weapon, only useful at close range but usually with deadly effect."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WAPIT"
+msgid "ANTI-TANK WEAPON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WAPVB"
+msgid "Indicates the weapon's armour piercing value at max range.\nIt needs to at least equal the target's armour in order to penetrate it.\nThe higher the AP value is in contrast with that of the armour, the greater the chance to penetrate it and the suppression damages inflicted."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WAPVE"
+msgid "Also remember that each time you close on the target by 100m, the weapon's AP value increases by +1.\nArmour piercing rounds are useless against infantry units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WAPVT"
+msgid "ARMOR PIERCING VALUE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WGAUGB"
+msgid "Indicates the uweapon's present status."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WGAUGE"
+msgid "Status is either READY, AIMING, FIRING or RELOADING.\nAIMING & RELOADING have a duration displayed by the gauge."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WGAUGT"
+msgid "WEAPON STATUS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WHEVB"
+msgid "Indicates the weapon's anti-personnel damages value.\nIt is greatly reduced by armour."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WHEVE"
+msgid "The higher the HE value and the closer it stands from the point of impact, the higher the physical and suppression the target will receive."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WHEVT"
+msgid "HIGH EXPLOSIVE VALUE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WIMGB"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WIMGE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WIMGT"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WSTAB"
+msgid "Indicates if the weapon is turned ON (will fire at any enemy in sight & range) or OFF (won't fire unless turned back on)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WSTAE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSL_WSTAT"
+msgid "SAFETY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSP_CUSPDB"
+msgid "Allows you to accelerate or slow down the game's speed.\nPress P to set the Active Pause."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSP_CUSPDE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSP_CUSPDT"
+msgid "GAME SPEED"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSP_SPDDOB"
+msgid "Slows the game's speed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSP_SPDDOE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSP_SPDDOT"
+msgid "SLOWER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSP_SPDUPB"
+msgid "Accelerates the game's speed."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSP_SPDUPE"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HSP_SPDUPT"
+msgid "FASTER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HTOP"
+msgid "Unit's resistance to damages dealt from top.\nThis part is vulnerable to air and indirect attacks."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HTTDEPLOY"
+msgid "Deployment Menu"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HTTUNITINF"
+msgid "Unit Information"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HTT_ATTACK"
+msgid "Attack"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HTT_QKMOVE"
+msgid "Move Fast"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HTT_SHOPOS"
+msgid "Fire at position"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HTT_STOP"
+msgid "Stop"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUDW_AIM"
+msgid "Aiming"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUDW_ALIGN"
+msgid "Aligning"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUDW_DEACT"
+msgid "Deactivated"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUDW_DEPLE"
+msgid "Depleted"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUDW_FIRE"
+msgid "Firing"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUDW_HFIRE"
+msgid "Holding Fire"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUDW_READY"
+msgid "Ready"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUDW_RELD"
+msgid "Reloading"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_ARMOR"
+msgid "ARMOR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_BACK"
+msgid "BACK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_FRONT"
+msgid "FRONT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_PRDHEL"
+msgid "DCA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_PRDLOG"
+msgid "SUP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_PRDMAR"
+msgid "DEPR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_PRDPLA"
+msgid "AIR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_PRDVHC"
+msgid "AT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_PROD"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_SIDE"
+msgid "SIDE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_TOP"
+msgid "TOP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "HUD_UNKN"
+msgid ""
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "KICK_OUT"
+msgid "You have been automatically kicked from game since your connection with other players was lost."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "LEFT_GAME"
+msgid "%1 left the game"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "LITER"
+msgid "%1 L"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "MAR_COR_LO"
+msgid "Naval Corridor lost!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "MAR_COR_TK"
+msgid "Naval Corridor secured!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "MISSILES"
+msgid "%1 missiles"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "MODE_OBS"
+msgid "Your army has been defeated, observator mode activated"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "MOVE_BG"
+msgid "Choose the Battlegroup destination..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "MOVE_GHOS"
+msgid "Moving destination position..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NA"
+msgid "N/A"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NATO"
+msgid "BLUFOR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NAVAIL"
+msgid "N/A"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NBAVAILABL"
+msgid "UNITS AVAILABLE : %1 / %2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NET_DISC"
+msgid "Disconnected from game."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NEWDECK"
+msgid "NEW DECK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NONE"
+msgid "None"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NORMAL"
+msgid "Normal"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NOT_EMONEY"
+msgid "You don't have enough deployments points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NOT_POLIT"
+msgid "You don't have enough political points."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NO_CLCMD"
+msgid "You cannot cancel your last unit."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "NXT_TURN"
+msgid "Turn %1 - Your forces await your orders..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OBJ_FAIL"
+msgid "OBJECTIVE FAILED"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OBJ_NEWCP"
+msgid "Capture Point"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OBJ_NEWI"
+msgid "Information"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OBJ_NEWP"
+msgid "New primary objective"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OBJ_NEWS"
+msgid "New secondary objective"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OBJ_OK"
+msgid "OBJECTIVE COMPLETE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OBS_TITLE"
+msgid "Observator mode"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_AIMING"
+msgid "Preparing"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_AMMO"
+msgid "%1#ammo "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_EVAC"
+msgid "Evacuating"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_FIRING"
+msgid "Firing"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_MISSIO"
+msgid "In mission"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_READY"
+msgid "Ready"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_REFUEL"
+msgid "Refueling"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_RELOAD"
+msgid "Reloading"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_REPAIR"
+msgid "Repairing"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "OFF_STAR"
+msgid "#starForExperience"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_ATTACK"
+msgid "HUNT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_AUTCO"
+msgid "AUTO COVER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_BACK"
+msgid "BACK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_BARRG"
+msgid "BARRAGE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_CALART"
+msgid "CALL ARTILLERY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_EFFIC"
+msgid "PRECISION FIRE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_EVAC"
+msgid "EVAC"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_HOLDF"
+msgid "HOLD FIRE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_HOME"
+msgid "HOME"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_MOVE"
+msgid "MOVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_OMS"
+msgid "SMOKE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_QKMOVE"
+msgid "MOVE FAST"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_RIPOS"
+msgid "RETURN FIRE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_RVRSE"
+msgid "REVERSE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_SHOPOS"
+msgid "FIRE POS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_SMMOVE"
+msgid "SMART MOVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_SMOKE"
+msgid "SMOKE POS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_SPREAD"
+msgid "SPREAD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_STOP"
+msgid "STOP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_UNLDAT"
+msgid "UNLOAD AT POSITION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_UNLDFT"
+msgid "UNLOAD"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ORD_WARN"
+msgid "WARNING SHOT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PACT"
+msgid "REDFOR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PANICKED"
+msgid "Panicked"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PAR_HALF_T"
+msgid "Half of battle time reached"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PAR_NXPHSC"
+msgid "%1 #New_phase_started"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PAR_NXTPHS"
+msgid "Starting phase %1 #New_phase_started"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PAR_QUAT_T"
+msgid "Quarter of battle time remaining"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PENETR"
+msgid "Penetr."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PER_FOB_LO"
+msgid "Forward Operating Base captured by the enemy !"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PER_SUP_LO"
+msgid "Supply truck captured by the enemy!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PER_UNITE"
+msgid "ALARM! %1 destroyed! #Player_unit_destroyed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PHASETIME"
+msgid "PHASE %1 IN %2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PINNED"
+msgid "Pinned down"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PLACE_BEAC"
+msgid "Placing beacon..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PLACE_BG"
+msgid "Left-click on the Battlegroup deployment zone..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PLACE_GHOS"
+msgid "Setting destination position..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PLANE_CON"
+msgid "Enemy air contact! #Enemy_airplane_contact"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PLANE_OOA"
+msgid "Plane evacuates! (out of ammo) "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PLANE_OOF"
+msgid "Plane evacuates! (out of fuel) "
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "POOR"
+msgid "Poor"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PRD_DEPLOY"
+msgid "DEPLOY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PRD_LAUNCH"
+msgid "LAUNCH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PRD_UNVLBL"
+msgid "You don't have any available destination for this battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PRTHSS_CL"
+msgid ")"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PRTHSS_FT"
+msgid "(%1)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PRTHSS_OP"
+msgid "("
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PTSFORMAT"
+msgid "%1 PTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "PTSOBFORM"
+msgid "%1 / %2 PTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "RANGE_KM"
+msgid "%1 km"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "RANGE_M"
+msgid "%1 m"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "REINF_AIR"
+msgid "Air"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "REINF_LAND"
+msgid "Land"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "REINF_SEA"
+msgid "Sea"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "RE_LAU_BEC"
+msgid "#Flare_Launched %1 launched a beacon"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ROCKETS"
+msgid "%1 rockets"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ROF"
+msgid "%1/min"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ROUNDS"
+msgid "%1 rounds"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ROUT"
+msgid "FALLING BACK!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "RPLY_END"
+msgid "End of the replay."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "RPLY_LIVE"
+msgid "LIVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "RPLY_NTRL"
+msgid "Neutral"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "RPLY_SPD"
+msgid "Speed %1x"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "RPLY_STAIN"
+msgid "Game will start in %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SAIL_COAS"
+msgid "COASTAL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SAIL_DEPS"
+msgid "DEEP SEA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SAIL_RIVR"
+msgid "RIVERINE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SAVE_BTN"
+msgid "SAVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SCALLIES"
+msgid "Allies %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SCAXIS"
+msgid "Axis %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SCCALLIES"
+msgid "Allies"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SCCAXIS"
+msgid "Axis"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SCTEAM"
+msgid "TEAM %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHAKEN"
+msgid "Shaken"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHC_DBGMOV"
+msgid "(DBG)click to move"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHOW_DEL"
+msgid "DELETE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHOW_UNLK"
+msgid "UNLOCK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHRSEARCH"
+msgid "SEARCH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHR_ORDTRS"
+msgid "Transform"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_COHESI"
+msgid "Cohesion Points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_INITIA"
+msgid "Initiative Points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_LAUORD"
+msgid "Send orders"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_MORAL"
+msgid "Morale Points"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_ORDASG"
+msgid "Assignment"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_ORDATK"
+msgid "Strategic Attack"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_ORDREF"
+msgid "Refit"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_ORDREG"
+msgid "Regen"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_ORDRER"
+msgid "Rest & Refit"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_SHOMAP"
+msgid "Show map"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SHT_TODISP"
+msgid "Total disponibility"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_COHESI"
+msgid "The higher cohesion, the more Starting points to deplay at the beginning of a battle."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_INITIA"
+msgid "Initiative left for this unit in this turn."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_LAORDIM"
+msgid "Only the host player can validate orders at the strategical level."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_LAUORD"
+msgid "Start the resolution of all given orders for the day."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_MOR"
+msgid "The first number indicates the moral strength of your Alliance. Moral points can be acquired through tactical victories and destruction of enemy combat groups.\nThe second number indicates the limit to reach to make the enemy Alliance fall down politically."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_MORAL"
+msgid "The higher morale, the more Victory points to reach for your opponent to defeat you during a battle."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_OBJL"
+msgid "Objective lost!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_OBJS"
+msgid "Objective secured!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_ORDASG"
+msgid "Assign aircraft pawn to airport/aircraft carrier in his current zone"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_ORDATK"
+msgid "Attack a pawn directly on the strategic map."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_ORDREF"
+msgid "Spend political points to refit your battlegroup's units."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_ORDREG"
+msgid "Regenerate pawn's health"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_ORDRER"
+msgid "Rest for one day. The battlegroup will recover +%1 cohesion and +%2 morale."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_ORDTRS"
+msgid "Order your battlegroup to transform into a naval or aerial transport unit (embark) or to become a land unit (disembark)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_SHOMAP"
+msgid "Show the map"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SH_TODISP"
+msgid "Total number of units available in the Battlegroup."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SIZE_B"
+msgid "Big"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SIZE_N"
+msgid "Normal"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SIZE_S"
+msgid "Small"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SIZE_VB"
+msgid "Very big"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SIZE_VS"
+msgid "Very small"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SI_NEXT"
+msgid "NEXT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SPEED"
+msgid "%1 km/h"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SPEED_BT"
+msgid "%1 kt"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SR_ALL"
+msgid "ALL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SR_ARMORY"
+msgid "ARMORY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SR_COSTFMT"
+msgid "Cost : %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SR_NOEDIT"
+msgid "This deck is read-only. You may copy it from your deck list in order to edit its content at will."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SR_Title"
+msgid "ACTIVATION POINTS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STRESSED"
+msgid "Stressed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ATKTTL"
+msgid "PLANNIFIED ATTACKS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_DBGMOV"
+msgid "(DBG)MOVE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ENDTUR"
+msgid "END TURN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_HQ"
+msgid "HQ"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_INFTTL"
+msgid "INTEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDASG"
+msgid "ASSIGN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDATK"
+msgid "STRATEGIC\nATTACK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDCAN"
+msgid "CANCEL ORDERS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDDIS"
+msgid "Disembark"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDEMB"
+msgid "Embark"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDLND"
+msgid "Land"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDREF"
+msgid "REFIT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDREG"
+msgid "REGEN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDRER"
+msgid "R & R"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDTRS"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_ORDTTL"
+msgid "BATTLEGROUP ORDERS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_SHOMAP"
+msgid "SHOW MAP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STR_WAITP"
+msgid "Waiting for other players"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STUNNED"
+msgid "STUNNED!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "STUNROUT"
+msgid "FALLING BACK!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ST_COHESI"
+msgid "Cohesion"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ST_INITIA"
+msgid "Initiative"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ST_MORAL"
+msgid "Morale"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ST_TODISP"
+msgid "Units"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SUPPRESS"
+msgid "SUPRESSION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SURREND"
+msgid "%1 is captured! #Player_unit_captured"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SURRENDER"
+msgid "%1 has surrendered!"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "SURREND_EN"
+msgid "%1 has surrendered! #Enemy_unit_captured"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_AAHELO"
+msgid "Helicopter: Anti-Aircraft"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_AGM"
+msgid "Aircraft: Anti-Tank"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_AMPHI"
+msgid "Movement: Amphibious"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_APC"
+msgid "Transport: Armored Personal Carrier"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_ARMCMD"
+msgid "Command: Tracked"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_ARTY"
+msgid "Artillery: Howitzer"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_CAVTNK"
+msgid "Cavalry tank"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_CMD"
+msgid "Command: Wheeled"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_CMDHEL"
+msgid "Command: Helicopter"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_CMDO"
+msgid "Infantry: Commando"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FAoE"
+msgid "Trait: [AoE] Area of Effect"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FCLUS"
+msgid "Trait: [CLUS] Cluster"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FCORR"
+msgid "Trait: [CORR] Corrected shot"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FFnF"
+msgid "Trait: [FnF] Fire & Forget"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FGUID"
+msgid "Trait: [GUID] Guided"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FHEAT"
+msgid "Trait: [HEAT] High Explosive Anti-Tank"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FKE"
+msgid "Trait: [KE] Kinetic"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FLAMTH"
+msgid "Flamethrower"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FLY"
+msgid "Movement: Flying"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FNPLM"
+msgid "Trait: [NPLM] Napalm"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FRAD"
+msgid "Trait: [RAD] Radar"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FSA"
+msgid "Trait: [SA] Semi-Active"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FSMK"
+msgid "Trait: [SMK] Smoke"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_FSTAT"
+msgid "Trait: [STAT] Stationary"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_GUNHE"
+msgid "Helicopter: Gunship"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_IFV"
+msgid "Transport: Infantry Fighting Vehicle"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_INFAA"
+msgid "Infantry: Anti-Aircraft"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_INFAT"
+msgid "Infantry: Anti-Tank"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_INFREG"
+msgid "Infantry: Rifle"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_LOGHEL"
+msgid "Supply: Helicopter"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_LOGTRU"
+msgid "Supply: Vehicle"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_MLRS"
+msgid "Artillery: MLRS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_MOVINF"
+msgid "Movement: Infanterie"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_MOVTRA"
+msgid "Movement: Tracked"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_MOVWHE"
+msgid "Movement: Wheeled"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_MULTIR"
+msgid "Aircraft: Multirole"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_PROTO"
+msgid "Prototype"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_RECHEL"
+msgid "Recon: Helicopter"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_RECVEH"
+msgid "Recon: Vehicule"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_SPAAG"
+msgid "Air Defence: Gun"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_SUPVEH"
+msgid "Fire Support"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_TANK1"
+msgid "MBT: 40$ and less"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_TANK2"
+msgid "MBT: 45$ to 85$"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_TANK3"
+msgid "MBT: 90$ and more"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TAG_TRANHE"
+msgid "Helicopter: Transport"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TC_ERRPOS"
+msgid "INCORRECT POSITION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TC_ERRTARG"
+msgid "NOT A VALID TARGET"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TC_INEFF"
+msgid "INEFFICIENT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TC_MR"
+msgid "MINIMAL RANGE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TC_NCS"
+msgid "NO CLEAR SIGHT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TC_NOLOS"
+msgid "NO LINE OF SIGHT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TC_NOWEAP"
+msgid "NO WEAPON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TC_OOR"
+msgid "OUT OF RANGE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TC_OTC"
+msgid "ANGLE OF CANNON TOO HIGH"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_APMFLD"
+msgid "Anti-personnel minefield"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_ATMFLD"
+msgid "Anti-tank minefield"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_ATTRCH"
+msgid "Anti-tank trench"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BLQ0"
+msgid "Blocking terrain (stage 0)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BLQ1"
+msgid "Blocking terrain (stage 1)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BORD"
+msgid "Border terrain"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BORDER"
+msgid "Border"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BRIDGE"
+msgid "Under bridges"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BUILD"
+msgid "Building"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BUILD2"
+msgid "Building"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BUILD3"
+msgid "Building"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BUILD4"
+msgid "Building"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BUILD5"
+msgid "Building"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_BWIRE"
+msgid "Barbed wire"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_CEREAL"
+msgid "Cereal field"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_COAST"
+msgid "Coast"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_CULT"
+msgid "Cultivation field"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_DEF"
+msgid "Default terrain"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_FOR_H"
+msgid "Heavy Cover"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_FOR_L"
+msgid "Light Cover"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_HEDG_H"
+msgid "Heavy Cover"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_HEDG_L"
+msgid "Light Cover"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_HEDG_M"
+msgid "Medium hedged farmland"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_MGNEST"
+msgid "MG Nest"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_OPNSEA"
+msgid "Open Sea"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_PAS1"
+msgid "Authorized terrain (stage 1)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_PORT"
+msgid "Portal terrain"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_ROCK"
+msgid "Rock"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_ROFO"
+msgid "Rock and Forest\nHeavy cover"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_SMOKEH"
+msgid "Heavy Smoke"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_SMOKEL"
+msgid "Light Smoke"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_SMOKEM"
+msgid "Medium Smoke"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_SWAMP"
+msgid "Swamp\nLight cover"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_TRENCH"
+msgid "Trench"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TER_WATE"
+msgid "Water"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TIMEREMAIN"
+msgid "Time remaining %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TIMETXT"
+msgid "Time elapsed %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TOBS_TITLE"
+msgid "Observator mode, team"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TOO_WEAK"
+msgid "You have been automatically kicked from game since your system's performances are too low."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TRNG_ELITE"
+msgid "Elite"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TRNG_REGUL"
+msgid "Regular"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TRNG_SHOCK"
+msgid "Shock"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TTL_OFFMAP"
+msgid "OFF MAP UNITS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "TYPE"
+msgid "TYPE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "T_HOUR"
+msgid "%1 HOUR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "T_HOURS"
+msgid "%1 HOURS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "T_MINUTES"
+msgid "%1 min."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "T_PIN"
+msgid "Pin this unit for comparison"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "T_SECOND"
+msgid "%1s"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "T_SLASH"
+msgid "/"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "T_SLASH2"
+msgid "%1/%2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "T_UNPIN"
+msgid "Unpin this unit"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPA_GOOD"
+msgid "Good"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPA_HIGH"
+msgid "Very good"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPA_LOW"
+msgid "Bad"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPA_MED"
+msgid "Medium"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPA_VHIGH"
+msgid "Excellent"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPA_VLOW"
+msgid "Very bad"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPO_GOOD"
+msgid "Good"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPO_HIGH"
+msgid "Very good"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPO_LOW"
+msgid "Bad"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPO_MED"
+msgid "Average"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPO_VHIGH"
+msgid "Excellent"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPO_VLOW"
+msgid "Very bad"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPS_HIGH"
+msgid "Good"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPS_LOW"
+msgid "Bad"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPS_MED"
+msgid "Medium"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPS_VHIGH"
+msgid "Very good"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPS_VLOW"
+msgid "Very bad"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_AOE"
+msgid "AOE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_AP"
+msgid "AP"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_HE"
+msgid "HE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_HEAVY"
+msgid "Heavy"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_LIGHT"
+msgid "Light"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_PREC"
+msgid "ACC"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_RANGE"
+msgid "RANGE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_ROF"
+msgid "ROF"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_VLGHT"
+msgid "Very light"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPT_WEAP"
+msgid "WEAPONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPW_METER"
+msgid "%1 m"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPW_NUM"
+msgid "x%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIPW_RPM"
+msgid "%1 r/m"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_AGIL"
+msgid "Agility"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_HVRFTK"
+msgid "Enclosed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_KMH"
+msgid "%1 km/h"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_KMHKMH"
+msgid "%1km/h / %2km/h"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_NOVAL"
+msgid "--"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_NUMBER"
+msgid "Strength"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_OPTICS"
+msgid "Optics"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_PLATTP"
+msgid "Top : %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_PROD"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_REMAIN"
+msgid "(x%1)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_RESIL"
+msgid "Resilience"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_RFTK"
+msgid "Open Top"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_RSPEED"
+msgid "Speed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_SPEED"
+msgid "Speed"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_STEALT"
+msgid "Stealth"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_SUPPLY"
+msgid "Supply"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_TPTBL"
+msgid "Cargo space"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_TPTER"
+msgid "Transport"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_VAL"
+msgid "%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UIP_VEHIC"
+msgid "Vehicle"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UISP_GOOD"
+msgid "Good"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UISP_HIGH"
+msgid "High"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UISP_LOW"
+msgid "Low"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UISP_MED"
+msgid "Normal"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UISP_VHIGH"
+msgid "Very high"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UISP_VLOW"
+msgid "Very low"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UNIT_NBR"
+msgid "%1 UNITS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UNIT_U_ATT"
+msgid "Unit %1 is under attack! #Unit_under_attack"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UNKNWN_NB"
+msgid "?"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UNKNWN_TXT"
+msgid "????????"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UNT_SUP_LO"
+msgid "Supply boat captured by the enemy !"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UNT_SUP_TK"
+msgid "Enemy supply boat captured."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "UnkwnUnit"
+msgid "unknown"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VC_MAJDEF"
+msgid "Our forces got a major defeat because our destruction points (%1pts) are under %2%% the sustainable losses of the enemy forces (%3pts)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VC_MAJWIN"
+msgid "Our forces got a major victory because the destruction points of our enemy (%1pts) are under %2%% of our sustainable losses (%3pts)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VC_MINDEF"
+msgid "Our forces got a minor defeat because our destruction points (%1pts) are under %2%% the sustainable losses of the enemy forces (%3pts)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VC_MINWIN"
+msgid "Our forces got a minor victory because the destruction points of our enemy (%1pts) are under %2%% of our sustainable losses (%3pts)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VC_TOTDEF"
+msgid "Our forces got a total defeat because our destruction points (%1pts) are under %2%% the sustainable losses of the enemy forces (%3pts)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VC_TOTWIN"
+msgid "Our forces got a total victory because the destruction points of our enemy (%1pts) are under %2%% of our sustainable losses (%3pts)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VGOOD"
+msgid "Very good"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VICFORMAT"
+msgid "%1 in %2"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VICPOINTS"
+msgid "+%1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VICPOINTS0"
+msgid "+0"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "VIS_INSFC"
+msgid "Insufficient visibility"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "WAIT_OPP"
+msgid "Turn %1 - %2's Turn..."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "WEAPONS"
+msgid "WEAPONS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "WORRIED"
+msgid "Worried"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "WeaponOff"
+msgid "OFF"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "WeaponOn"
+msgid "ON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_A"
+msgid "ALPHA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_B"
+msgid "BRAVO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_C"
+msgid "CHARLIE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_D"
+msgid "DELTA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_E"
+msgid "ECHO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_F"
+msgid "FOXTROT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_G"
+msgid "GOLF"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_H"
+msgid "HOTEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_I"
+msgid "INDIA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_J"
+msgid "JULIETT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_K"
+msgid "KILO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_L"
+msgid "LIMA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_M"
+msgid "MIKE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_N"
+msgid "NOVEMBER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_O"
+msgid "OSCAR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_P"
+msgid "PAPA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_Q"
+msgid "QUEBEC"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_R"
+msgid "ROMEO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_S"
+msgid "SIERRA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_T"
+msgid "TANGO"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_U"
+msgid "UNIFORM"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_V"
+msgid "VICTOR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_W"
+msgid "WHISKEY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_X"
+msgid "X-RAY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_Y"
+msgid "YANKEE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEOTAN_Z"
+msgid "ZULU"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_A"
+msgid "ANNA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_B"
+msgid "BORIS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_C"
+msgid "CENTER"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_D"
+msgid "DMITRI"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_E"
+msgid "ELENA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_F"
+msgid "FEDOR"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_G"
+msgid "GREGORY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_H"
+msgid "CHARITON"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_I"
+msgid "IVAN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_J"
+msgid "JOT"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_K"
+msgid "CONSTANTINE"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_L"
+msgid "LEONID"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_M"
+msgid "MICHAEL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_N"
+msgid "NICHOLAS"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_O"
+msgid "OLGA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_P"
+msgid "PAUL"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_Q"
+msgid "JACOB"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_R"
+msgid "ROMAN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_S"
+msgid "SERGEY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_T"
+msgid "TATIANA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_U"
+msgid "ULIANA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_V"
+msgid "VASILY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_W"
+msgid "VISKI"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_X"
+msgid "SIGN"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_Y"
+msgid "IGREK"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONEPACT_Z"
+msgid "EMMA"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONETO_NAM"
+msgid "To %1"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONE_ENEMY"
+msgid "Objective %1 secured by an enemy."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONE_LOST"
+msgid "Objective %1 lost."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ZONE_SECUR"
+msgid "Objective %1 secured."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "hd_Repli"
+msgid "A pinned down squad will retreat from the enemy (30s)."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "hd_kamikaz"
+msgid "Move next to the targeted ennemy and explode."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "hd_movedie"
+msgid "Move next to the targeted position and explode."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "hd_suicide"
+msgid "The unit self-destruct instantly, triggering a huge blast."
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ht_Repli"
+msgid "FALL BACK (30s)"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ht_kamikaz"
+msgid "EXPLODE ON ENEMY"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ht_movedie"
+msgid "EXPLODE ON POSITION"
+msgstr ""
+
+#: GameData:\Localisation\INTERFACE_INGAME.csv
+msgctxt "ht_suicide"
+msgid "EXPLODE"
+msgstr ""
+

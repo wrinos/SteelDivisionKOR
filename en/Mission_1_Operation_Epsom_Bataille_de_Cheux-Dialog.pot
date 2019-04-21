@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_0_HNT"
+msgid "The lads are ready, sir."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_1_HNT"
+msgid "Cheux is still not secured, sir. The Germans will be counter-attacking soon, anyway. If they catch us in the open, it will be a bloodbath!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_2_HNT"
+msgid "Cheux is ours, sir. Now we should make ready to repel any counter-attack."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_3_HNT"
+msgid "31st Tank Brigade is taking heavy casualties. The more tanks it loses here, the fewer it'll be able to provide as support for our future operations. It would be a smart move to lend them a hand."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_4_HNT"
+msgid "The German counter-attack is faltering, sir. Let's keep the pressure on, and they'll soon be in full retreat."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_5_HNT"
+msgid "We are losing control over Cheux, sir. We should send reinforcements to the city."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_6_HNT"
+msgid "The Germans are trying to retake Cheux. Engaging them in the outskirts might be to our disadvantage"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_7_HNT"
+msgid "Sir, the Germans are coming with tanks and armoured support"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_8_HNT"
+msgid "The German garrison has artillery support. We should deal with it directly or by counter-artillery fire."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_9_HNT"
+msgid "The Germans have set defensive positions ahead of Cheux. Artillery smoke rounds should help us to close on them without too much damage."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DARTY"
+msgid "Self-propelled mortars and 25-pdr guns are good assets to silence MGs and anti-tanks guns, both with explosives or smoke shells."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DARTY2"
+msgid "They will be vital in supporting our attack on Cheux, as well as in helping our friends from the 31st Tank Brigade."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DAT"
+msgid "Anti-tank guns will play a major role in this battle. Our 6-pdr should support our advance on Cheux, while the 17-pdr should be deployed to cover its approach once the city is in our hands."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DAT2"
+msgid "The latter are our only means of destroying medium Panzer at long-range. We should leave some leaders with them, to repel incoming counter-attacks. PIAT teams will also be useful against Panzers in urban battle."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DINF"
+msgid "Our veteran infantry will be crucial to take and hold Cheux. But be aware that they don't have close-range anti-tank weapons... except for Rifle Leaders."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DINF2"
+msgid "The latter will have a dual role: they will both strengthen nearby units AND be very useful with their PIAT against enemy tanks in the city. Make sure that these officers accompany each of your infantry groups."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DSUPP"
+msgid "Churchill AVRE are equipped with a powerful 290mm gun, perfect for destroying defensive positions."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DSUPP2"
+msgid "Our Bedford trucks are carrying supplies that will be much needed by our artillery and anti-tank guns."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_DTANK"
+msgid "Honey Stuarts are way outclassed by German tanks. We should use them to support our infantry, but fall back wherever the Panzers are showing up. Let our anti-tank guns deal with them."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_ECHEC"
+msgid "Cheux is too firmly in German hands, sir. We must retreat."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_ECHEC2"
+msgid "Our men have been repelled from Cheux, sir"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_OBJP"
+msgid "Our objective is here: Cheux"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Operation_Epsom_Bataille_de_Cheux\Scripting\Dialog.csv
+msgctxt "21_VICTO"
+msgid "The Germans have had enough for today, sir, they're breaking off! Cheux remains ours."
+msgstr ""
+

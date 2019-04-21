@@ -1,0 +1,123 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_0_HNT"
+msgid "This is the last push, Herr Major. The men are eager to fight."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_1_HNT"
+msgid "The Panther tanks placed under your command by the 12. SS Panzer have arrived, Herr Major. We could use them for a major push forward."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_2_HNT"
+msgid "The Tommies have reinforced the beachhead. They are trying to break our offensive."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_3_HNT"
+msgid "The Allies are gaining the upper hand, Herr Major. We must take back the initiative."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_4_HNT"
+msgid "The Allies are pushing forward with everything they've got. They are determined to crush us once and for all."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_5_HNT"
+msgid "12. SS-Panzer's main tank has been destroyed, Herr Oberst."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_6_HNT"
+msgid "They are about to break, Herr Major. We just have to finish them off."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_7_HNT"
+msgid "We can still turn the tide of the battle in our favour, Herr Major…"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_8_HNT"
+msgid "We were so close, Herr Major, but how could we triumph over such numbers? ... Now, we can only fight for honour."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DAA"
+msgid "The enemy air force is expected to be very strong. Wirbelwind and Möbelwagen will give allied pilots a hard time, and could even be used against light ground units."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DAIR"
+msgid "Ju 87G with twin 37mm anti-tank guns are deadly even against the heaviest vehicles, while Ju 88 will smash anything with their 500kg bombs."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DAIR2"
+msgid "The RAF will send anything it has in this struggle. Be careful, and use your bombers under protection of our own Flak or fighters."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DAIR3"
+msgid "At the least, many Fw 190 fighters still serviceable in the sector will be there much sooner to cover us."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DART"
+msgid "We have been granted additional fire missions (Beo. PZ. IVH): try to fix the enemy, and then call a heavy artillery strike on their concentrations."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DINF"
+msgid "We should deploy everything we have in Phase A to hold the ground, and await the arrival of the Panthers in Phase B."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DINF2"
+msgid "We need to hold enough ground as possible to avoid an early defeat!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DTANK"
+msgid "Panther tanks will be available in Phase B. We could use them as an iron fist to break the Anglo-Canadians."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_DTANK2"
+msgid "These tanks are strong but not invincible: protect them with anti-air and infantry units, and avoid close-range combat."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_ECHEC"
+msgid "The beachhead is too strong, Herr Major. There's nothing we could have done against such odds."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_OBJP"
+msgid "Let's give Tommy a second Dunkirk."
+msgstr ""
+
+#: GameData:\Map\Scenario\Campagne_Dash_to_the_sea_Mission4_The_Lion_s_Den\Scripting\Dialog.csv
+msgctxt "14_VICTO"
+msgid "They are trying to reembark. It is another Dunkirk, Herr Major. We pushed them back to the sea!"
+msgstr ""
+

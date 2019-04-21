@@ -1,0 +1,453 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "CANCEL"
+msgid "Cancel"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "CLOSE"
+msgid "Close"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWATTACH"
+msgid "Attach More File(s)…"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWCAP"
+msgid "Error Report Details"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWCLICK"
+msgid "Double-click an item to open it with an appropriate program."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWDEL"
+msgid "Delete Selected File(s)"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWDESC"
+msgid "Description"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWDUMPDSC"
+msgid "Crash Minidump"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWDXDDSC"
+msgid "DirectX Diagnostic"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWENC"
+msgid "Text encoding"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWEXPORT"
+msgid "Export…"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWNAME"
+msgid "Name"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWNODATA"
+msgid "No data to display"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWOPEN"
+msgid "Open"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWPREVAUT"
+msgid "Auto"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWPREVHEX"
+msgid "Hex"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWPREVIEW"
+msgid "Preview"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWPREVIMG"
+msgid "Image"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWPREVTXT"
+msgid "Text"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWPREVVID"
+msgid "Video"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWRKDSC"
+msgid "Registry Key Dump"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWSCDSC"
+msgid "Desktop Screenshot"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWSIZE"
+msgid "Size"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWVIDDSC"
+msgid "Desktop Video Capture"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "DWXMLDSC"
+msgid "Crash Description XML"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "LANGUAGE"
+msgid "English"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWADDINFO"
+msgid "Provide additional info about the problem (recommended)."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWCAP"
+msgid "Error Report"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWCLOSE"
+msgid "Close the program"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWCST"
+msgid "By pressing the “Send report” button, I confirm that I am familiar with the contents of the report and accept the terms of the Privacy Policy."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWCST2"
+msgid "By pressing the “Send report” button, I confirm that I am familiar with the contents of the report."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWDUMP"
+msgid "A core dump was generated in %1."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWEMAIL"
+msgid "Your E-mail (optional):"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWHDR"
+msgid "%1 has stopped working"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWINVMCAP"
+msgid "Invalid E-mail"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWINVMTXT"
+msgid "Please specify a valid E-mail address, for example, name@hotmail.com."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWLATER"
+msgid "Close the program and send report later"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWLOCDATA"
+msgid "Local data were generated in %1: %2."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWOTHER"
+msgid "Other actions…"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWPBDESC"
+msgid "Describe in a few words what you were doing when the error occurred:"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWRESTART"
+msgid "Restart %1 after this window is closed."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWRPTCONT"
+msgid "What does this report contain?"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWSEND"
+msgid "Send report"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "MWSUBHDR"
+msgid "Please send us this error report (%1) to help fix the problem and improve this software."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PRIVPOL"
+msgid "Privacy Policy"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWCANCEL"
+msgid "Cancelling…"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWCAP"
+msgid "%1 - Sending Error Report"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWCAP2"
+msgid "%1 has stopped working"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWCAPEXP"
+msgid "%1 - Exporting Error Report"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWCOLLECT"
+msgid "Collecting information about the problem…"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWCOMP"
+msgid "Compressing error report files…"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWCOMPERR"
+msgid "Completed with errors. Press Close to close this window."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWCOPYALL"
+msgid "Copy the whole log"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWCPLINES"
+msgid "Copy selected lines"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWEXPERR"
+msgid "Export completed with errors. Press Close to close this window."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWMAIL"
+msgid "The error report can be sent using your default E-mail program (%1).\nTo run the E-mail program, Press “OK”, otherwise press “Cancel”."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "PWSTATUS"
+msgid "The error report is now being sent (attempt %1 of 3)…"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWBALCAP"
+msgid "%1 - Error Reports"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWBALTXT"
+msgid "Some errors occurred in %1 recently. Click here to send error reports now."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWCAP"
+msgid "%1 - Send Error Reports"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWCLSNOR"
+msgid "Close this window and never remind again"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWCLSREM"
+msgid "Close this window, but remind me later"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWCREATIM"
+msgid "Creation Date"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWCST"
+msgid "By pressing the “Send report” button, I confirm that I am familiar with the contents of selected reports and accept the terms of the Privacy Policy."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWCST2"
+msgid "By pressing the “Send report” button, I confirm that I am familiar with the contents of selected reports."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWCURACT"
+msgid "Current action:"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWDELIVER"
+msgid "Delivering error reports…"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWDELIVF"
+msgid "Error report delivery completed with errors."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWDELIVS"
+msgid "Error reports were delivered successfully."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWDETAILS"
+msgid "Double-click an item to see details."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWDSLCT"
+msgid "Delete selected"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWDSLCTA"
+msgid "Deselect all"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWEXIT"
+msgid "Exit"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWFAIL"
+msgid "Failed"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWLOG"
+msgid "Show log"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWPENDING"
+msgid "Pending"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWPROGRES"
+msgid "In progress…"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWSELECT"
+msgid "Select all"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWSEND"
+msgid "Send now"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWSHOW"
+msgid "Show"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWSIZE"
+msgid "Size"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWSLCTION"
+msgid "Items selected: %1. Total size: %2."
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWSTATUS"
+msgid "Status"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWSUCCESS"
+msgid "Succeeded"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "RWSUPPR"
+msgid "Delete all"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "VWALLOW"
+msgid "Allow"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "VWCAP"
+msgid "%1 - Screen Video Capture"
+msgstr ""
+
+#: GameData:\Localisation\CRASH_SENDER.csv
+msgctxt "VWTXT"
+msgid "%1 is going to start video capture of your screen to help better understand and fix errors that occur in this software. Note that screen capture may reduce performance of your computer. To continue, click the 'Allow' button."
+msgstr ""
+

@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "33HsYSy31N"
+msgid "Far more better with the tubes..!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "7itnNk0qhC"
+msgid "Neutralise the s.MG 42."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "8QMv6kCcVd"
+msgid "Kill the MG using the mortars."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "9852NMulkg"
+msgid "Assault using the AB Mortar 60mm smoke or with min. 2 AB Rifles on the s.MG 42."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "EWKY870y03"
+msgid "Inspect the farm."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "EuJjRo73Sn"
+msgid "Option 1"
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "ekgDbCsVse"
+msgid "Locate enemy position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "h4XaGypI48"
+msgid "Unload the AB Mortar 60mm and shellfire on the s.MG 42 position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "n79axK9LiU"
+msgid "Kill or capture the enemy unit."
+msgstr ""
+
+#: GameData:\Map\Scenario\Tutorial_3\Scripting\Localization.csv
+msgctxt "plXqfkXYq7"
+msgid "Options 2 & 3"
+msgstr ""
+

@@ -1,0 +1,138 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0"
+"Content-Transfer-Encoding: 8bit"
+"Content-Type: text/plain; charset=UTF-8"
+"PO-Revision-Date: "
+"Last-Translator: wrinos"
+"Language-Team: wrinos Korean Team"
+"Language: ko"
+"X-Generator: wrinos's program"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_0_HNT"
+msgid "Kampfgruppe at your orders, Herr Major."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_1_HNT"
+msgid "The Tommies are here!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_2_HNT"
+msgid "Saint-Aubin seems to be the perfect place for an ambush, Herr Major."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_3_HNT"
+msgid "British troops have broken through, mein Herr, they're already on their way to reinforce the bridge."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_4_HNT"
+msgid "Wn14 is calling for help, Herr Major. They can't hold much longer without reinforcements."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_5_HNT"
+msgid "The British are breaking through, mein Herr. If we don't stop them now, we won't be able to retake the bridge later."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_6_HNT"
+msgid "Their casualties are mounting, they won't be able to keep on coming this way much longer..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_7_HNT"
+msgid "The line is mostly holding, mein Herr. If we can ensure that no more enemy units get through, retaking the bridge shouldn't prove too difficult."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_8_HNT"
+msgid "Wn14 reports one of its 88 destroyed, mein Herr. Saving the remaining gun could be of huge benefit later."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_9_HNT"
+msgid "The garrison at Ouistreham has lost both its 88mm guns, Herr Major. That's a terrible blow to their defence."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DAA"
+msgid "We'll have to position them skillfully to shoot enemy tanks at long-range or from the side."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DAIR"
+msgid "The Allies are dominating the sky. Should we call Ju 87D for air support? We will have to keep them close to our Flak cover or under Me 109 escort."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DAIR2"
+msgid "Storch recon planes could help us locate the British main axis of advance, and where they intend to break through our lines. Me 109 fighters should be able to engage enemy planes and strafe ground units if needed. As for the Stukas, they will allow us to bomb enemy columns and support our troops as closely as possible."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DAT"
+msgid "PaK 38, PaK 40 and S307(f) PaK anti-tank guns are our best assets to win this battle!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DECK"
+msgid "Compose your battlegroup"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DINF"
+msgid "Our Panzer-Grenadiers, supported by their armoured transport, are unmatched. Their Panzerfaust can destroy any tank at close-range."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DINF2"
+msgid "But keep in mind to avoid wasting them, as we won't get replacements any time soon!"
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DSUPP"
+msgid "The Sd.Kfz 250/9, with its 20mm auto-cannon, is deadly against infantry and light vehicles, but it must be kept away from enemy tanks."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DSUPP2"
+msgid "We still have a short time to position troops in Ouistreham in support of the garrison. No doubt some ammo supplies would help them hold their position."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DTANK"
+msgid "Our only tanks are those obsolete French Somuas. They can provide fire support against lighter armours, but don't squander them against enemy Shermans as they can't match them."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_DTANK2"
+msgid "Their main advantage is to be immediately available (Phase A)."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_ECHEC"
+msgid "They've gone through, mein Herr. There's nothing more we can do. The Allied bridgehead is too firmly established..."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_OBJP"
+msgid "We can't let them reach that point."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_OBJS"
+msgid "Elements from 736. Grenadier are holding Ouistreham here."
+msgstr ""
+
+#: GameData:\Map\Scenario\Mission_1_Dash_to_the_sea_parrying_the_sword\Scripting\Dialog.csv
+msgctxt "11_VICTO"
+msgid "They're giving up for now, Herr Major. This respite should give us the time to regroup with the rest of the division. The 736. Grenadier will relieve us on our positions."
+msgstr ""
+
